@@ -9,7 +9,6 @@ a.nav-abstract {
 
 .wch-title {
     text-transform: uppercase;
-    text-decoration-style: solid;
     padding-bottom: 5px;
 }
 
@@ -20,4 +19,15 @@ a.nav-abstract {
 .wch-inst {
     text-align: center;
     padding-bottom: 20px;
+}
+
+.wch-bibl {
+    margin-top: 10px;
+    text-align: right;
+    border-top: dashed;
+    border-top-width: 1px;
+}
+
+.wch-abstr-text {
+    padding-top: 10px;
 }
