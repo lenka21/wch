@@ -19,16 +19,67 @@
   </head>
     <body>
         <div class="container">
-            <nav class="navbar navbar-default">
-                <div class="container">
-                    <p class="navbar-text"><a href="#" class="navbar-link">Aktualności</a></p>
-                    <p class="navbar-text"><a href="#editor" class="navbar-link">Redakcja</a></p>
-                    <p class="navbar-text"><a href="sprzedaz.html" class="navbar-link">Subskrypcja i sprzedaż</a></p>
-                    <p class="navbar-text"><a href="regulamin.html" class="navbar-link">Regulamin</a></p>
-                    <p class="navbar-text"><a href="recenzenci.html" class="navbar-link">Recenzenci</a></p>
-                    <p class="navbar-text"><a href="#abstracts" class="navbar-link">Abstrakty</a></p>
-                    <p class="navbar-text"><a href="http://www.dbc.wroc.pl/dlibra/publication/2181" class="navbar-link" target="_blank">Dostęp online, zawartość zeszytów, artykuły</a></p>
-                </div>
+            <nav class="navbar navbar-default" role="navigation">
+                <div class="container-fluid">
+                    <div class="navbar-header">
+                        <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-collapse-1">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+                    </div>
+                    <div class="collapse navbar-collapse" id="navbar-collapse-1">
+                        <ul class="nav navbar-nav">
+                            <li class="active"><a href="index.html" class="navbar-link">Aktualności<span class="sr-only">(current)</span></a></li>
+                            <li><a href="index.html#editor" class="navbar-link">Redakcja</a></li>
+                            <li><a href="sprzedaz.html" class="navbar-link">Subskrypcja i sprzedaż</a></li>
+                            <li><a href="regulamin.html" class="navbar-link">Regulamin</a></li>
+                            <li><a href="recenzenci.html" class="navbar-link">Recenzenci</a></li>
+                            <li class="dropdown"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Abstrakty <b class="caret"></b></a>
+                                <ul class="dropdown-menu">
+                                    <li class="dropdown dropdown-submenu"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Lata 2011-2015</a>
+                                        <ul class="dropdown-menu">
+                                            <li><a href="abstract2015.html">2015</a></li>
+                                            <li><a href="#">2014</a></li>
+                                            <li><a href="#">2013</a></li>
+                                            <li><a href="#">2012</a></li>
+                                            <li><a href="#">2011</a></li>
+                                        </ul>
+                                    </li>
+                                    <li class="dropdown dropdown-submenu"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Lata 2006-2010</a>
+                                        <ul class="dropdown-menu">
+                                            <li><a href="#">2010</a></li>
+                                            <li><a href="#">2009</a></li>
+                                            <li><a href="#">2008</a></li>
+                                            <li><a href="#">2007</a></li>
+                                            <li><a href="#">2006</a></li>
+                                        </ul>
+                                    </li>
+                                    <li class="dropdown dropdown-submenu"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Lata 2001-2005</a>
+                                        <ul class="dropdown-menu">
+                                            <li><a href="#">2005</a></li>
+                                            <li><a href="#">2004</a></li>
+                                            <li><a href="#">2003</a></li>
+                                            <li><a href="#">2002</a></li>
+                                            <li><a href="#">2001</a></li>
+                                        </ul>
+                                    </li>
+                                    <li class="dropdown dropdown-submenu"><a href="#" class="dropdown-toggle" data-toggle="dropdown">Lata 1996-2000</a>
+                                        <ul class="dropdown-menu">
+                                            <li><a href="#">2000</a></li>
+                                            <li><a href="#">1999</a></li>
+                                            <li><a href="#">1998</a></li>
+                                            <li><a href="#">1997</a></li>
+                                            <li><a href="#">1996</a></li>
+                                        </ul>
+                                    </li>
+                                </ul>
+                            </li>
+                            <li><a href="http://www.dbc.wroc.pl/dlibra/publication/2181" class="navbar-link" target="_blank">Dostęp online, zawartość zeszytów, artykuły</a></li>
+                        </ul>
+                    </div><!-- /.navbar-collapse -->
+                </div><!-- /.container-fluid -->
             </nav>
             <div class="jumbotron">
                 <div class="row">
@@ -184,65 +235,66 @@
             <!--</div>-->
 
 
-            <div class="panel panel-info">
-                <div class="panel-heading" id="abstracts">
-                <h4>Abstrakty</h4>
-                </div>
-                <div class="panel-body">
-                    <div class="btn-group dropup">
-                        <button type="button" class="btn btn-info dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                            Lata 1996-2000 <span class="caret"></span>
-                        </button>
-                        <ul class="dropdown-menu">
-                            <li><a href="#">1996</a></li>
-                            <li><a href="#">1997</a></li>
-                            <li><a href="#">1998</a></li>
-                            <li><a href="#">1999</a></li>
-                            <li><a href="#">2000</a></li>
-                        </ul>
-                    </div>
-                    <div class="btn-group dropup">
-                        <button type="button" class="btn btn-info dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                            Lata 2001-2005 <span class="caret"></span>
-                        </button>
-                        <ul class="dropdown-menu">
-                            <li><a href="#">2001</li>
-                            <li><a href="#">2002</a></li>
-                            <li><a href="#">2003</a></li>
-                            <li><a href="#">2004</a></li>
-                            <li><a href="#">2005</a></li>
-                        </ul>
-                    </div>
-                    <div class="btn-group dropup">
-                        <button type="button" class="btn btn-info dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                            Lata 2006-2010 <span class="caret"></span>
-                        </button>
-                        <ul class="dropdown-menu">
-                            <li><a href="#">2006</a></li>
-                            <li><a href="#">2007</a></li>
-                            <li><a href="#">2008</a></li>
-                            <li><a href="#">2009</a></li>
-                            <li><a href="#">2010</a></li>
-                        </ul>
-                    </div>
-                    <div class="btn-group dropup">
-                        <button type="button" class="btn btn-info dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
-                            Lata 2011-2015 <span class="caret"></span>
-                        </button>
-                        <ul class="dropdown-menu">
-                            <li><a href="#">2011</a></li>
-                            <li><a href="#">2012</a></li>
-                            <li><a href="#">2013</a></li>
-                            <li><a href="#">2014</a></li>
-                            <li><a href="abstract2015.html">2015</a></li>
-                        </ul>
-                    </div>
-                </div>
-            </div>
+            <!--<div class="panel panel-info">-->
+                <!--<div class="panel-heading" id="abstracts">-->
+                <!--<h4>Abstrakty</h4>-->
+                <!--</div>-->
+                <!--<div class="panel-body">-->
+                    <!--<div class="btn-group dropup">-->
+                        <!--<button type="button" class="btn btn-info dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">-->
+                            <!--Lata 1996-2000 <span class="caret"></span>-->
+                        <!--</button>-->
+                        <!--<ul class="dropdown-menu">-->
+                            <!--<li><a href="#">1996</a></li>-->
+                            <!--<li><a href="#">1997</a></li>-->
+                            <!--<li><a href="#">1998</a></li>-->
+                            <!--<li><a href="#">1999</a></li>-->
+                            <!--<li><a href="#">2000</a></li>-->
+                        <!--</ul>-->
+                    <!--</div>-->
+                    <!--<div class="btn-group dropup">-->
+                        <!--<button type="button" class="btn btn-info dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">-->
+                            <!--Lata 2001-2005 <span class="caret"></span>-->
+                        <!--</button>-->
+                        <!--<ul class="dropdown-menu">-->
+                            <!--<li><a href="#">2001</a></li>-->
+                            <!--<li><a href="#">2002</a></li>-->
+                            <!--<li><a href="#">2003</a></li>-->
+                            <!--<li><a href="#">2004</a></li>-->
+                            <!--<li><a href="#">2005</a></li>-->
+                        <!--</ul>-->
+                    <!--</div>-->
+                    <!--<div class="btn-group dropup">-->
+                        <!--<button type="button" class="btn btn-info dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">-->
+                            <!--Lata 2006-2010 <span class="caret"></span>-->
+                        <!--</button>-->
+                        <!--<ul class="dropdown-menu">-->
+                            <!--<li><a href="#">2006</a></li>-->
+                            <!--<li><a href="#">2007</a></li>-->
+                            <!--<li><a href="#">2008</a></li>-->
+                            <!--<li><a href="#">2009</a></li>-->
+                            <!--<li><a href="#">2010</a></li>-->
+                        <!--</ul>-->
+                    <!--</div>-->
+                    <!--<div class="btn-group dropup">-->
+                        <!--<button type="button" class="btn btn-info dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">-->
+                            <!--Lata 2011-2015 <span class="caret"></span>-->
+                        <!--</button>-->
+                        <!--<ul class="dropdown-menu">-->
+                            <!--<li><a href="#">2011</a></li>-->
+                            <!--<li><a href="#">2012</a></li>-->
+                            <!--<li><a href="#">2013</a></li>-->
+                            <!--<li><a href="#">2014</a></li>-->
+                            <!--<li><a href="abstract2015.html">2015</a></li>-->
+                        <!--</ul>-->
+                    <!--</div>-->
+                <!--</div>-->
+            <!--</div>-->
         </div>
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <script src="js/bootstrap.min.js"></script>
+    <script src="js/main.js"></script>
     </body>
 </html>
