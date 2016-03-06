@@ -31,3 +31,11 @@ a.nav-abstract {
 .wch-abstr-text {
     padding-top: 10px;
 }
+
+ul.list-none {
+    padding: 0;
+}
+
+ul.list-none li {
+    list-style-type:none
+}
