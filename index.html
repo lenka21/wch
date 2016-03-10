@@ -82,11 +82,11 @@
                                     <li><a href="http://yadda.icm.edu.pl/baztech/element/bwmeta1.element.baztech-journal-0043-5104-wiadomosci_chemiczne" class="navbar-link" target="_blank">BazTech</a></li>
                                 </ul>
                             </li>
-                            <form class="navbar-form navbar-left" role="search">
-                                <div class="form-group">
-                                    <input type="text" class="form-control" placeholder="...">
-                                </div>
-                                <button type="submit" class="btn btn-default">Szukaj</button>
+                            <form class="navbar-form navbar-left" role="search" action="http://www.google.pl/search" method="get">
+                                    <input type="text" class="form-control" placeholder="" name="q" >
+                                    <input type="hidden" name="ie" value="iso-8859-2" />
+                                    <input type="hidden" name="sitesearch" value="wch.magdalenaszumna.pl" />
+                                    <input type="submit" class="btn btn-default" value="Szukaj" />
                             </form>
                         </ul>
                     </div><!-- /.navbar-collapse -->
