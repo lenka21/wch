@@ -1,0 +1,12 @@
+{
+  "items" : [
+    {
+      "name": "kolaczyk",
+      "price": 0.5
+    },
+    {
+      "name": "babka",
+      "price": 10.0
+    }
+  ]
+}
