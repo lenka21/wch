@@ -9,3 +9,16 @@ wchControllers.controller('CiostkoCtrl', ['$scope', '$http',
         });
     }
 ]);
+
+wchControllers.controller('HomeCtrl', ['$scope', '$http',
+    function ($scope, $http) {
+    }
+]);
+
+wchControllers.controller('AbstractCtrl', ['$scope', '$http',
+    function ($scope, $http) {
+        $http.get('abstracts.json').success(function(data){
+            $scope.abstracts = data;
+        });
+    }
+]);
