@@ -1,6 +1,7 @@
 var wchApp = angular.module('wchApp', [
   'ngRoute',
-  'wchControllers'
+  'wchControllers',
+  'ui.bootstrap'
 ]);
 
 wchApp.config(['$routeProvider',
