@@ -1,24 +1,31 @@
-<div role="tablist" aria-multiselectable="true">
-    <div class="panel panel-default" ng-repeat="abstract in abstracts.year1996">
-        <div class="panel-heading" role="tab" id="collapse{{abstract.id}}">
-            <h4 class="panel-title">
-                <a class="nav-abstract collapsed" role="button" data-toggle="collapse" data-parent="#accordion" href="#collapse{{abstract.id}}" aria-expanded="false" aria-controls="collapse{{abstract.id}}"  onclick="return false;">
-                    <div class="wch-title">{{abstract.title}}</div>
-                    <div class="wch-author">{{abstract.authors}}</div>
-                </a>
-            </h4>
-        </div>
-        <div id="collapse{{abstract.id}}" class="panel-collapse collapse" role="tabpanel" aria-labelledby=id="collapse{{abstract.id}}">
-            <div class="panel-body">
-                <div class="wch-inst">
-                    {{abstract.institute}}<br />
-                    e-mail: <a href="mailto:"></a></br>
-                </div>
-                <div class="wch-abstr-text">
-                    {{abstract.abstract}}
-                </div>
-                <div class="wch-bibl">
-                    Wiadomości Chemiczne, {{abstract.ref}}.
+<div class="panel panel-info">
+    <div class="panel-heading" id="abstracts">
+        <h4>Abstrakty 1996</h4>
+    </div>
+    <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+        <div class="panel panel-default" ng-repeat="abstract in abstracts.year2015">
+            <div class="panel-heading" role="tab" id="headingOne">
+                <h4 class="panel-title">
+                    <a class="nav-abstract collapsed" role="button" data-toggle="collapse"  class="no-emphasis" data-parent="#accordion{{$index}}" href="#collapse{{$index}}" aria-expanded="true" aria-controls="collapse{{$index}}"  onclick="return false;">
+                        <div class="wch-title">{{abstract.title}}</div>
+                        <div class="wch-author">{{abstract.authors}}</div>
+                    </a>
+                </h4>
+            </div>
+            <div id="collapse{{$index}}" class="panel-collapse collapse" role="tabpanel">
+                <div class="panel-body">
+                    <div class="wch-inst">
+                        {{abstract.institute}}<br />
+                        <div ng-repeat="email in abstract.emails">
+                            e-mail: <a href="mailto: {{email}}">{{email}}</a></br>
+                        </div>
+                    </div>
+                    <div class="wch-abstr-text">
+                        {{abstract.abstract}}
+                    </div>
+                    <div class="wch-bibl">
+                        Wiadomości Chemiczne, {{abstract.ref}}.
+                    </div>
                 </div>
             </div>
         </div>

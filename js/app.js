@@ -32,6 +32,10 @@ wchApp.config(['$routeProvider',
         templateUrl: 'templates/home/home.html',
         controller: 'HomeCtrl'
       })
+      .when('/editor', {
+        templateUrl: 'templates/editor/editor.html',
+        controller: 'HomeCtrl'
+      })
       .otherwise({
         redirectTo: '/home'
       });
