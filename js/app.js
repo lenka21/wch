@@ -1,6 +1,7 @@
 var wchApp = angular.module('wchApp', [
   'ngRoute',
-  'wchControllers'
+  'wchControllers',
+  'bootstrapSubmenu'
 ]);
 
 wchApp.config(['$routeProvider',
@@ -35,6 +36,10 @@ wchApp.config(['$routeProvider',
       .when('/editor', {
         templateUrl: 'templates/editor/editor.html',
         controller: 'HomeCtrl'
+      })
+      .when('/#abstarct', {
+        templateUrl: 'templates/abstract/abstract.html',
+        controller: 'AbstractCtrl'
       })
       .otherwise({
         redirectTo: '/home'

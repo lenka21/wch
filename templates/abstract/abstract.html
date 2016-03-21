@@ -1,9 +1,9 @@
 <div class="panel panel-info">
     <div class="panel-heading" id="abstracts">
-        <h4>Abstrakty 1996</h4>
+        <h4>Abstrakty {{ year}}</h4>
     </div>
     <div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
-        <div class="panel panel-default" ng-repeat="abstract in abstracts.year2015">
+        <div class="panel panel-default" ng-repeat="abstract in abstracts">
             <div class="panel-heading" role="tab" id="headingOne">
                 <h4 class="panel-title">
                     <a class="nav-abstract collapsed" role="button" data-toggle="collapse"  class="no-emphasis" data-parent="#accordion{{$index}}" href="#collapse{{$index}}" aria-expanded="true" aria-controls="collapse{{$index}}"  onclick="return false;">
