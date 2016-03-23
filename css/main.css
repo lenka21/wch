@@ -39,3 +39,22 @@ ul.list-none {
 ul.list-none li {
     list-style-type:none
 }
+
+
+footer {
+    padding: 30px 15px;
+    margin-bottom: 0;
+    color: inherit;
+    background-color: #e7e7e7;
+    border-radius: 6px;
+}
+
+small {
+    text-align: center;
+}
+
+.copyright {
+    margin: 20px 0 -10px 0;
+}
+
+
