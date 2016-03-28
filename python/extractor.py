@@ -12,7 +12,7 @@ def remove_whitespaces(string):
 
 data = {}
 
-for year in range(1996, 2016):
+for year in [1996]: #range(1996, 2016):
 
     year_data = []
     data[year] = year_data
@@ -28,7 +28,7 @@ for year in range(1996, 2016):
         publication = {
             'title': '',
             'authors': '',
-            'institute': '',
+            'institutes': {},
             'abstract': '',
             'ref': '',
             'emails': []
@@ -63,17 +63,17 @@ for year in range(1996, 2016):
     # institute
     # elems = tree.xpath("//div/div/p[@class='adres']")
     elems = tree.xpath("//div/div/p[contains(@class,'adres') or contains(@class,'ADRES')]")
-    elems = [remove_whitespaces(elem.text_content()) for elem in elems]
+    # elems = [remove_whitespaces(elem.text_content()) for elem in elems]
 
     authors_2007 = None
 
     if year == 1996:
-        elems.insert(16, '')
-        elems.insert(22, '')
+        elems.insert(16, None)
+        elems.insert(22, None)
     elif year == 1998:
         elems.insert(22, '')
     elif year == 2000:
-        elems[33] += ', ' + elems[34]
+        # elems[33] += ', ' + elems[34]
         elems.remove(elems[34])
     elif year == 2001:
         elems.insert(8, '')
@@ -101,12 +101,24 @@ for year in range(1996, 2016):
     if len(elems) != len(year_data):
         print "INSTITUTE: rok " + str(year) + ' jest zepsuty o: ' + str(len(elems) - len(year_data))
     else:
-        for i, institute in enumerate(elems):
-            year_data[i]['institute'] = institute
+        for i, elem in enumerate(elems):
+            # year_data[i]['institute'] = institute
 
-            match = re.findall(r'[\w\.-]+@[\w\.-]+', institute)
-            if match:
-                year_data[i]['emails'] = match
+            if elem != None:
+                children = [elem for elem in elem.getchildren() if elem.tag != 'br']
+
+                if children:
+                    for child in children:
+                        assert child.tag == 'sup'
+                        year_data[i]['institutes'][child.text] = child.tail
+                else:
+                    year_data[i]['institutes']['1'] = remove_whitespaces(elem.text_content())
+
+
+
+            # match = re.findall(r'[\w\.-]+@[\w\.-]+', institute)
+            # if match:
+            #     year_data[i]['emails'] = match
 
             # print institute
 
