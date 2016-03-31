@@ -12,21 +12,27 @@
             <ul class="nav navbar-nav">
                 <li><a href="#/home" class="navbar-link glyphicon glyphicon-home"><span class="sr-only">(current)</span></a></li>
                 <li><a href="#/editor" class="navbar-link">Redakcja</a></li>
-                <li><a href="#/sales" class="navbar-link">Subskrypcja i sprzedaż</a></li>
-                <li><a href="#/terms" class="navbar-link">Regulamin</a></li>
-                <li><a href="#/reviewers" class="navbar-link">Recenzenci</a></li>
+                <!--<li><a href="#/reviewers" class="navbar-link">Recenzenci</a></li>-->
+                <li><a class="dropdown-toggle" data-toggle="dropdown">Dla autorów<b class="caret"></b></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="#/procedures" class="navbar-link">Obowiązujące procedury</a></li>
+                        <li><a href="#/terms" class="navbar-link">Regulamin</a></li>
+                    </ul>
+                </li>
                 <li ng-controller="menuController" class="collapse navbar-collapse">
                     <ul class="nav navbar-nav">
                         <bootstrap-submenu ng-repeat="item in menuItems" menu-item="item">
                         </bootstrap-submenu>
                     </ul>
                 </li>
-                <li><a href="#" class="dropdown-toggle" data-toggle="dropdown">Dostęp online<b class="caret"></b></a>
+                <li><a class="dropdown-toggle" data-toggle="dropdown">Dostęp online<b class="caret"></b></a>
                     <ul class="dropdown-menu">
-                        <li><a href="http://www.dbc.wroc.pl/dlibra/publication/2181" class="navbar-link" target="_blank">Dolnośląska Biblioteka Cyfrowa</a></li>
-                        <li><a href="http://yadda.icm.edu.pl/baztech/element/bwmeta1.element.baztech-journal-0043-5104-wiadomosci_chemiczne" class="navbar-link" target="_blank">BazTech</a></li>
+                        <li><a href="http://www.dbc.wroc.pl/dlibra/publication/2181" class="navbar-link" target="_blank">Zeszyty</a></li>
+                        <li><a href="http://yadda.icm.edu.pl/baztech/element/bwmeta1.element.baztech-journal-0043-5104-wiadomosci_chemiczne" class="navbar-link" target="_blank">Artykuły</a></li>
                     </ul>
                 </li>
+                <li><a href="#/sales" class="navbar-link">Subskrypcja i sprzedaż</a></li>
+                <li><a href="#/contact" class="navbar-link">Kontakt</a></li>
                 <form class="navbar-form navbar-left" role="search" action="http://www.google.pl/search" method="get">
                     <input type="text" class="form-control" placeholder="" name="q" >
                     <input type="hidden" name="ie" value="iso-8859-2" />
