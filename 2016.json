@@ -1,0 +1,98 @@
+{
+  "year2016": [
+    {
+      "title": "Anion alkoksyallenowy w syntezie związków naturalnych i ich analogów",
+      "institute": "Wydział Chemii Uniwersytetu Łódzkiego ul. Tamka 12, 91-403 Łódź",
+      "abstract": "Among diverse systems containing multiple bonds, cumulenes are recognized as the most reactive derivatives towards both nucleophilic and electrophilic agents, and for this reason, they are considered as important class of substrates for organic synthesis. Over the last three decades alkoxyallenes have been demonstrated as highly useful C3-building blocks for the construction of numerous N-, O-, and S-containing heterocycles, including enantiomerically pure compounds. Special attention has been paid to lithiated alkoxyallenes as suitable nucleophiles for the reactions with alkyl halides, strained heterocycles, carbonyl compounds and their derivatives. The presence of the allene unit in the initially formed adducts opens up several possibilities in the preparation of more complex systems. In this review, selected applications of lithiated alkoxyallenes in the synthesis of natural products and their analogues are discussed.",
+      "authors": "Beata Busiak, Greta Utecht, Marcin Jasiński*",
+      "keywords": [
+        "alkoxyallenes",
+        "nucleophilic addition",
+        "organic synthesis",
+        "natural products",
+        "heterocycles"
+      ],
+      "ref": "Wiadomości Chemiczne, 2016, 70, 3",
+      "emails": [
+        "mjasinski@uni.lodz.pl"
+      ]
+    },
+    {
+      "title": "Crosslinking of silicone pressure-sensitive adhesives",
+      "institute": "Zachodniopomorski Uniwersytet Technologiczny w Szczecinie, Wydział Technologii i Inżynierii Chemicznej, ul. Pułaskiego 10, 70-322 Szczecin",
+      "abstract": "<p>Pressure-sensitive adhesives (PSAs) represent a system that actually dates back to the invention of the self-adhesive articles in 1935 when R. Stanton Avery produced the first coating unit using a wooden cigar box with two holes cut in the bottom. PSAs can be defined as a special category of adhesive which in dry form are permanently tacky at room temperature [1–4]. </p><p>Since 1960s, silicone pressure-sensitive adhesives have found many uses. They are used in industrial plants, as tapes for joining materials with low surface energy, as well as in the sectors of electrical and electronic, medical care, health care and automotive industry. For about 10 years there has been great interest in new uses for the silicone PSA, particularly for medical and industrial belts. The above examples describe a growing range of potential commercial applications of silicone pressure-sensitive adhesives. Silicone pressure-sensitive adhesives typically consist of large segments of the silane-functional silicone polymers and silicone resins (MQ). It is well known that silicone pressure-sensitive adhesives because of their unique properties are special-purpose products. The combination of the properties of silicones such as high flexibility of connections Si-O-Si, low intermolecular interaction, low surface tension, excellent thermal stability and transparency for UV radiation, excellent electrical properties, high chemical resistance and weather resistance makes silicone adhesives have improved properties compared to other typical polymeric organic adhesives. Due to the low surface tension of silicone adhesives, adhesive is easily spread on the surface of various materials [4–9].</p><p>The properties of silicone pressure sensitive adhesives (Si-PSA) crosslinking thermally by organic peroxides (according to a radical mechanism) depend on the type and concentration of crosslinker used. Benzoyl peroxide (BPO) and 2,4-dichlorobenzoyl peroxide (DClBPO) are the most commonly used peroxides the industry. Increasing the content of BPO or DClBPO in a predominantly affects significantly increase the cohesion, while reducing the adhesion of tested adhesives [1, 5, 6]. With the market testing of pressure sensitive adhesives and literature studies clearly show that there were no studies to date on the process of UV-curing silicone pressure sensitive adhesives; and there is no sales sided adhesive tapes, silicone crosslinked by UV radiation.</p>",
+      "authors": "Adrian Krzysztof Antosik, Zbigniew Czech",
+      "keywords": [
+        "pressure-sensitive adhesives",
+        "polymer",
+        "silicone pressure-sensitive adhesives"
+      ],
+      "ref": "Wiadomości Chemiczne, 2016, 70, 25",
+      "emails": [
+        "lunatyk88@interia.pl"
+      ]
+    },
+    {
+      "title": "Recent research of compounds with antitubercular activity",
+      "institute": "<sup>1</sup>Katedra i Zakład Chemii Organicznej, Uniwersytet Medyczny im. Piastów Śląskich ul. Borowska 211 A, 50-556 Wrocław <sup>2</sup>Katedra i Zakład Toksykologii, Uniwersytet Medyczny im. Piastów Śląskich ul. Borowska 211, 50-556 Wrocław",
+      "abstract": "<p>Tuberculosis (TB) caused by Mycobacterium tuberculosis (MTB) remains a leading cause of morbidity and mortality in developing countries [1]. With the discovery of chemotherapeutic agents in the 1940s and implementation of directly-observed therapy short course (DOTS) in the 1980s, it was believed that TB would decline globally. Although a declining trend was observed in most developed countries, this was not evident in other parts of the world [2]. In addition, the rate of successful treatment has been compromised in recent years due to the increasing prevalence of multidrug-resistant (MDR-) and extensively drug-resistant TB ­(XDR-TB) strains [3].</p><p>Accordingly, significant efforts have been made to discover and develop new treatment modalities against TB. This article serves as a summary of the most recent developments in search for novel anti-tubercular compounds. Here we focus on reviewing the results of basic research and clinical trials obtained in 2015 including: a) the phase IV clinical trials conducted for newly developed: bedaquiline, delamanid, clofazimine (previously registered for treatment of leprosis) b) phase III for fixed-dose combination of existing drugs: pretomanid – moxifloxacin – pyrazinamide) and c) the phase II clinical trials for sutezolid, AZD5847 and SQ109 [4]. All newly developed compounds used in these studies have been briefly characterized and their synthesis pathways fully described. In addition we review the most recent and promising results on nicotinic acid hydrazides, thienyl-pirimidines imidazole-thiadiazole-benzimidazole and benzocoumarine derivatives presenting their synthesis pathways, most active chemical structures and their potential applications. Throughout this paper the ultimate direction for new drug development strategies, in search for the anti-tubercular agents, have been reviewed.</p>",
+      "authors": "Paulina Płoszaj<sup>1</sup>, Agnieszka Piwowar<sup>2</sup>, Stanisław Ryng<sup>1</sup>",
+      "keywords": [
+        "tuberculosis",
+        "anti-tubercular compounds"
+      ],
+      "ref": "Wiadomości Chemiczne, 2016, 70, 35",
+      "emails": [
+        "paulina.ploszaj@umed.wroc.pl"
+      ]
+    },
+    {
+      "title": "Biogenic amines in their role in living systems",
+      "institute": "<sup>1</sup>A. Mickiewicz University, Faculty of Chemistry ul. Umultowska 89b, 61-614 Poznań <sup>2</sup>Universitat Rovira i Virgili, Departament de Enginyeria Química Av. Països Catalans, 26–43007 Tarragona, Spain",
+      "abstract": "<p>Although polyamines (PA) belong to relatively simple aliphatic substances, their role in life processes of animals and plants is of key importance [1–5]. The group of the most important amines, called biogenic ones includes: Spermine (Spm): H<sub>2</sub>N(CH<sub>2</sub>)<sub>3</sub>NH(CH<sub>2</sub>)<sub>4</sub>NH(CH<sub>2</sub>)<sub>3</sub>NH<sub>2</sub>Spermidine (Spd): H<sub>2</sub>N(CH<sub>2</sub>)<sub>3</sub>NH(CH<sub>2</sub>)<sub>4</sub>NH<sub>2</sub>Putrescine (Put): H<sub>2</sub>N(CH<sub>2</sub>)<sub>4</sub>NH<sub>2</sub>. Of secondary importance are homologues of biogenic amines, occurring in lower contents in living organisms [2, 6–8]: 1,3-diaminopropan: H<sub>2</sub>N(CH<sub>2</sub>)<sub>3</sub>NH<sub>2</sub>Cadaverine: H<sub>2</sub>N(CH<sub>2</sub>)<sub>5</sub>NH<sub>2</sub>Homospermidine: H<sub>2</sub>N(CH<sub>2</sub>)<sub>4</sub>NH(CH<sub>2</sub>)<sub>4</sub>NH<sub>2</sub>Norspermine (3,3,3-tet): H<sub>2</sub>N(CH<sub>2</sub>)<sub>3</sub>NH(CH<sub>2</sub>)<sub>3</sub>NH(CH<sub>2</sub>)<sub>3</sub>NH<sub>2</sub>Thermospermine: H<sub>2</sub>N(CH<sub>2</sub>)<sub>3</sub>NH(CH<sub>2</sub>)<sub>4</sub>NH(CH<sub>2</sub>)<sub>4</sub>NH<sub>2</sub>Caldopentamine: H<sub>2</sub>N(CH<sub>2</sub>)<sub>3</sub>NH(CH<sub>2</sub>)<sub>3</sub>NH(CH<sub>2</sub>)<sub>3</sub>NH(CH<sub>2</sub>)<sub>3</sub>NH<sub>2</sub>.</p><p>The first polyamine discovered in a living organism was tetramine, a spermine crystallised out of sperm in 1678 by Van Leewenkeuk [9]. Putrescine was discovered in the end of the 19th century in microbes and then triamine: spermidine was discovered in the beginning of the 20th century [2]. Later studies have shown that in animal cells spermidine and spermine occur at elevated levels, while in prokaryotes spermidine and putrescine contents are dominant. Putrescine, spermidine, 1,3-diaminopropan, homospermidine, norspermidine, and norspermine have been found in many gramnegative bacteria and algae [7, 10, 11]. </p><p>Total concentration of PA in living organisms is on the order of millimols, however, the concentration of free polyamines is much lower. A low level of free amines follows from the fact that they are involved in noncovalent interactions with biomolecules occurring in living organisms such as nucleic acids, proteins, or phospholipids. High concentrations of non-bonded polyamines have been detected first of all in young molecules in the process of growth, in particular in rapidly proliferating cancer cells [6, 12]. Elevated levels of free polyamines have been observed, e.g. in breast, colon, lung, prostate, and skin tumours, accompanied by changed levels of enzymes responsible for biosynthesis and catabolism of polyamines.</p><p>Because of the increased level of free polyamines and a tendency of their interaction with nucleic acids and other bioligands, these compounds have become objects of intense study [1, 13–19]. There is no doubt that the regulation of biosynthesis of polyamines and catabolism is one of the most important pathways in the search strategy for chemoprevention and chemotherapeutic drugs [14, 15, 20–36]. The present state of knowledge of these processes, their significance in biological systems, and their application in medicine are presented in subsequent sections of this chapter.</p>",
+      "authors": "Renata Jastrząb<sup>1</sup>, Bartosz Tylkowski<sup>1,2</sup>",
+      "keywords": [
+        "polyamines",
+        "biogenic amines",
+        "coordination compounds",
+        "tumors"
+      ],
+      "ref": "Wiadomości Chemiczne, 2016, 70, 57",
+      "emails": [
+        "renatad@amu.edu.pl"
+      ]
+    },
+    {
+      "title": "Milestones in clinical chemistry",
+      "institute": "Zakład Biochemii Klinicznej Instytut Pediatrii Collegium Medicum Uniwersytetu Jagiellońskiego ul. Wielicka 265, Kraków",
+      "abstract": "Clinical chemistry is the science on the border of the two disciplines: medicine and chemistry. It is defined as the application of the chemistry in the study of biological samples in order to diagnose, treat, cure diseases as well as in monitoring and prognosis [1]. Development of clinical chemistry is dated on the 19th century. Biuret test, and a method for detection of sugar in the urine were then described, also blood gases were extracted [13, 17]. In the mid of 19th century blood could be analyzed for the presence of potassium, sodium, phosphorus and calcium [31]. In the second half of 19th century Duboscq built first colorimeter. This model was widely adapted in laboratories and was in use till the 20-ties of 20th century [44]. Colorimetry also became the most popular technique in the clinical chemistry. In the 80ties of 19th century was developed a method for estimating the concentration of creatinine and detection of bilirubin [36, 39]. Increasing number of available laboratory tests resulted in the separation laboratory diagnostic as a distinguish branch of science. At the beginning of 20th century has been introduced quantitative analytical methods for determination of ammonia, urea, creatinine, cholesterol, uric acid, nitrogen, phosphorus, and chloride in biological fluids as well as measurements of blood gases. In 1930 was introduced clinical enzymology with the first method for assessing the activity of alkaline phosphatase. In the mid of 20th century in the medical laboratories routinely were measured amylase, lipase, acid and alkaline phosphatase, phosphocreatine kinase, alanine and asparagine aminotransferases [78, 79]. Development of electrical engineering and computing resulted with intensive development of laboratory instruments. First automated spectrophotometer was invented in 1957 (Autoanalyzer, Technicon company). In 1970, Automatic Clinical Analyzer f. Du Pont was able to perform determinations in any configurations not as so far in the series [99].",
+      "authors": "Katarzyna Klimasz, Przemysław J. Tomasik",
+      "keywords": [
+        "clinical chemistry",
+        "glucose",
+        "protein",
+        "enzymes",
+        "colorimetry"
+      ],
+      "ref": "Wiadomości Chemiczne, 2016, 70, 81",
+      "emails": [
+        "p.tomasik@uj.edu.pl"
+      ]
+    },
+    {
+      "title": "Investigetion (detection) of environment microbial contamination by mass spectrometry. Part 2, 3-hydroxy fatty acids as a lipopolysaccharides (endotoxin) biomarkers of the gram-negative bacterial cell walls",
+      "institute": "COBRO - Instytut Badawczy Opakowań ul. Konstancińska 11, 02-942 Warszawa",
+      "abstract": "<p>Microorganisms synthesize several monomeric chemical structures that are not found elsewhere in nature, e.g. muramic acid (an amino sugar) and D-amino acids (D-alanine and D-glutamic acid) are ubiquitous in bacterial peptidoglycan (PG). Characteristic sugars (e.g. heptoses) and 3-hydroxylated fatty acids are found in the endotoxin (lipopolysaccharide, LPS) of gram-negative bacteria [1]. </p><p>The best way to protect against environment contamination is microbial control. Methods in current use for monitoring microorganisms mainly include culture and direct microscopy. However, several factors, including samples collection, growth conditions, incubation temperature and interaction between different organisms all affected the culture results. </p><p>Additionally, culture based methods can detect only viable organisms and they are also time consuming, sometimes taking days or weeks. </p><p>However, since both living and dead microorganisms express irritating and toxic structures, they should all be taken into consideration.</p><p>Muramic acid has been suggested for use as a chemical marker in gas chromatography-mass spectrometry (GC-MS) determination of bacterial peptidoglycan [2]. While 3-hydroxylated fatty acids are the best proposition for use as a chemical markers in gas chromatography-mass spectrometry determination of bacterial lipopolysaccharide (endotoxin) of gram-negative bacteria in both clinical and environmental samples [38]. Two derivatives have been applied, including the trimethylsilyl (TMS) and pentafluorobenzoyl (PFBO) derivatives [80]. </p><p>Both derivatives (TMS and PFBO) have been proven suitable for use with GC-ion-trap tandem MS [3].</p><p>The aim of our proposition is trial of application of gas chromatography-mass spectrometry (GC-MS) method as an alternative or complement to culturing, microscopy and other assays for detection, characterization and monitoring of microbial contamination of environment (e.g. water, air, air-conditioning systems), contamination of biochemical and food production chain processes, packaging for foodstuffs etc. by analysis of bacterial 3-hydroxylated fatty acids as a biochemical markers.</p><p>A method is described for the quantitation of methyl esters of 3-hydroxyacids, markers of bacterial lipopolysaccharide (endotoxin), as trimethylsilyl or pentafluorobenzoyl derivatives using GC/MS method.</p><p>The described methods are quick and simple, can be applied for monitoring microbial contamination directly, without prior culturing, in complex environmental samples. </p><p>This method can be also applied for testing processes of cleaning and disinfections on packaging materials or on both packaging materials/foodstuffs in order to decrease their microbial load and thus to ensure better shelf-life.</p><p>[1] Z. Mielniczuk, K. Bal, Spektrometria mas w badaniach skażeń mikrobiologicznych środowiska. Część I. Kwas muraminowy jako biomarker ścian komórkowych bakterii, Wiad. Chem., 2012, 66, 445.</p><p>[2] K. Bal, L. Larsson, E. Mielniczuk, Z. Mielniczuk, Structure of muramic acid TMS derivative mass spectrum’s base ion (m/z=185) used for quantification of bacterial peptidoglycan, J. Microbiol. Meth., 2002, 48, 267.</p><p>[3] A. Saraf, L. Larsson, Identification of microorganisms by mass spectrometry, Advances in Mass Spectrometry, 1998, 14, 449.</p><p>[38] Z. Mielniczuk, E. Mielniczuk, L. Larsson, Gas chromatography-mass spectrometry methods for analysis of 2- and 3-hydroxylated fatty acids: Application for endotoxin measurement, J. Microbiol. Meth., 1993, 17, 91.</p><p>[80] Z. Mielniczuk, S. Alugupalli, E. Mielniczuk, L. Larsson, Gas chromatography-mass spectrometry of lipopolysaccharide 3-hydroxy fatty acids: comparison of pentafluorobenzoyl and trimethylsilyl methyl ester derivatives, J. Chromatogr., 1992, 623, 115.</p>",
+      "authors": "Karol Bal, Zbigniew Mielniczuk",
+      "keywords": [
+        "LPS",
+        "lipopolysaccharide",
+        "gas chromatography-mass spectrometry"
+      ],
+      "ref": "Wiadomości Chemiczne, 2016, 70, 95",
+      "emails": [
+        "bal@cobro.org.pl"
+      ]
+    }
+  ]
+}

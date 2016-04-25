@@ -31,7 +31,8 @@ for year in range(1996, 2016):
             'institute': '',
             'abstract': '',
             'ref': '',
-            'emails': []
+            'emails': [],
+            'keywords': ['foo', 'bar'],
         }
         year_data.append(publication)
 

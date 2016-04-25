@@ -1,5 +1,6 @@
 var wchApp = angular.module('wchApp', [
   'ngRoute',
+  'ngSanitize',
   'wchControllers',
   'bootstrapSubmenu'
 ]);

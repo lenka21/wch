@@ -8,20 +8,19 @@
                 <h4 class="panel-title">
                     <a class="nav-abstract collapsed" role="button" data-toggle="collapse"  class="no-emphasis" data-parent="#accordion{{$index}}" href="#collapse{{$index}}" aria-expanded="true" aria-controls="collapse{{$index}}"  onclick="return false;">
                         <div class="wch-title">{{abstract.title}}</div>
-                        <div class="wch-author">{{abstract.authors}}</div>
+                        <div class="wch-author" ng-bind-html="abstract.authors"></div>
                     </a>
                 </h4>
             </div>
             <div id="collapse{{$index}}" class="panel-collapse collapse" role="tabpanel">
                 <div class="panel-body">
                     <div class="wch-inst">
-                        {{abstract.institute}}<br />
+                        <span ng-bind-html="abstract.institute"></span><br />
                         <div ng-repeat="email in abstract.emails">
                             e-mail: <a href="mailto: {{email}}">{{email}}</a></br>
                         </div>
                     </div>
-                    <div class="wch-abstr-text">
-                        {{abstract.abstract}}
+                    <div class="wch-abstr-text" ng-bind-html="abstract.abstract">
                     </div>
                     <div class="wch-bibl">
                         {{abstract.ref}}
