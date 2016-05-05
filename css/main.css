@@ -39,3 +39,11 @@ ul.list-none {
 ul.list-none li {
     list-style-type:none
 }
+
+img.ptch-logo {
+    height: 100px;
+}
+
+.ptch-address {
+    padding-top: 20px;
+}
