@@ -93,6 +93,69 @@
       "emails": [
         "bal@cobro.org.pl"
       ]
+    },
+    {
+      "title": "Synthesis and biological activity of pyrrolo[2,3-<i>d</i>]pyridazine derivatives",
+      "institute": "<sup>1</sup>Katedra i Zakład Chemii Leków Uniwersytetu Medycznego we Wrocławiu ul. Borowska 211, 50-556 Wrocław <sup>2</sup>Katedra i Zakład Chemii Organicznej Uniwersytetu Medycznego we Wrocławiu, ul. Borowska 211a, 50-556 Wrocław",
+      "abstract": "<p>Pyrrolo[2,3-<i>d</i>]pyridazines are one of the four structural isomers of the bicyclic ring system containing pyrrole moiety condensed with a pyridazine ring. This review presents most of the literature data about synthetic pyrrolo[2,3-<i>d</i>]pyridazine derivatives and their biological activity. These 5,6-diazaindole analogues were first synthesized by Fischer et. al. in 1928. Compounds containing the pyrrolo[2,3-<i>d</i>]pyridazine scaffold can be synthesized from different substrates, but the syntheses may be classified into two main categories: annulation of pyrrole ring on to pyridazine derivatives or annulation of pyridazine ring on to pyrrole derivatives. </p><p>Pyrrolo[2,3-<i>d</i>]pyridazine derivatives have attracted considerable interest, owing to diverse biological activities. Most of them have been studied as antitumor and antiviral. Pyrrolo[2,3-<i>d</i>]pyridazines can also be used as acid pump antagonist.</p>",
+      "authors": "Aleksandra Redzicka<sup>1</sup> , Beata Tylińska<sup>2</sup>",
+      "keywords": [
+        "pyrrolo[2,3-<i>d</i>]pyridazine derivative",
+        "biological activity",
+        "synthesis"
+      ],
+      "ref": "Wiadomości Chemiczne, 2016, 70, 141",
+      "emails": [
+        "aleksandra.redzicka@umed.wroc.pl",
+        "beata.tylinska@umed.wroc.pl"
+      ]
+    },
+    {
+      "title": "Isolation And Identification Of Natural Dyestuffs Present In Artistic Paints And textiles Of Historical Origin",
+      "institute": "Katedra Chemii Organicznej, Wydział Chemiczny Politechniki Gdańskiej ul. G. Narutowicza 11/12, 80-233 Gdańsk ",
+      "abstract": "<p>natural organic dyes are group of substances that belong to various types of chemical compounds. The most commonly used in paintings and dyeing textiles were naturally occurring dyestuffs from group of anthraquinones, flavones and indigoid dyes. Identification of coloring substances present in historical artistic paints provides relevant information for a wide range of specialists dealing with works of art and in the field of conservation science. This research presents a review of analytical techniques (mainly chromatographic and spectroscopic) used for identification of dyes. It also describes the methods of colorants isolation from historical artistic paints and textiles. Furthermore, the article presents a brief characteristics of fragmentation reactions of selected groups of dyestuffs, which is useful in their identification.</p>",
+      "authors": "Olga Otłowska, Magdalena Śliwka-Kaszyńska, Aleksander Kołodziejczyk",
+      "keywords": [
+        "natural organic dyes",
+        "analysis LC-DAD-MS",
+        "extraction",
+        "historical artistic paints"
+      ],
+      "ref": "Wiadomości Chemiczne, 2016, 70, 163",
+      "emails": [
+        "olgotlow@student.pg.gda.pl"
+      ]
+    },
+    {
+      "title": "Synthesis and adsorption properties of graphene–Based materials",
+      "institute": "<sup>1</sup>Wojskowa Akademia Techniczna, 00–908 Warszawa, ul. Gen. S. Kaliskiego 2 <sup>2</sup>Department of Chemistry and Biochemistry Kent State University Kent 44–242 OH, USA",
+      "abstract": "<p>New, efficient and cost effective methods for CO<sub>2</sub> capture are needed to keep the clean environment in the era of rising energy demand. Hydrogen is being considered as an ideal energy source for replacing fossil fuels.</p><p>Since the breakthrough work in Science on graphene published in 2004 [22], this material has been intensively studied because of its great potential for applications in many fields of modern technology such as electronics [94–96], energy storage [21, 110, 111] and gas detection [13, 16]. As a two–dimensional, crystalline carbon material, graphene is characterized by superior chemicals and physical properties [2, 5]. The large theoretical specific surface area of graphene (2630 m<sup>2</sup>/g [89]) makes it an excellent material for adsorption applications. Furthermore, graphene–based materials could be doped by heteroatoms (e.g. B [72], N [106]) or decorated with various nanoparticles (e.g. Fe [55], Pd [106], Fe<sub>3</sub>O<sub>4</sub> [8], V<sub>2</sub>O<sub>5</sub> [79], TiO<sub>2</sub> [79]), which significantly improves their adsorption properties. Specific mechanism CO<sub>2</sub> [8] and H<sub>2</sub> [104–106] takes place during adsorption processes on some graphene materials containing metal or metal oxide nanoparticles on their surfaces. </p><p>In this review, the major methods for synthesis of graphene and graphene–based materials are discussed with particular emphasis on “chemical exfoliation”. The possibility of obtaining a high quality graphene material from waste materials such as polystyrene or biological materials such as crustacean skin [37, 41] is also reviewed. An overview of the newest synthesis methods of graphene [46] and modified graphene materials including polymer nanocomposites [61, 62] is presented too. A particular attention is given to CO<sub>2</sub> and H<sub>2</sub> adsorption properties of graphene–based materials [8, 62, 106]. Fe<sub>3</sub>O<sub>4</sub> and Pd decorated graphene materials [8, 106–108] are ones of the most effective adsorbents described so far. These materials show a maximum CO<sub>2</sub> adsorption capacity of 60 mmol/g at 25°C and 11 bar [8] and a maximum hydrogen uptake capacity of 4,4 wt% at 25°C and 40 bar [106]. </p><p>It seems, that modified graphene materials can compete successfully with the currently used adsorbents, including nanoporous carbonaceous materials such as activated carbons, fullerenes, carbon nanotubes [8, 21] or ordered mesoporous carbon materials.</p>",
+      "authors": "Barbara Szczęśniak<sup>1</sup>, Jerzy Choma<sup>1</sup>, Mietek Jaroniec<sup>2</sup>",
+      "keywords": [
+        "synthesis of graphene–based materials",
+        "carbon dioxide adsorption",
+        "hydrogen adsorption"
+      ],
+      "ref": "Wiadomości Chemiczne, 2016, 70, 189",
+      "emails": [
+        ""
+      ]
+    },
+    {
+      "title": "Study on electrochemical absorption of hydrogen in palladium and its alloys using limited volume electrodes",
+      "institute": "Wydział Chemii Uniwersytetu Warszawskiego ul. Pasteura 1, 02-093 Warszawa",
+      "abstract": "<p>The review summarizes the results of the electrochemical studies on hydrogen absorption in Pd and Pd alloys prepared in the form of thin deposits on a hydrogen-neutral matrix. This kind of electrodes, called Limited Volume Electrodes (LVE), enables to limit and control the amount of absorbed hydrogen inside a Pd sample and makes it possible to study the process of hydrogen absorption under electrochemical conditions. The amount of absorbed hydrogen, phase transition potentials, hysteresis effect and the rate of hydrogen absorption/desorption can be determined using cyclic voltammetric, chronoamperometric and chronopotentiometric techniques. The mechanism of the interactions of hydrogen with Pd-LVE is presented. The influence of electrode potential, temperature and Pd layer thickness on the process of hydrogen absorption is discussed. The behavior of Pd alloys towards hydrogen is summarized. The interrelation between hydrogen absorption and surface processes is described. The examples of the use of LVE in applied electrochemistry are given.</p>",
+      "authors": "Mariusz Łukaszewski, Michał Grdeń",
+      "keywords": [
+        "palladium",
+        "hydrogen absorption",
+        "limited volume electrodes",
+        "alloys"
+      ],
+      "ref": "Wiadomości Chemiczne, 2016, 70, 219",
+      "emails": [
+        "maluk@chem.uw.edu.pl"
+      ]
     }
   ]
 }
