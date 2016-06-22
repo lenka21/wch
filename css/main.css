@@ -51,3 +51,8 @@ img.ptch-logo {
 .right-signature {
     text-align:right;
 }
+
+.cover{
+    height: 320px;
+    width: 211px;
+}
