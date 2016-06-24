@@ -56,3 +56,16 @@ img.ptch-logo {
     height: 320px;
     width: 211px;
 }
+
+@media (min-width: 768px) {
+    .navbar-form {
+        width: auto;
+        border: 0;
+        margin-left: -15px;
+        margin-right: -15px;
+        padding-top: 0;
+        padding-bottom: 0;
+        -webkit-box-shadow: none;
+        box-shadow: none;
+    }
+}
