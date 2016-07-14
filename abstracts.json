@@ -10723,13 +10723,16 @@
             ]
         },
         {
-            "title": "Cell-Penetrating Peptides \r - Types and Mechanisms of Penetration",
-            "institute": "1 Katedra Chemii Organicznej, Wydzia\u0142 Chemiczny Politechniki Gda\u0144skiej \r ul. Narutowicza 11/12, 80-223 Gda\u0144sk 2 Pracownia Chemii Makromoleku\u0142 Biologicznych, \r Katedra Biotechnologii Molekularnej, Wydzia\u0142 Chemii Uniwersytetu Gda\u0144skiego, \r ul. Wita Stwosza 63, 80-308 Gda\u0144sk",
+            "title": "Cell-Penetrating Peptides - Types and Mechanisms of Penetration",
+            "institute": "<sup>1</sup>Katedra Chemii Organicznej, Wydzia\u0142 Chemiczny Politechniki Gda\u0144skiej ul. Narutowicza 11/12, 80-223 Gda\u0144sk</br> <sup>2</sup>Pracownia Chemii Makromoleku\u0142 Biologicznych, \r Katedra Biotechnologii Molekularnej, Wydzia\u0142 Chemii Uniwersytetu Gda\u0144skiego, \r ul. Wita Stwosza 63, 80-308 Gda\u0144sk",
             "abstract": "Before discovery of the Tat peptide over twenty years ago, it was assumed that large peptides and proteins do not penetrate cell membranes. After discovery of Tat, Penetratin [1, 2] and several other peptides of natural origin, able to cross the cell membranes in an energy-independent manner, the structural determinants of their cell-penetrating potency were established, including polycationic character, amphipaticity and presence of proline-rich motifs [3, 4].\nCurrently known cell-penetrating peptides of natural or synthetic origin are composed of 5 to 40 amino acid residues and belong to one of the three families: oligocationic, amphipatic or proline-rich and penetrate the biological membranes by endocytosis or other ways of direct translocation. Most of these translocation mechanisms are not exclusive and may occur simultaneously, and their contribution may be different for each peptide depending on the conditions (e.g. CPP concentration, pH, etc.).\nMost CPPs demonstrate little or no mammalian cell toxicity what makes them promising vectors for drug delivery. Such vectors might be useful for efficient internalization of compounds otherways poorly penetrating biological membranes. Novel CPP-effector conjugates may become effective anticancer or antimicrobial agents of a&nbsp;great potential for chemotherapy [3, 5].\nIn this short review we present a&nbsp;glimpse at the current state of knowledge concerning sub-families, types and mechanisms of action of most prominent members of CPP family.",
-            "authors": "Marcin T. Kawczy\u0144ski1*, Joanna Kreczko-Kurzawa2, \r Zbigniew Ma\u0107kiewicz2",
+            "authors": "Marcin T. Kawczy\u0144ski<sup>1</sup>, Joanna Kreczko-Kurzawa<sup>2</sup>, Zbigniew Ma\u0107kiewicz<sup>2</sup>",
             "keywords": [
-                "foo",
-                "bar"
+                "CPP",
+                "cell-penetrating peptides",
+                "penetratin",
+                "endocytosis",
+                "amphipaticity"
             ],
             "ref": "Wiadomo\u015bci Chemiczne, 2015, 69, 9.",
             "emails": [
@@ -10737,13 +10740,15 @@
             ]
         },
         {
-            "title": "Enantioselective Enzymatic Desymmetrization Catalyzed by Oxidoreductases.\r Oxidation Reactions. Part I",
-            "institute": "1 Katedra i&nbsp;Zak\u0142ad Biochemii, Collegium Medicum Uniwersytet Miko\u0142aja Kopernika, ul. Kar\u0142owicza 24, 85-092 Bydgoszcz \r 2 Katedra Chemii Organicznej, Uniwersytet Miko\u0142aja Kopernika, \r ul. Gagarina 7, 87-100 Toru\u0144\r 3 Katedra i&nbsp;Zak\u0142ad Chemii Organicznej, \r Collegium Medicum Uniwersytet Miko\u0142aja Kopernika \r ul. dr. A. Jurasza 2, 85-089 Bydgoszcz",
+            "title": "Enantioselective Enzymatic Desymmetrization Catalyzed by Oxidoreductases. Oxidation Reactions. Part I",
+            "institute": "<sup>1</sup>Katedra i&nbsp;Zak\u0142ad Biochemii, Collegium Medicum Uniwersytet Miko\u0142aja Kopernika, ul. Kar\u0142owicza 24, 85-092 Bydgoszcz </br><sup>2</sup>Katedra Chemii Organicznej, Uniwersytet Miko\u0142aja Kopernika, ul. Gagarina 7, 87-100 Toru\u0144\r </br><sup>3</sup>Katedra i&nbsp;Zak\u0142ad Chemii Organicznej, \r Collegium Medicum Uniwersytet Miko\u0142aja Kopernika \r ul. dr. A. Jurasza 2, 85-089 Bydgoszcz",
             "abstract": "The main advantage of biotransformation involving enzymes, compared to chemical processes, is a&nbsp;highly selective formation of products with precise configuration. Herein we describe enzymes participating in the oxidation processes, especially dehydrogenases and monooxygenases.\nDehydrogenases are not only able to catalyze the enantioselective reduction of prochiral ketones, but they can also desymmetrize meso and prochiral diols through the enantioselective oxidation. As a&nbsp;result of this processes, optically active hydroxyketones, hydroxycarboxylic acids, and their derivatives are obtained.\nCytochrome P450 monooxygenases (CYPs) constitute a&nbsp;family of heme-containing enzymes which exhibits a&nbsp;variety of catalytic activities. They catalyze different reactions, such as hydroxylation, epoxidation, oxidative deamination, or N- and (S)-oxidation. In the oxidation reaction with monooxygenases, the whole cells are commonly used as catalysts. The use of monooxygenases in the oxidation reaction of prochiral alkanes provides the optically active alcohols. It is very significant that these transformations are still difficult to carry out by chemical methods.\nBaeyer-Villiger monooxygenases (BVMO EC 1.14.13.X) effectively catalyze the nucleophilic and electrophilic oxidation reactions of various functional groups. BVMO are highly regio- and stereoselective enzymes, and their catalytic potential is used in the synthesis of optically pure lactones and esters.",
-            "authors": "Aleksandra Karczmarska-W\u00f3dzka*1, \r Renata Ko\u0142odziejska*1, Agnieszka Tafelska-Kaczmarek2, Renata Studzi\u0144ska3, Marcin Wr\u00f3blewski1, \r Beata Augusty\u0144ska1",
+            "authors": "Aleksandra Karczmarska-W\u00f3dzka<sup>1</sup>, Renata Ko\u0142odziejska<sup>1</sup>, Agnieszka Tafelska-Kaczmarek<sup>2</sup>, Renata Studzi\u0144ska<sup>3</sup>, Marcin Wr\u00f3blewski<sup>1</sup>, Beata Augusty\u0144ska<sup>1</sup>",
             "keywords": [
-                "foo",
-                "bar"
+                "dehydrogenase",
+                "monooxygenase",
+                "oxidation",
+                "reaction"
             ],
             "ref": "Wiadomo\u015bci Chemiczne, 2015, 69, 35.",
             "emails": [
@@ -10753,12 +10758,14 @@
         },
         {
             "title": "Enantioselective Enzymatic Desymmetrization Catalyzed by Oxidoreductases. \r Oxidation Reactions. Part II",
-            "institute": "Katedra i&nbsp;Zak\u0142ad Biochemii, Collegium Medicum Uniwersytet Miko\u0142aja Kopernika ul. Kar\u0142owicza 24, 85-092 Bydgoszcz\r 2 Katedra Chemii Organicznej, Uniwersytet Miko\u0142aja Kopernika\r ul. Gagarina 7, 87-100 Toru\u0144\r 3 Katedra i&nbsp;Zak\u0142ad Chemii Organicznej, \r Collegium Medicum Uniwersytet Miko\u0142aja Kopernika \r ul. dr. A. Jurasza 2, 85-089 Bydgoszcz",
+            "institute": "<sup>1</sup>Katedra i&nbsp;Zak\u0142ad Biochemii, Collegium Medicum Uniwersytet Miko\u0142aja Kopernika ul. Kar\u0142owicza 24, 85-092 Bydgoszcz</br><sup>2</sup> Katedra Chemii Organicznej, Uniwersytet Miko\u0142aja Kopernika ul. Gagarina 7, 87-100 Toru\u0144</br><sup>3</sup>Katedra i&nbsp;Zak\u0142ad Chemii Organicznej, \r Collegium Medicum Uniwersytet Miko\u0142aja Kopernika ul. dr. A. Jurasza 2, 85-089 Bydgoszcz",
             "abstract": "In continuation of our work, we herein describe next enzyme classes applied for oxidation reaction. Dioxygenases, oxidases, and peroxidases are successfully used in the synthesis of desymmetrization products with high yields and enantiomeric excesses.\nAromatic dioxygenases, such as toluene dioxygenase (TDO), naphthalene dioxygenase (NDO), and biphenyl dioxygenase (BPDO) found in the prokaryotic microorganisms are enzymes belonging to the dioxygenase class and are the most commonly used in organic synthesis.\nThe \u03b1-oxidation of various fatty acids in the presence of an \u03b1-oxidase from germinating peas is one of the few examples of oxidases application in asymmetric organic synthesis. The intermediary \u03b1-hydroxyperoxyacids can undergo two competing reactions: decarboxylation of the corresponding aldehydes or reduction to the (R)-2-hydroxy acids. In order to eliminate the competitive decarboxylation reaction tin(II) chloride is used as an in situ reducing agent.\nPeroxidases are the redox enzymes found in various sources such as animals, plants, and microorganisms. Due to the fact that, in contrast to monooxygenases, no additional cofactors are required, peroxidases are highly attractive for the preparative biotransformation. Oxidation reactions catalyzed by (halo)peroxydases are also often used in organic synthesis. N-Oxidation of amines, for instance, leads to the formation of the corresponding aliphatic N-oxides, aromatic nitro-, or nitroso-compounds. From a&nbsp;preparative synthesis standpoint, however, sulfoxidation of thioether is important since it was proven to proceed in a&nbsp;highly stereo- and enantioselective manner. Furthermore, depending on the source of haloperoxidase, chiral sulfoxides of opposite configurations can be obtained.",
-            "authors": "Aleksandra Karczmarska-W\u00f3dzka*1, \r Renata Ko\u0142odziejska*1, Agnieszka Tafelska-Kaczmarek2, Renata Studzi\u0144ska3, Marcin Wr\u00f3blewski1, Beata Augusty\u0144ska1",
+            "authors": "Aleksandra Karczmarska-W\u00f3dzka<sup>1</sup>, Renata Ko\u0142odziejska<sup>1</sup>, Agnieszka Tafelska-Kaczmarek<sup>2</sup>, Renata Studzi\u0144ska<sup>3</sup>, Marcin Wr\u00f3blewski<sup>1</sup>, Beata Augusty\u0144ska<sup>1</sup>",
             "keywords": [
-                "foo",
-                "bar"
+                "dehydrogenase",
+                "monooxygenase",
+                "oxidation",
+                "reaction"
             ],
             "ref": "Wiadomo\u015bci Chemiczne, 2015, 69, 53.",
             "emails": [
@@ -10767,25 +10774,29 @@
             ]
         },
         {
-            "title": "Separation of the Racemic Mixtures by Crystallization. Part I. \r Optymlization of Resolution Conditions",
-            "institute": "1 Katedra i&nbsp;Zak\u0142ad Biochemii, Collegium Medicum w&nbsp;Bydgoszczy, UMK Toru\u0144, \r ul. Kar\u0142owicza 24, 85-092 Bydgoszcz\r 2 Katedra i&nbsp;Zak\u0142ad Chemii Organicznej, Collegium Medicum w&nbsp;Bydgoszczy, \r UMK Toru\u0144, \r ul. A. Jurasza 2, 85-089 Bydgoszcz",
+            "title": "Separation of the Racemic Mixtures by Crystallization. Part I. Optymlization of Resolution Conditions",
+            "institute": "<sup>1</sup>Katedra i&nbsp;Zak\u0142ad Biochemii, Collegium Medicum w&nbsp;Bydgoszczy, UMK Toru\u0144, ul. Kar\u0142owicza 24, 85-092 Bydgoszcz </br><sup>2</sup>Katedra i&nbsp;Zak\u0142ad Chemii Organicznej, Collegium Medicum w&nbsp;Bydgoszczy, UMK Toru\u0144, ul. A. Jurasza 2, 85-089 Bydgoszcz",
             "abstract": "Methods for obtaining optically active compounds in enantiopure form are commonly classified into three categories: utilization of chiral pool starting materials (stereoselective multistep synthesis), creation of chirality from achiral precursors (asymmetric synthesis) and separation of racemates into their enantiomer constituents (crystallization, chromatography on chiral phases, kinetic resolution). The most important method for the separation of enantiomers is the crystallization. The crystallization can be carried out in the variants: direct crystallization of enantiomer mixtures (homo- and heterochiral aggregates - Scheme 2, 3) and separation of diastereoisomer mixtures (classical resolution) (Scheme 1) [1-5]. The most widely used method for the separation of enantiomers rests on the crystallization of diastereoisomers formed from a&nbsp;racemate and an enantiopure reagent - resolving agent (resolution via salt-formation and complex-formation).\nThe pair of diastereoisomers exhibit different physicochemical properties (e.g., solubility, melting point, boiling point, adsorbtion, phase distribution). For this reason, the crystalline material can be separated from the residue by filtration (Scheme 22) [4, 27], distillation (Scheme 23, 24) [28, 29], sublimation (Scheme 25) [4, 30], or extraction (Scheme 26) [2, 31].\nThe composition of crystalline diastereoisomers is influenced by resolving agent (structure (Scheme 4) [4] and amount of resolving agent (Scheme 5) [4]), structure of racemates (Scheme 10) [2, 15], the character and amount of supplementary additives (Scheme 6-9) [4, 12-15], nature of the solvent (crystallization with solvent) - Scheme 11-18 [2, 4, 16-23] and time of crystaillzation (Scheme 19-21) [4, 14, 25, 26].",
-            "authors": "Renata Ko\u0142odziejska1, Ewa Kopkowska1, \r Renata Studzi\u0144ska2, Aleksandra Karczmarska-W\u00f3dzka1, Beata Augusty\u0144ska1",
+            "authors": "Renata Ko\u0142odziejska<sup>1</sup>, Ewa Kopkowska<sup>1</sup>, Renata Studzi\u0144ska<sup>2</sup>, Aleksandra Karczmarska-W\u00f3dzka<sup>1</sup>, Beata Augusty\u0144ska<sup>1</sup>",
             "keywords": [
-                "foo",
-                "bar"
+                "crystallization",
+                "resolution of racemic mixture",
+                "diastereoisomeric salts/complexes"
             ],
             "ref": "Wiadomo\u015bci Chemiczne, 2015, 69, 65.",
             "emails": []
         },
         {
-            "title": "Separation of the Racemic Mixtures by Crystallization. Part II. \r Resolution y Formation by\r of Diastereomeric Salts",
-            "institute": "1 Katedra i&nbsp;Zak\u0142ad Biochemii, Collegium Medicum w&nbsp;Bydgoszczy, UMK Toru\u0144, \r \r ul. Kar\u0142owicza 24, 85-092 Bydgoszcz\r 2 Katedra i&nbsp;Zak\u0142ad Chemii Organicznej, Collegium Medicum w&nbsp;Bydgoszczy, \r UMK Toru\u0144, \r ul. A. Jurasza 2, 85-089 Bydgoszcz",
+            "title": "Separation of the Racemic Mixtures by Crystallization. Part II. Resolution y Formation by of Diastereomeric Salts",
+            "institute": "<sup>1</sup>Katedra i&nbsp;Zak\u0142ad Biochemii, Collegium Medicum w&nbsp;Bydgoszczy, UMK Toru\u0144, ul. Kar\u0142owicza 24, 85-092 Bydgoszcz </br><sup>2</sup>Katedra i&nbsp;Zak\u0142ad Chemii Organicznej, Collegium Medicum w&nbsp;Bydgoszczy, UMK Toru\u0144, ul. A. Jurasza 2, 85-089 Bydgoszcz",
             "abstract": "The enantioseparation of a&nbsp;racemate through diastereomeric salt formation with a&nbsp;resolving agent is one of the most attractive methods for obtaining an enantiopure compound, with advantages such as its simplicity in operation, recyclability of the chiral source, and applicability on an industrial scale.\nIn this method the enantiomers are converted into a&nbsp;diastereomeric salt pair by reaction with a&nbsp;single enantiomer of resolving agent. The diastereomers are then separated by crystallization taking advantage of the different solubility of the two compounds [1-3].\nThe formation of diastereomers, to be separated afterward, usually consists of salt formation with a&nbsp;resolving agent of opposite acide-base character (Scheme 1- 9). In this process, the molecules of opposite character (amine and acid) recognize each other by various interactions on the basis of their molecular structures and functional groups [3].\nUsing this method can be obtained a&nbsp;series of enantiomerically pure amines (Scheme 2-8) [4-26] and acids (Scheme 10-17) [27-41] which may be valuable substrates for asymmetric synthesis. The conditions for enantioseparation play an important role. On the efficiency of the enantioseparation has an effect the resolving agent, nature of the solvent or just its dielectric constant and the character and amount of some supplementary additives.",
-            "authors": "Renata Ko\u0142odziejska1, Renata Studzi\u0144ska2, \r Ewa Kopkowska1, Aleksandra Karczmarska-W\u00f3dzka1, Beata Augusty\u0144ska1",
+            "authors": "Renata Ko\u0142odziejska<sup>1</sup>,  Renata Studzi\u0144ska<sup>2</sup>, Ewa Kopkowska<sup>1</sup>, Aleksandra Karczmarska-W\u00f3dzka<sup>1</sup>, Beata Augusty\u0144ska<sup>1</sup>",
             "keywords": [
-                "foo",
-                "bar"
+                "crystallization",
+                "resolution of racemic mixture",
+                "resolution of rac-amines",
+                "resolution of rac-acids",
+                "diastereoisomeric salts"
             ],
             "ref": "Wiadomo\u015bci Chemiczne, 2015, 69, 89.",
             "emails": []
@@ -10794,10 +10805,12 @@
             "title": "Classification of Pressure-Sensitive Adhesives According to Manufacturing Process",
             "institute": "Zachodniopomorski Uniwersytet Technologiczny w&nbsp;Szczecinie, \r Wydzia\u0142 Technologii i&nbsp;In\u017cynierii Chemicznej, \r ul. Pu\u0142askiego 10, 70-322 Szczecin",
             "abstract": "An adhesive is any substance that, when applied to the surfaces of materials, binds the surfaces together and resists separation. The basic ingredients are adhesive firming agents (binder), solvents, adhesion enhancing agents (plasticizers, coalescing agents), wetting agents, modifiers and stabilizers. There are many criteria for the distribution of adhesives taking into account their characteristics and purpose, of which the basic division is made according to their chemical base and the method of curing [1].\nPressure-sensitive adhesives (PSAs) represent a&nbsp;system that actually dates back to the invention of the self-adhesive articles in 1935 when R. Stanton Avery produced the first coating unit using a&nbsp;wooden cigar box with two holes cut in the bottom. PSAs can be defined as a&nbsp;special category of adhesive which in dry form are permanently tacky at room temperature [2]. Pressure-sensitive adhesives require certain properties: besides a&nbsp;good surface adhesion, good stability against light, oxygen, moisture and plasticizers, and the adhesion characteristics is constant over a&nbsp;very wide temperature range. They are characterized by the excellent low constant level of peel strength and tack as well as the excellent aging performance at room or higher temperatures. The inherent tackiness of PSAs allow them to wet and adhere quickly under a&nbsp;low pressure on a&nbsp;broad variety of substrates [3].\nThere are many criteria for the division of PSA taking into account their characteristics and intended use, where the basic division is made according to their chemical base and a&nbsp;method for curing. In practice, the most commonly used criteria for the allocation of adhesives include: form (consistency), methods and fields of application, rate of binding, joint properties, quantities of ingredients, properties of the thermal adhesive layer or the production process [1]. Pressure-sensitive adhesives according to the manufacturing process can be divided into solvent-based, water-borne and solvent-free PSA (Fig. 2) [14-17].\nThe most commonly used high molecular compounds used in the manufacture of pressure-sensitive adhesives include natural rubber and synthetic copolymers of ethylene and acrylic acid, polisilicones, acrylics, linear polyesters, polyether, polyurethanes. The market and technology of high-performance PSAs are expanding rapidly. a&nbsp;growing market is the result of expansion in both current and new application areas. Self-adhesive polymers possess inherent properties due to their structure that make them unique [15]. The world market for pressure sensitive adhesives was valued at USD 22.70 billion in 2012 and is expected to reach USD 31.64 billion by 2018. The global pressure sensitive adhesives market volume was 1700.5 kilo tons in 2012 and is expected to reach 2208.2 kilotons by 2018 [18].",
-            "authors": "Adrian Krzysztof Antosik*, Zbigniew Czech",
+            "authors": "Adrian Krzysztof Antosik, Zbigniew Czech",
             "keywords": [
-                "foo",
-                "bar"
+                "pressure-sensitive adhesives",
+                "solvent-based",
+                "solvent-free",
+                "water-borne"
             ],
             "ref": "Wiadomo\u015bci Chemiczne, 2015, 69, 111.",
             "emails": [
@@ -10808,10 +10821,12 @@
             "title": "New on-Line Technologies \r in Teaching Chemistry",
             "institute": "Instytut Chemii Uniwersytetu \u015al\u0105skiego, \r ul. Szkolna 9, 40-006 Katowice",
             "abstract": "The development of on-line technologies in the last years provided us with a&nbsp;possibility for the efficient video teaching in e- or blended- chemistry learning [1-10]. In this publication we reviewed materials which are available on the YouTube or specialist educational platforms [14-38]. The analysis indicated that on-line teaching has progressed rapidly over recent years (Fig. 1, Fig. 2). This refers also to chemistry. In particular we focused on organic chemistry. The on-line aided teaching of experimental chemistry can also support the traditional courses [9] Our experience indicated that even in bench chemistry on-line teaching can significantly improve the performance of the students. The e-chem project of the educational platform, started for the chemistry students in the University of Silesia in 2005 [15], is an example of the blended chemical teaching that was partially published on the YouTube website (Tab. 2). a&nbsp;number of other chemistry materials are available on YouTube. Some chemistry courses are also available directly at the websites of the universities while the Inducate, Skillup or Coursea [39-42] are examples of the websites that provide further useful addresses for chemistry on-line teaching. a&nbsp;concept of massive open on-line courses (MOCC) [43, 44] that appeared recently inspired several projects of commercial platforms for e-learning, providing a&nbsp;potential bases for the global teaching. The Coursera, Udacity, EdX, Canvas Network are examples of the complex educational portals for MOCCs. At the same time the important universities are vigorously playing in this area in a&nbsp;way to global university. At the moment the MOCC chemistry available was reviewed (Tab. 3).\nIn summary, the development of the on-line technologies provides a&nbsp;possibility for the efficient blended learning based video-aided chemistry teaching. In our opinion this potential is currently controlled not by technical limitations but rather by psychology barrier and formal regulations in local educational law. However, these problems will certainly be solved with the increasing availability of the on-line courses that could be supported by additional real lab classes and/or certified by exams. Global university will be of course a&nbsp;strong competition for a&nbsp;traditional education. On the other hand this also means chemical on-line courses will be better and better developed on the basis on the available on-line technologies. Eventually, this competition will also improve a&nbsp;quality of the traditional chemical education.",
-            "authors": "Justyna Lampert, Jaros\u0142aw Pola\u0144ski*",
+            "authors": "Justyna Lampert, Jaros\u0142aw Pola\u0144ski",
             "keywords": [
-                "foo",
-                "bar"
+                "e-learning",
+                "distance learning",
+                "e-chemistry",
+                "chemistry teaching"
             ],
             "ref": "Wiadomo\u015bci Chemiczne, 2015, 69, 121.",
             "emails": [
@@ -10820,12 +10835,13 @@
         },
         {
             "title": "Photochemical Synthesis of Silver and Gold Nanoparticles",
-            "institute": "Wydzia\u0142 Chemii Uniwersytetu Warszawskiego\r ul. Pasteura 1, 02-093 Warszawa",
+            "institute": "Wydzia\u0142 Chemii Uniwersytetu Warszawskiego ul. Pasteura 1, 02-093 Warszawa",
             "abstract": "The activity in nanotechnology has recently increased enormously. This is due to numerous possible applications of nanomaterials in catalysis, optics, electronics, and even health protection. Many applications of silver and gold nanoparticles are possible because of their plasmonic properties. As an example of the plasmonic application of Au and Ag metal nanoparticles one can mention construction of devices for light concentration at the nanometer scale. Such deep-subwavelength optical energy concentrators are used, for example, in surface-enhanced Raman scattering (SERS) to increase the Raman signal by even 10 orders of magnitude, thus facilitating the optical identification of single molecules. Large increase in local field intensity also strongly enhances nonlinear scattering, which can be potentially useful for optical signal processing. In this article we review photochemical synthesis of silver and gold nanoparticles, especially those methods of synthesis which are driven by surface plasmon resonance (SPR) excited in Ag and Au nanoparticles. The most important step of the SPR-driven synthesis of nanoparticles is photocatalytical \r reduction of metal ions which occurs preferentially at such places of the nanoparticles, at which strong surface plasmons are excited (for example corners, etches). Therefore, during the grown of the nanoparticle, its anisotropy may increase. If the SPR of the seed particles is not excited - due to either the absence of photostimulation or a&nbsp;mismatch between the excitation wavelength and the SPR of the seeds - the deposition of metal does not occur. Therefore, SPR of nanoparticles may be also responsible for wavelength controlled size effects in the synthesis: as the nanoparticles grow and their SPRs shift from the excitation wavelength, the nanoparticles absorb less light and their growth slows. This allows for synthesis of very homogeneous samples of nanoparticles, which may be applied, for example, in various plasmonic sensors.",
-            "authors": "Jan Krajczewski*, Andrzej Kudelski",
+            "authors": "Jan Krajczewski, Andrzej Kudelski",
             "keywords": [
-                "foo",
-                "bar"
+                "plasmon-driven synthesis of nanomaterials",
+                "anisotropic metal nanoclusters",
+                "light concentration at the nanometer scale"
             ],
             "ref": "Wiadomo\u015bci Chemiczne, 2015, 69, 171.",
             "emails": [
@@ -10834,12 +10850,16 @@
         },
         {
             "title": "C-Nucleosides - Synthesis and Biological Activity",
-            "institute": "Zak\u0142ad Chemii Bioorganicznej, Wydzia\u0142 Farmaceutyczny, \r Uniwersytet Medyczny w&nbsp;\u0141odzi, \r ul. Muszy\u0144skiego 1, 90-151 \u0141\u00f3d\u017a",
+            "institute": "Zak\u0142ad Chemii Bioorganicznej, Wydzia\u0142 Farmaceutyczny, Uniwersytet Medyczny w&nbsp;\u0141odzi, ul. Muszy\u0144skiego 1, 90-151 \u0141\u00f3d\u017a",
             "abstract": "Studies on synthesis and biological activity of modified nucleoside and nucleotide analogues have been an active field of research in medicinal chemistry for years [1, 2]. High biological activity of naturally occurring C-nucleosides, for example showdomycin 5, formycins a&nbsp;41 and B 42 motivated many research groups to study their analogues and structurally similar compounds. Furthermore, since C-nucleosides lack N-glycosidic bond they are more resistant to enzymatic hydrolysis [3]. This review collects selected methods of synthesis of C-nucleoside analogues which were analyzed to point out the most interesting and inspiring synthetic strategies, in many cases based on contemporary achievements. These strategies first of all take advantage of the formation of the C-C bond between the anomeric \r carbon atom of the sugar or pseudosugar moieties and the carbon atom of the modified nucleobases. Less common approach relies on the de novo construction of heterocyclic rings employed as nucleobase substitutes. Though years many new compounds sometimes of significant structural complexity have been obtained and characterized to find several examples endowed with high antiviral and cytostatic activity. The biological activity of the C-nucleoside analogues screened so far encourages us to continue a&nbsp;search for new potential drugs within compounds equipped with this attractive structural motif.",
-            "authors": "Magdalena Grabkowska-Dru\u017cyc*, Dorota G. Piotrowska",
+            "authors": "Magdalena Grabkowska-Dru\u017cyc, Dorota G. Piotrowska",
             "keywords": [
-                "foo",
-                "bar"
+                "nucleoside analogues",
+                "C-nucleosides",
+                "homo-C-nucleosides",
+                "heterocyclic C-nucleosides",
+                "acyclic C-nucleosides",
+                "biological activity"
             ],
             "ref": "Wiadomo\u015bci Chemiczne, 2015, 69, 179.",
             "emails": [
@@ -10848,12 +10868,15 @@
         },
         {
             "title": "N-Heterocyclic Carbenes - Synthesis and Applications",
-            "institute": "Uniwersytet w&nbsp;Bia\u0142ymstoku, Instytut Chemii, \r Zak\u0142ad Chemii Produktow Naturalnych, \r ul. Cio\u0142kowskiego 1K, 15-245 Bia\u0142ystok",
+            "institute": "Uniwersytet w&nbsp;Bia\u0142ymstoku, Instytut Chemii, Zak\u0142ad Chemii Produktow Naturalnych, ul. Cio\u0142kowskiego 1K, 15-245 Bia\u0142ystok",
             "abstract": "N-Heterocyclic carbenes (NHCs) are powerful tools in organic chemistry, with numerous applications in academic and industrial laboratories. They are usually defined as singlet carbenes, in which the divalent carbonic centre is connected directly to at least one nitrogen atom in the heterocycle [1]. They have played an important role in organic chemistry ever since the first evidence of their existence. The isolation of stable, free 1,3-diadamantylimidazol-2-ylidene (IAd, Fig. 1) by Arduengo et al. in 1991 was a&nbsp;milestone in the chemistry of carbenes [2]. From the beginnings as academic curiosities, N-heterocyclic carbenes today are very useful compounds in a&nbsp;variety of organic transformations (Fig. 13). NHCs are neutral \u03c3-donors, which form very strong bonds with the majority of transition metals (stronger than phosphines). These compounds are easy-to-make ligands with great potential in homogeneous catalysis (mainly ruthenium and palladium complexes) for large number of reactions, including the coupling reactions (Heck, Negishi, Stille, Suzuki or Sonogashira reactions) and olefin metathesis [3]. Moreover, they are very useful as organocatalysts used in the benzoin condensation, the Stetter reaction and ring-opening polymerization (ROP) or transesterification [4]. In this review, we aim to give an overview of the properties and applications of NHCs, which we expect will be a&nbsp;useful introduction for chemists interested in studying and applying these important compounds. The first part of this review is devoted to the main synthetic routes to NHCs, their properties and reactivity. In the second part we describe the metal complexes with NHCs as homogeneous catalysts and their applications in various types of reactions. At the end of this part of the paper the use of NHCs as organocatalysts is presented.",
-            "authors": "Marta Malinowska*, Agnieszka Hryniewicka",
+            "authors": "Marta Malinowska, Agnieszka Hryniewicka",
             "keywords": [
-                "foo",
-                "bar"
+                "N-heterocyclic carbenes",
+                "imidazolinium salts",
+                "methatesis catalysts",
+                "organocatalysis",
+                "coupling reactions"
             ],
             "ref": "Wiadomo\u015bci Chemiczne, 2015, 69, 227.",
             "emails": [
@@ -10862,24 +10885,29 @@
         },
         {
             "title": "Arenes as Prodrugs",
-            "institute": "wpisz z&nbsp;autora",
+            "institute": "Katedra Biochemii, Wydział Biologii i Ochrony Środowiska, Uniwersytet Śląski w Katowicach, ul. Jagiellońska 28, 40-032 Katowice",
             "abstract": "Nowadays, improvement of physicochemical, biopharmaceutical and pharmacokinetic properties of pharmacologically active compounds is connected with development of prodrugs. Prodrugs are defined as pharmaceutical compounds inactive in their parent form and converted either chemically or enzymatically to\r the active derivative in the organism. a&nbsp;lot of prodrugs are aromatic compounds because of benzene ring reactivity. There are two main classes of prodrugs. In the carrier-linked prodrugs, the active drug is linked to a&nbsp;carrier through bioreversible covalent bond removed by enzymatic or chemical reactions. The second class comprises bioprecursor prodrugs that are modified in the body to induce the functional groups. Additionally, based on the site of prodrugs conversion into their active forms, they are classified into two groups: prodrugs metabolized intracellulary and\r prodrugs metabolized extracellulary. Chemical or enzymatic transformation of prodrugs may occur through their reduction, decarboxylation, oxidative deamination, cyclization, phosphorylation and/or hydrolysis. These reactions enable to overcome different barriers in drug delivery through changes in aqueous solubility, chemical instability and insufficient oral adsorption. It may also cause prolonged duration of drug action. Moreover, the prodrugs strategy allows achieving brain and tumor specific targeting. Summarizing, the designing of the prodrugs seems to be one of the most promising strategies to enhance the therapeutic effect of drugs and reduction of their negative side effects.",
-            "authors": "Urszula Guzik*, Katarzyna Hupert-Kocurek, Agnieszka Nie\u0107, Danuta Wojcieszy\u0144ska",
+            "authors": "Urszula Guzik, Katarzyna Hupert-Kocurek, Agnieszka Nie\u0107, Danuta Wojcieszy\u0144ska",
             "keywords": [
-                "foo",
-                "bar"
+                "prodrug",
+                "aromatic compounds",
+                "prodrugs activation"
             ],
             "ref": "Wiadomo\u015bci Chemiczne, 2015, 69, 255.",
-            "emails": []
+            "emails": [
+                "urszula.guzik@us.edu.pl"
+            ]
         },
         {
             "title": "Ionic Liquids and Potential Areas of their Applications in Chemical Industry",
-            "institute": "Politechnika Warszawska, Wydzia\u0142 Chemiczny, Instytut Biotechnologii, \r ul. Noakowskiego 3, 00-664 Warszawa",
+            "institute": "Politechnika Warszawska, Wydzia\u0142 Chemiczny, Instytut Biotechnologii, ul. Noakowskiego 3, 00-664 Warszawa",
             "abstract": "Ionic liquids (ILs) compose a&nbsp;group of chemical compounds of ionic nature consisting of organic cation and inorganic or organic anion, whose melting point does not exceed 100\u00b0C (373,15 K). These compounds play a&nbsp;very important role\r in scientific investigations as well as in industrial organic synthesis, both in high-tonnage productions as well as low-tonnage technologies of high added-value chemicals and materials. Ionic liquids are mostly used as alternative media and/or catalysts for desired chemical reactions. Multifunctionality and popularity of ionic liquids applications mainly stems from their beneficial physicochemical properties, such as: (i) very low vapor pressure, (ii) negligible viscosity, (iii) high overall- and thermal-stability, (iv) incombustibility and non-explosiveness, (v) high heat capacity, (vi) good solubility of most organic compounds (including polymers) as well as organometallic and inorganic compounds (including gases), (vii) low compressibility, and (viii) high electrochemical conductivity. Moreover, ionic liquids (x) exist in liquid state in a&nbsp;very wide range of temperature, (xi) exhibit a&nbsp;wide range of electrochemical stability as well as (xii) improve properties of enzymes and other biocatalysts, positively impacting on their activity, stability, enantioselectivity and/or stereoselectivity. It is worth noting that ionic liquids increasingly constitute a&nbsp;target products of defined commercial characteristics, such in the case of: electrochemicals, chemo-therapeutics, environmental anti-degradation agents, effective and safe agrochemicals etc. In this review, with 238 refs., development trends and potential applications of ionic liquids is presented.",
-            "authors": "Pawe\u0142 Borowiecki*, Maria Bretner, Jan Plenkiewicz",
+            "authors": "Pawe\u0142 Borowiecki, Maria Bretner, Jan Plenkiewicz",
             "keywords": [
-                "foo",
-                "bar"
+                "ionic liquids (ILs)",
+                "properties of ILs",
+                "applications of ILs",
+                "prospects of ILs"
             ],
             "ref": "Wiadomo\u015bci Chemiczne, 2015, 69, 271.",
             "emails": [
@@ -10889,12 +10917,16 @@
         },
         {
             "title": "Dna Oligonucleotides as Receptor Layers of Electrochemical Sensors",
-            "institute": "Instytut Biotechnologii, Zak\u0142ad Mikrobioanalityki, Wydzia\u0142 Chemiczny, \r Politechnika Warszawska, \r ul. Noakowskiego 3, 00-664 Warszawa",
-            "abstract": "The need for elaboration of analytical devices of small dimensions and the accessibility of novel nanomaterials caused the increase in the number of publications referring to the development of biosensors. DNA-based biosensors are of special interest and they were primarily used for the determination of a&nbsp;specific sequence which is crucial in the detection of cancer, genetic mutations, pathogens, as well as analysis of modified food. Interestingly, they could be also applied for the detection of other analytes including heavy metal ions, especially in connection with electrochemical techniques. It should be noted that the design of DNA biosensor concerns not only the development of transducer, but also careful preparation of sensing layer and the choice of the method of analytical signal generation.\nSelectivity is one of the essential parameter of the biosensor that determines its utility, particularly in real samples of complex matrices. In case of DNA sensors dedicated for the detection of complementary sequence, high selectivity is provided by the hybridization process. a&nbsp;pronounced specificity of sensing layer-analyte interaction can be also achieved with the use of functional nucleic acids - aptamers, which change their conformation upon binding an analyte.\nHerein, DNA-modified electrodes were firstly used for the detection of uranyl ions, as they exhibit high affinity towards phosphate moieties of nuclec acids. It was shown that UO22+ interacts with sensing layer independently from the chosen oligonucleotide sequence. Moreover, the influence of Pb2+ was reduced by elimination of adenine, which strongly interacts with lead ions.\nAnother oligonucleotide-based sensor was developed for detection of mercury ions. The results indicate that Hg2+ concentration can be determined only with the use of sequence containing 100% thymine residues. Oligonucleotide-based sensor with receptor layer containing aptamers was elaborated for the detection of Pb2+ ions. In the presence of lead cations, an aptamer probe forms a&nbsp;G-quadruplex structure, a&nbsp;proposed biosensor could be characterized with selectivity towards Pb2+.\nThe performance of DNA-based sensors for UO22+, Hg2+ and Pb2+ ions was optimized and addressed the choice of the manner of analytical signal generation, the influence of electrode modification with blocking agent, sensitivity dependence on the oligonucleotide sequence and the possibility of regeneration of sensing layer. Finally, the utility of proposed DNA sensors was tested by analysis in real samples.",
+            "institute": "Instytut Biotechnologii, Zak\u0142ad Mikrobioanalityki, Wydzia\u0142 Chemiczny, Politechnika Warszawska, ul. Noakowskiego 3, 00-664 Warszawa",
+            "abstract": "<p>The need for elaboration of analytical devices of small dimensions and the accessibility of novel nanomaterials caused the increase in the number of publications referring to the development of biosensors. DNA-based biosensors are of special interest and they were primarily used for the determination of a&nbsp;specific sequence which is crucial in the detection of cancer, genetic mutations, pathogens, as well as analysis of modified food. Interestingly, they could be also applied for the detection of other analytes including heavy metal ions, especially in connection with electrochemical techniques. It should be noted that the design of DNA biosensor concerns not only the development of transducer, but also careful preparation of sensing layer and the choice of the method of analytical signal generation.</p><p>Selectivity is one of the essential parameter of the biosensor that determines its utility, particularly in real samples of complex matrices. In case of DNA sensors dedicated for the detection of complementary sequence, high selectivity is provided by the hybridization process. a&nbsp;pronounced specificity of sensing layer-analyte interaction can be also achieved with the use of functional nucleic acids - aptamers, which change their conformation upon binding an analyte.</p><p>Herein, DNA-modified electrodes were firstly used for the detection of uranyl ions, as they exhibit high affinity towards phosphate moieties of nuclec acids. It was shown that UO<sub>2</sub><sup>2+</sup> interacts with sensing layer independently from the chosen oligonucleotide sequence. Moreover, the influence of Pb<sup>2+</sup> was reduced by elimination of adenine, which strongly interacts with lead ions. </p><p>Another oligonucleotide-based sensor was developed for detection of mercury ions. The results indicate that Hg<sup>2+</sup> concentration can be determined only with the use of sequence containing 100% thymine residues. Oligonucleotide-based sensor with receptor layer containing aptamers was elaborated for the detection of Pb<sup>2+</sup> ions. In the presence of lead cations, an aptamer probe forms a&nbsp;G-quadruplex structure, a&nbsp;proposed biosensor could be characterized with selectivity towards Pb<sup>2+</sup>.</p><p>The performance of DNA-based sensors for UO<sub>2</sub><sup>2+</sup>, Hg<sup>2+</sup> and Pb<sup>2+</sup> ions was optimized and addressed the choice of the manner of analytical signal generation, the influence of electrode modification with blocking agent, sensitivity dependence on the oligonucleotide sequence and the possibility of regeneration of sensing layer. Finally, the utility of proposed DNA sensors was tested by analysis in real samples.</p>",
             "authors": "\u0141ukasz G\u00f3rski, Robert Zi\u00f3\u0142kowski, Agnieszka Bala, Marta Jarczewska, El\u017cbieta Malinowska",
             "keywords": [
-                "foo",
-                "bar"
+                "biosensors",
+                "heavy metals",
+                "nucleic acids",
+                "self-assembled monolayers",
+                "voltammetry",
+                "redox indicators"
             ],
             "ref": "Wiadomo\u015bci Chemiczne, 2015, 69, 325.",
             "emails": [
@@ -10902,13 +10934,17 @@
             ]
         },
         {
-            "title": "Applications in Synthesis of Aroma Compounds, Pharmaceuticals \r and in Bioremediation",
-            "institute": "Katedra Chemii, Wydzia\u0142 Nauk o&nbsp;\u017bywno\u015bci, \r Uniwersytet Przyrodniczy we Wroc\u0142awiu, \r ul. C.K. Norwida 25, 50-375 Wroc\u0142aw",
-            "abstract": "The microorganisms are able to utilize natural and synthetic compounds of broad structural diversity as a&nbsp;source of carbon and energy, converting these substrates into low molecular weight products (mainly H2O, CO2 and NH3). The main role in this metabolism is played by the enzymes that catalyze reactions of the C-C bond cleavage. Such reactions are the key step of the primary metabolism of fatty acids in eukaryotic cells by the \u03b2oxidation. The enzymatic systems associated with the C-C bond cleavage have been applied in the synthesis of valuable natural products and in the bioremediation processes.\nMicrobial transformations of natural compounds, in which the reactions of \u03b2-oxidation cycle are used, allow the formation of natural aromatic compounds (used as food additives), pharmaceuticals and ingredients of cosmetic compositions. Using this path one can obtain methyl ketones (e.g. responsible for the characteristic smell of cheeses), \u03b3-lactones determining the scent of several popular fruits, and vanillin.\nA modification of the natural steroids: saponins, alkaloids, sterols, bile acids to products useful in the synthesis of steroid drugs is the most important area of use of the enzymatic C-C bond cleavage, due to the practical significance of the products. Enzymes that catalyze the C-C bonds cleavage are important in the process of biodegradation of toxic aromatic hydrocarbons and their derivatives (bioremediation).",
-            "authors": "Anna Panek*, Natalia Milecka-Tronina, Alina \u015awizdor",
+            "title": "Enzymatic reactions of the C-C bond cleavage. Applications in Synthesis of Aroma Compounds, Pharmaceuticals and in Bioremediation",
+            "institute": "Katedra Chemii, Wydzia\u0142 Nauk o&nbsp;\u017bywno\u015bci, Uniwersytet Przyrodniczy we Wroc\u0142awiu, ul. C.K. Norwida 25, 50-375 Wroc\u0142aw",
+            "abstract": "<p>The microorganisms are able to utilize natural and synthetic compounds of broad structural diversity as a&nbsp;source of carbon and energy, converting these substrates into low molecular weight products (mainly H<sub>2</sub>O, CO<sub>2</sub> and NH<sub>3</sub>). The main role in this metabolism is played by the enzymes that catalyze reactions of the C-C bond cleavage. Such reactions are the key step of the primary metabolism of fatty acids in eukaryotic cells by the \u03b2oxidation. The enzymatic systems associated with the C-C bond cleavage have been applied in the synthesis of valuable natural products and in the bioremediation processes.</p><p>Microbial transformations of natural compounds, in which the reactions of \u03b2-oxidation cycle are used, allow the formation of natural aromatic compounds (used as food additives), pharmaceuticals and ingredients of cosmetic compositions. Using this path one can obtain methyl ketones (e.g. responsible for the characteristic smell of cheeses), \u03b3-lactones determining the scent of several popular fruits, and vanillin.</p><p>A modification of the natural steroids: saponins, alkaloids, sterols, bile acids to products useful in the synthesis of steroid drugs is the most important area of use of the enzymatic C-C bond cleavage, due to the practical significance of the products. Enzymes that catalyze the C-C bonds cleavage are important in the process of biodegradation of toxic aromatic hydrocarbons and their derivatives (bioremediation).</p>",
+            "authors": "Anna Panek, Natalia Milecka-Tronina, Alina \u015awizdor",
             "keywords": [
-                "foo",
-                "bar"
+                "β-oxidation",
+                "vanillin",
+                "γ-decalactone",
+                "methyl ketones",
+                "steroid drugs",
+                "bioremediation"
             ],
             "ref": "Wiadomo\u015bci Chemiczne, 2015, 69, 337.",
             "emails": [
@@ -10919,10 +10955,12 @@
             "title": "The Niementowski Reaction",
             "institute": "Zak\u0142ad Chemii Bioorganicznej, Wydzia\u0142 Farmaceutyczny, \r Uniwersytet Medyczny w&nbsp;\u0141odzi, \r ul. Muszy\u0144skiego 1, 90-151 \u0141\u00f3d\u017a",
             "abstract": "The Niementowski reaction depends on the fusion of anthranilic acid with carbonyl compounds or amides and dates back to the end of the nineteenth century. Numerous variations of the reaction components and modifications of the reaction conditions have appeared in the literature through years. Besides anthranilic acid other synthons including: methyl o-aminobenzoate [25], o-nitrobenzoic acid [26], o-acylaminobenzamide [21], o-aminobenzamide [27], o-aminobenzonitrile [28], isatoic anhydride [29], benzoxasinone [30, 31] have been employed as well. Replacement of the amide component with either amine [9, 32], nitrile [33], imidate [34], thioamide [35], amidine [36], aldehyde [37] or carboxylic acid [28] have also been reported. To increase yield and to reduce the reaction time a&nbsp;number of variables in reaction conditions have been investigated. The best results have been achieved by implementation of a&nbsp;microwave irradiation [38].\nThe Niementowski reaction and its variants have found widespread use in pharmaceutical and agrochemical fields for the synthesis of compounds containing quinoline and quinazoline systems which are present in a&nbsp;number of natural and synthetic alkaloids [12, 13] and many drugs [1-5].",
-            "authors": "Magdalena \u0141ysakowska*, Dorota G. Piotrowska",
+            "authors": "Magdalena \u0141ysakowska, Dorota G. Piotrowska",
             "keywords": [
-                "foo",
-                "bar"
+                "the Niementowski reaction",
+                "quinoline, quinazoline",
+                "quinazolin-4-one",
+                "anthranilic acid"
             ],
             "ref": "Wiadomo\u015bci Chemiczne, 2015, 69, 369.",
             "emails": [
@@ -10935,8 +10973,12 @@
             "abstract": "Lipases (EC 3.1.1.3; triacylglycerol acylhydrolases) are the most commonly used enzymes in biotransformations of organic compounds. In living organisms lipases catalyze hydrolysis of higher fatty acid esters of glycerol, thus fulfill an essential function in metabolism of lipids (e.g. fats and oils) and lipoproteins. This year marks 125 years since J.R. Green has identified and described the first lipase isolated from germinated castor-oil beans (Ricinus communis L.) in the form of an extract showing hydrolytic properties. Plants, as well as bacteria are able to produce lipases what was reported in 1901 by Dutch scientist ? Christiaan Eijkman. Lipases are also produced by fungi, yeasts, and various organs of higher organisms.\nA strong foundation, which had a&nbsp;huge impact on the development of global lipase-mediated biotransformations was the discovery made in 1935 and described in Biochemistry Journal and Biochemische Zeitschrift by Polish biochemist-enzymologist Ernest Alexander Sym (1893-1950) that these enzymes retain almost full catalytic activity even in nearly anhydrous organic solvents. This was exactly fifty years before Russian chemist Alexander Klibanov in 1985 described a&nbsp;lipase-catalyzed reaction carried out in organic solvents. Since that moment, lipases have became extremely popular in both academic and industrial usage, nowadays being the most important among all biocatalysts used in biochemical processes carried out on an industrial scale.\nThe purpose of this article is to provide a&nbsp;brief characterization of the two most widely used in industrial biotransformations lipases- lipase B from Candida antarctica (CAL-B) and lipase from Burkholderia cepacia (BCL) - and familiarize the readers with the issues of biotechnological processes catalyzed by them. The specifics of a&nbsp;range of industrial applications based on lipase catalysis, including the chemical, pharmaceutical, cosmetic and food industries are also discussed.",
             "authors": "Pawe\u0142 Borowiecki",
             "keywords": [
-                "foo",
-                "bar"
+                "lipases",
+                "Candida antarctica lipase B (CAL-B)",
+                "Burkholderia cepacia lipase (BCL)",
+                "industrial applications",
+                "biocatalysis",
+                "enantiomerically pure compounds"
             ],
             "ref": "Wiadomo\u015bci Chemiczne, 2015, 69, 391.",
             "emails": [
@@ -10950,8 +10992,10 @@
             "abstract": "Biotransformations are processes, in which chemical reactions are catalyzed by isolated enzymes or whole cells containing them. Among the biocatalysts, lipases are the most commonly used chiral selectors that exhibit high chemo-, regio-, and stereo-selectivity toward wide spectrum of organic compounds of xenobiothic nature. Moreover, lipases are very stable and active in organic solvents, as well as in neat solvents or in supercritical fluids in the absence of added water. Biotransformations by using lipases can be carried out at high substrate concentrations, at ambient temperature and neutral pH, without need for addition of cofactors, application of high pressures, extremely harsh reaction conditions or complex chemical apparatus. In addition, processes based on efficient biocatalytic technologies has proven to be beneficial for the chemical industry, as the lipases are able to catalyze reactions, which are not easily conducted by classical methods or in other cases allow reactions, which can replace several chemical steps. The above mentioned features of lipase-based biotransformations often cause significant improvement in energy efficiency (savings), and lead to a&nbsp;reduction in waste generation thereby making manufacturing processes even more economically attractive and environmentally acceptable.\nSince the mid-1980s the use of biotransformations with lipases in industry for the production of high added-value compounds, including pharmaceuticals, vitamins, cosmetics, fragrances and flavors, diagnostic preparations and therapeutics, high-tonnage preparation of agrochemicals, modified foods, nutraceuticals, detergents, polymers, advanced materials and biofuels has steadily increased.\nIn this part of the review article on industrial applications of lipases, next group of popularly utilized enzymes relevant for the production of high added-value chemicals are described. It was also shown on several examples that enzymatic catalysis can significantly simplify manufacturing processes of complex structures being green and economical alternative for conventional chemical-based processes.",
             "authors": "Pawe\u0142 Borowiecki",
             "keywords": [
-                "foo",
-                "bar"
+                "lipases",
+                "industrial applications",
+                "biocatalysis",
+                "enantiomerically pure compounds"
             ],
             "ref": "Wiadomo\u015bci Chemiczne, 2015, 69, 431.",
             "emails": [
@@ -10965,8 +11009,12 @@
             "abstract": "AbstractUnderstanding of the fundamental law and mechanisms governing the phenomenon of life is an inherent feature of human civilization. With the birth of philosophy comes first speculation about the physical conditions of life processes, which consequently will lead to the formation of the first scientific theories. Among them an important role plays the Hippocratic humoral theory. This scientific rout will be taken by the next generations of researchers seeking for the most appropriate methods and precise language of science. a&nbsp;significant breakthrough came in the 16th century, when Paracelsus coined his philosophical and alchemical doctrine which gives such attention to perpetual changes in living organisms, then described on the basis of transmutation. Nearly three centuries later, in the early nineteenth century the polish physician and chemist J\u0119drzej \u015aniadecki introduced the concept of metabolism, based on the principles that are present in compounds and chemical reactions. Just a&nbsp;dozen years later, in 1828, W\u00f6hler`s synthesis of urea gives birth to organic chemistry. Language of chemistry has become a&nbsp;tool for the description of biological phenomena, slowly building up physiological chemistry which shortly was turned to biochemistry. For a&nbsp;young science one of the first challenges was the level of the rudimental for the living organisms dyes, which rightly appeared as essential for the understanding of the chemical nature of the phenomena of life. From that point the studies on chlorophyll (Pelletier, Caventou, Shunck, Hoppe-Seyler) and hemoglobin (H\u00fcnefeld, Funke, Hoppe-Seyler) become crucial topic. In this pioneering studies significant, and sometimes decisive role was to be played by Polish scientists (Teichmann, Marchlewski, Nencki, Zaleski). Especially a&nbsp;few years' time and very intense cooperation of Leon Marchlewski and Marcel Nencki would bring momentous decision. Marchlewski's bold hypothesis about the chemical unity on the level of the basic dyes in plant and animal worlds was fully confirmed in the experimental procedure and the results achieved by Nencki brought the solution to the problem of the chemical structure of hemin. Joint research of Polish scientists became the foundation of modern biochemistry and had changed the biological and medical sciences so deeply, that we can talk about \"biochemical revolution\". The following paper is an evaluation of the speech held by me during X National Organic Chemistry Symposium - OSCO X, Lodz, April 16-18, 2015.",
             "authors": "Ryszard W. Gryglewski",
             "keywords": [
-                "foo",
-                "bar"
+                "biochemistry",
+                "organic chemistry",
+                "chlorophyll",
+                "haemoglobin",
+                "Marchlewski",
+                "Nencki"
             ],
             "ref": "Wiadomo\u015bci Chemiczne, 2015, 69, 465.",
             "emails": [
@@ -10977,10 +11025,13 @@
             "title": "Study on Interaction of Vancomycin with Bacterial Cell Wall Peptidoglycan",
             "institute": "Uniwersytet Gda\u0144ski, Wydzia\u0142 Chemii, Pracownia Chemii Cukr\u00f3w, \r ul. Wita Stwosza 63, 80-308 Gda\u0144sk",
             "abstract": "Unfortunately, despite of work involved in understanding of the mechanism of bacterial virulence, especially Staphylococcus aureus, it has not been developed effective therapy against this bacteria. The first antibiotic used against this bacteria was penicillin, which was discovered by Alexander Fleming in 1928.\nA new generation of drugs introduced into therapy against Staphylococcus aureus and other Gram-positive bacteria are glycopeptide antibiotics. The most widespread and most commonly used are vancomycin and teicoplanin, discovered respectively in 1956 and 1978.\nAs a&nbsp;result of frequent use of vancomycin VISA (ang. Vancomycin-intermediate Staphylococcus aureus) and VRSA (ang. Vancomycin-resistant Staphylococcus aureus) strains were discovered. The mechanism of action of this antibiotic based on the inhibition of the biosynthesis of bacterial cell wall peptidoglycan fragment. Forming stabilized by hydrogen bonds complex with terminal fragment of peptidoglycan (dipeptide d-Ala-d-Ala) vancomycin prevents its further crosslinking [2] (Fig. 1).\nHowever, in recent years other theories of the mechanism of action of glycopeptide antibiotics against Gram-positive bacteria were presented it seems to be crucial to find methods of selection of new antibiotics and for this purpose standard techniques of the analysis, including isothermal titration calorimetry (ITC) [3], nuclear magnetic resonance spectroscopy (NMR) [8-15], high performance liquid chromatography (HPLC) [16], capillary electrophoresis [17] or self-assembled monolayers (SAMs) [22] are used.\nDiscovering new methods for studying of interaction between vancomycin and Gram-positive bacterial cell wall allows use it as a&nbsp;new technique for rapid selection of potential new antibiotics, including glycopeptide derivatives.",
-            "authors": "Justyna Samaszko-Fiertek*, Rafa\u0142 \u015alusarz, Janusz Madaj",
+            "authors": "Justyna Samaszko-Fiertek, Rafa\u0142 \u015alusarz, Janusz Madaj",
             "keywords": [
-                "foo",
-                "bar"
+                "vancomycin",
+                "HPLC",
+                "capillary electrophoresis",
+                "NMR",
+                "SAMs"
             ],
             "ref": "Wiadomo\u015bci Chemiczne, 2015, 69, 491.",
             "emails": [
@@ -10991,10 +11042,12 @@
             "title": "Peptidoglycan - Structure, Biological Activity and Chemical Synthesis",
             "institute": "Uniwersytet Gda\u0144ski, Wydzia\u0142 Chemii, Pracownia Chemii Cukr\u00f3w, \r ul. Wita Stwosza 63, 80-303 Gda\u0144sk",
             "abstract": "The most important component of bacterial cell walls especially Gram-positive bacteria is peptidoglycan, called also murein, PGN. The first time this synonym was used in 1964 by Weidel and Pelzer [1]. Peptidoglycan is present in the outer layer of the cytoplasmic membrane and its structure. The structure of peptidoglycan depends on the bacteria strain. It is estimated that in Gram-negative bacteria, it occupies only about 10-20% of the total area of the cell wall, when in Gram-positive bacteria it is 50 and up to 90% of all space.\nProblems with isolation with high purity of biological material shows the need for developing techniques for chemical synthesis of peptidoglycan fragments and their analogs. In past few years there has been a&nbsp;growing interest within the synthesis of compounds glycoprotein (glycopeptides, peptidoglycan, etc.). As a&nbsp;basis for the construction of cell walls of many bacteria.\nDespite intensive research and gain significant knowledge of the physical and biological, chemical synthesis or biosynthesis (Fig. 5 and 6) of peptidoglycan, not so far failed to unambiguously determine its three-dimensional structure. The works of Kelman and Rogers [15] and Dimitriev [20] nearer picture of its structure. However, the time to develop in vivo visualization of cell structure it will be difficult to identify correctly peptidoglycan three-dimensional structure.\nDue to the important biological roles of murein, many research centers have taken to attempt their chemical synthesis. For biological research began to use chemically synthesized peptidoglycan fragments which guaranteed both uniform and a&nbsp;certain structure. An important roles in the development of methods of chemical synthesis of peptidoglycan had H. Chowdhury work, Fig. 8 [35], Hesek, Fig. 9 and 10 [36, 37], Dziarskiego [38] and Boneca [39] and Inamury [34, 40].\n",
-            "authors": "Justyna Samaszko-Fiertek*, Barbara Dmochowska, Janusz Madaj",
+            "authors": "Justyna Samaszko-Fiertek, Barbara Dmochowska, Janusz Madaj",
             "keywords": [
-                "foo",
-                "bar"
+                "peptidoglycan",
+                "chemical synthesis",
+                "biosynthesis",
+                "biological activity"
             ],
             "ref": "Wiadomo\u015bci Chemiczne, 2015, 69, 513.",
             "emails": [
@@ -11007,8 +11060,9 @@
             "abstract": "The purpose of this paper is to show how interesting is free surface of water and how many problems connected with its properties were investigated. Some of them were studied in twenty century, another are quite new. The special attention was drawn to orientation of water molecules at water/air interface and connected with this orientation electric surface potential drop existing at the free surface. To date, there is no consensus both as to its value and sign. This is due to the impossibility of direct measurement of the surface potential, which caused that many scientists have attempted to estimate the value and sign of this potential indirectly by measuring other physical parameters or using simulation methods.\nThe paper present also such properties of water/air interface as: surface density, surface viscosity, dielectric permittivity, surface conductivity ,surface tension and their changes as a&nbsp;result of adsorption process. As we can see from the review outlined in the paper the free surface of water in spite of long and different of studies is still fascinating for many scientists.",
             "authors": "Maria Paluch",
             "keywords": [
-                "foo",
-                "bar"
+                "water/air interface",
+                "structure of free surface of water",
+                "surface potential of water"
             ],
             "ref": "Wiadomo\u015bci Chemiczne, 2015, 69, 541.",
             "emails": [
@@ -11017,12 +11071,14 @@
         },
         {
             "title": "The Molecular Switches: Types and Applications",
-            "institute": "Uniwersytet Jagiello\u0144ski, \r ul. R. Ingardena 3, 30-060 Krak\u00f3w",
+            "institute": "Uniwersytet Jagiello\u0144ski, ul. R. Ingardena 3, 30-060 Krak\u00f3w",
             "abstract": "A subject of this work is group of organic compounds known as molecular switches. Molecular switches are described as chemical compounds which molecules have at least two thermodynamically stable states. Conversion between these states is reversible and may be induced by such factors as change of the temperature or flow of the electric current or irradiation of the molecule with the light of particular wavelength [1]. Especially interesting are photochromic molecular switches. In this group the conversion is triggered by irradiation with a&nbsp;light of a&nbsp;particular wavelength [2]. Because of its unique properties, this type of compounds is extensively studied by the scientists, who investigate their photochromic properties as ways of using them in coordination with lanthanide metals and construction of novel molecular materials [3]. Especially interesting group of photochromic molecular switches is class named diarylethenes. This type of compounds after irradiation with UV light undergo cyclization, which is reversible under light of the visible spectrum (Figure 1). The other important group of photochromic molecular switches is class of compounds possessing in their structure chiroptic unit. The irradiation of the molecule with left- and right-handed circularly polarized light leads to change of the absolute configuration (Fig. 8) [1]. This type of switches may be used in construction of synthetic molecular motors which is widely studied subject nowadays [1]. The other groups of molecular switches are host- guest molecular switches and mechanically- interlocked molecular switches. In the first mentioned before group the bistable states differ in their affinity for guests (Fig. 15) [14]. The second one is based on the group of compounds named catenanes and rotaxanes. They can be described as two chemical individuals, mechanically interlocked in each other, which are not connected with chemical bonds (Fig. 19). This kind of molecular switches are used in construction of the logic gates [1].",
             "authors": "Krzysztof Bartyzel",
             "keywords": [
-                "foo",
-                "bar"
+                "molecular switches",
+                "dithienylethenes",
+                "molecular materials",
+                "electrocyclization reaction"
             ],
             "ref": "Wiadomo\u015bci Chemiczne, 2015, 69, 561.",
             "emails": [
@@ -11035,8 +11091,11 @@
             "abstract": "This article is focused on the data concerning properties of carbamazepine, an antiepileptic drug commonly used in everyday medical practice but also frequently misused leading to many reported cases of intoxication. Due to high prevalence of this drug detailed data concerning its pharmacokinetics and prahmacodynamics can be found as well as metabolic paths that have been proven or have not been confirmed yet. For the purpose of toxicological analyses of samples collected postmortem it is also essential to know the possible transformations of an analyte due to microbial metabolism and postmortem changes of the sample matrix. In forensic cases of unavailable or unusable blood samples when advanced stage of decomposition processes in the found body occurs, alternative matrices are required. Presented review describes three types of such matrices: bones, bone marrow and grease in the context of their postmortem changes and suitability as the source of toxicological information.",
             "authors": "Sofia Lendor",
             "keywords": [
-                "foo",
-                "bar"
+                "carbamazepine",
+                "postmortem metabolism",
+                "alternative biological matrices",
+                "bone marrow",
+                "bones"
             ],
             "ref": "Wiadomo\u015bci Chemiczne, 2015, 69, 585.",
             "emails": [
@@ -11045,12 +11104,15 @@
         },
         {
             "title": "Photocatalytic Degradation of Herbicydes - New Catalysts Based on TiO2",
-            "institute": "Zak\u0142ad Chemii Nieorganicznej, Wydzia\u0142 Chemii, Uniwersytet Jagiello\u0144ski, \r ul. Ingardena 3, 30-060 Krak\u00f3w",
-            "abstract": "Over the past few decades a&nbsp;rapid increase in standard of living is observed. Rapid urbanization and development of new technologies, which are focused on the needs of a&nbsp;modern society, influence negatively the environment. The present policy of sustainable development is focused on the principles of rational use of scarce resources and raw materials. New technologies should comply with a&nbsp;number of requirements: efficiency, low costs and a&nbsp;low impact on the environment. Photocatalytic processes are the answer for these requirements. Photocatalysis can be used in many aspects of everyday life, offering self-cleaning surfaces, photo-drugs (e.g. for photodynamic therapy) and even photovoltaic devices.\nPhotocatalytic degradation of pollutants in the presence of inorganic photocatalysts (e.g. TiO2 or ZnO) is one of the available methods of removing impurities from aqueous and gaseous phases. The main advantage of this process is the lack of wastes and formation of carbon dioxide, water and simple inorganic ions as end-products.\nThe aim of our work was to develop new TiO2-based photocatalysts doped with tungsten and molybdenum oxides. a&nbsp;series of materials with different content of the dopants, calcined at various temperatures, was prepared. The photocatalytic activity of the materials was determined following the degradation of two model herbicides: 2,4-dichlorophenoxyacetic acid (2,4-D) and 2,4,5-trichlorophenoxyacetic acid (2,4,5-T). These compounds are used for the control of weed growth on crop plantations, but in a&nbsp;high dosage they can lead to destruction of the plants. They are readily soluble in water, therefore their use is simple, but brings a&nbsp;great risk to aquatic organisms and people.\nPhotocatalytic degradation of herbicides is the main goal of the 4G-PHOTOCAT project. The efforts are directed towards development of a&nbsp;low-cost photocatalytic paint, that could be used in reactors for groundwater purification. The active ingredient of the paint is a&nbsp;composite material based on TiO2 modified with other metal oxides.",
+            "institute": "Zak\u0142ad Chemii Nieorganicznej, Wydzia\u0142 Chemii, Uniwersytet Jagiello\u0144ski, ul. Ingardena 3, 30-060 Krak\u00f3w",
+            "abstract": "<p>Over the past few decades a&nbsp;rapid increase in standard of living is observed. Rapid urbanization and development of new technologies, which are focused on the needs of a&nbsp;modern society, influence negatively the environment. The present policy of sustainable development is focused on the principles of rational use of scarce resources and raw materials. New technologies should comply with a&nbsp;number of requirements: efficiency, low costs and a&nbsp;low impact on the environment. Photocatalytic processes are the answer for these requirements. Photocatalysis can be used in many aspects of everyday life, offering self-cleaning surfaces, photo-drugs (e.g. for photodynamic therapy) and even photovoltaic devices.</p><p>Photocatalytic degradation of pollutants in the presence of inorganic photocatalysts (e.g. TiO<sub>2</sub> or ZnO) is one of the available methods of removing impurities from aqueous and gaseous phases. The main advantage of this process is the lack of wastes and formation of carbon dioxide, water and simple inorganic ions as end-products.</p><p>The aim of our work was to develop new TiO<sub>2</sub>-based photocatalysts doped with tungsten and molybdenum oxides. a&nbsp;series of materials with different content of the dopants, calcined at various temperatures, was prepared. The photocatalytic activity of the materials was determined following the degradation of two model herbicides: 2,4-dichlorophenoxyacetic acid (2,4-D) and 2,4,5-trichlorophenoxyacetic acid (2,4,5-T). These compounds are used for the control of weed growth on crop plantations, but in a&nbsp;high dosage they can lead to destruction of the plants. They are readily soluble in water, therefore their use is simple, but brings a&nbsp;great risk to aquatic organisms and people.</p><p>Photocatalytic degradation of herbicides is the main goal of the 4G-PHOTOCAT project. The efforts are directed towards development of a&nbsp;low-cost photocatalytic paint, that could be used in reactors for groundwater purification. The active ingredient of the paint is a&nbsp;composite material based on TiO<sub>2</sub> modified with other metal oxides.</p>",
             "authors": "Sabina O\u017c\u00f3g",
             "keywords": [
-                "foo",
-                "bar"
+                "TiO<sub>2</sub>",
+                "photocatalytic degradation",
+                "2,4-dichlorophenoxyacetic (2,4-D)",
+                "2,4,5-trichlorophenoxyacetic (2,4,5-T)",
+                "4G-PHOTOCAT"
             ],
             "ref": "Wiadomo\u015bci Chemiczne, 2015, 69, 585.",
             "emails": [
@@ -11060,11 +11122,15 @@
         {
             "title": "Coulometric Studies in the Department of Chemistry of the University of Warsaw",
             "institute": "Wydzia\u0142 Chemii Uniwersytetu Warszawskiego, \r ul. Pasteura 1, 02-093 Warszawa",
-            "abstract": "he coulometric studies carried out in the Department of Chemistry of the University of Warsaw have been described.\nIn the first part of this brief review there were discussed papers in which coulometric titration was used as a&nbsp;main method of the study. In this section the achievements of Stanis\u0142aw G\u0142\u0105b and his coworkers in that field were shortly described and discussed. Both the use of the coulometric titration in elaboration of a&nbsp;new analytical titration methods and its application to the determination of equilibrium constants of several reactions have been presented.\nIn the second part, the results obtained with the use of two variants of constant potential coulometry were presented. In the first classical variant, the thickness of the solution layer (d), from which occurs the diffusion to the electrode was much larger than the diffusion layer thickness (\u03b4), d>> \u03b4. In the second variant inequality d\u03b4 is obeyed. The later case relates to the so-called thin-layer chronocoulometry, when the reactive layer (solution or film on the electrode) is very thin.\nSome papers published by the researchers from the Chemistry Department of the University of Warsaw were presented, especially those where thin layers of heavy metal (as iron, nickel, cobalt and others) hexacyanoferrates such as for instance Prussian Blue, were deposited either on platinum, gold, glassy carbon electrodes or on carbon nanotubes. The transport of charge in such layers was briefly discussed.\nIn the last part, the application of so-called voltochronocoulometry by researchers of the Chemistry Department of the University of Warsaw to the study of different electrode reactions and double layer phenomena is presented.",
+            "abstract": "The coulometric studies carried out in the Department of Chemistry of the University of Warsaw have been described.\nIn the first part of this brief review there were discussed papers in which coulometric titration was used as a&nbsp;main method of the study. In this section the achievements of Stanis\u0142aw G\u0142\u0105b and his coworkers in that field were shortly described and discussed. Both the use of the coulometric titration in elaboration of a&nbsp;new analytical titration methods and its application to the determination of equilibrium constants of several reactions have been presented.\nIn the second part, the results obtained with the use of two variants of constant potential coulometry were presented. In the first classical variant, the thickness of the solution layer (d), from which occurs the diffusion to the electrode was much larger than the diffusion layer thickness (\u03b4), d>> \u03b4. In the second variant inequality d\u03b4 is obeyed. The later case relates to the so-called thin-layer chronocoulometry, when the reactive layer (solution or film on the electrode) is very thin.\nSome papers published by the researchers from the Chemistry Department of the University of Warsaw were presented, especially those where thin layers of heavy metal (as iron, nickel, cobalt and others) hexacyanoferrates such as for instance Prussian Blue, were deposited either on platinum, gold, glassy carbon electrodes or on carbon nanotubes. The transport of charge in such layers was briefly discussed.\nIn the last part, the application of so-called voltochronocoulometry by researchers of the Chemistry Department of the University of Warsaw to the study of different electrode reactions and double layer phenomena is presented.",
             "authors": "Zbigniew Galus",
             "keywords": [
-                "foo",
-                "bar"
+                "coulometry",
+                "coulometric titration",
+                "constant potential coulometry",
+                "chronocoulometry",
+                "thin-layer chronocoulometry",
+                "voltochronocoulometry"
             ],
             "ref": "Wiadomo\u015bci Chemiczne, 2015, 69, 631.",
             "emails": [
@@ -11073,12 +11139,17 @@
         },
         {
             "title": "Enzymes in Analytical Chemistry",
-            "institute": "Pracownia Teoretycznych Podstaw Chemii Analitycznej, \r Wydzia\u0142 Chemii, Uniwersytet Warszawski, \r ul. Pasteura 1, 02-093 Warszawa",
+            "institute": "Pracownia Teoretycznych Podstaw Chemii Analitycznej, Wydzia\u0142 Chemii, Uniwersytet Warszawski, ul. Pasteura 1, 02-093 Warszawa",
             "abstract": "There are three main fields of modern analytical chemistry where enzymes are presented: (1) biorecognition, biosensing and biodetection schemes, especially important in case of biosensors, (2) enzymes as analytes, and (3) enzymes as markers in immune- and genoanalysis. These analytical fields could be illustrated by the research of bioanalytics group supervised by professor Stanis\u0142aw G\u0142\u0105b.",
             "authors": "Robert Koncki",
             "keywords": [
-                "foo",
-                "bar"
+                "enzymes",
+                "biosensors",
+                "flow analysis",
+                "hemodialysis",
+                "Prussian Blue",
+                "phosphatases",
+                "clinical and biomedical analysis"
             ],
             "ref": "Wiadomo\u015bci Chemiczne, 2015, 69, 653.",
             "emails": [
@@ -11087,12 +11158,15 @@
         },
         {
             "title": "Ion Selective Electrodes Sensitive to Magnesium Ions in Magnesium Speciation Research in Human Organism",
-            "institute": "1 Wydzia\u0142 Chemii Uniwersytetu Warszawskiego, \r ul. Pasteura 1, 02-093 Warszawa\r 2 Centre for Process Analytical Chemistry and Sensor Technology \"ProSens\" \r Process Chemistry Centre, Abo Akademi University, \r Biskopsgatan 8, 20500 Abo, Finland\r 3 Wydzia\u0142 Materia\u0142oznawstwa i&nbsp;Ceramiki Akademii G\u00f3rniczo-Hutniczej w&nbsp;Krakowie, \r ul. Mickiewicza 30, 30-059 Krak\u00f3w",
+            "institute": "<sup>1</sup>Wydzia\u0142 Chemii Uniwersytetu Warszawskiego, ul. Pasteura 1, 02-093 Warszawa </br><sup>2</sup>Centre for Process Analytical Chemistry and Sensor Technology \"ProSens\" \r Process Chemistry Centre, Abo Akademi University, \r Biskopsgatan 8, 20500 Abo, Finland</br><sup>3</sup>Wydzia\u0142 Materia\u0142oznawstwa i&nbsp;Ceramiki Akademii G\u00f3rniczo-Hutniczej w&nbsp;Krakowie, \r ul. Mickiewicza 30, 30-059 Krak\u00f3w",
             "abstract": "Application of magnesium selective electrodes to magnesium ion determination in biomedical samples has been introduced to analytical chemistry since 1990-ies. Using ion selective electrode, the ionized magnesium concentration is determined. Until this time, mainly concentration of total magnesium was determined. In this work, the importance of magnesium and its role in the human organism is shortly presented. Then, we present basics of ion selective electrodes and their application in clinical analyzers. We show exemplary applications of ionized and total magnesium concentration determination in clinical samples, such as blood serum or plasma and erythrocytes, in healthy people and in patients with various diseases. In every case, the ionized magnesium concentration in erythrocytes appears to be the most sensitive indicator of hypomagnesemia that is the pathophysiologically lowered magnesium level in organism. The knowledge of this parameter allows physicians for better diagnosis of magnesium status in human organism.",
-            "authors": "Magdalena Maj-\u017burawska1*, Andrzej Lewenstam2,3, Adam Hulanicki1",
+            "authors": "Magdalena Maj-\u017burawska<sup>1</sup>, Andrzej Lewenstam<sup>2,3</sup>, Adam Hulanicki<sup>1</sup>",
             "keywords": [
-                "foo",
-                "bar"
+                "magnesium selective electrode",
+                "ISE",
+                "magnesium speciation",
+                "clinical analyzer",
+                "magnesium in human"
             ],
             "ref": "Wiadomo\u015bci Chemiczne, 2015, 69, 671.",
             "emails": [
@@ -11105,8 +11179,10 @@
             "abstract": "Ion-selective electrodes are a&nbsp;routine tool of chemical analysis, characterized by beneficial analytical parameters, simple operation principle and low apparatus cost. In this group of sensors particularly advantageous are those with plastified poly(vinyl chloride) based membranes, containing ionophore - interacting selectively with some cations [1]. From the practical point of view all-solid-state constructions became very useful. However, in this case, a&nbsp;solid contact should be added between the substrate electrode and the membrane, enabling reversible charge transfer on the electrode /solid contact and solid contact/ membrane interfaces. On the other hand, an advantageous alternative for membrane material, instead of poly(vinyl chloride), are polyacrylates which can be easily obtained by photopolymerization and provide lower detection limits due to lower ion mobility in the membrane.\nMembranes of similar composition (containing ionophore) can be also applied in ion-selective optodes, where a&nbsp;solid contact is not needed, but additional membrane component is a&nbsp;dye (chromoionophore) of different colours of the protonated and deprotonated forms. Such optodes can be also obtained as microspheres, thus they can be introduced into a&nbsp;medium of low volume, e.g. living cells.\nThe next step towards sensitivity increase and miniaturization is recording fluorescence intensity instead of absorbance, by using appropriate fluorophores, e.g. pyrene, and production of nanosensors, e.g. as micelles obtained from cross-linked alternative polymers. Appropriate modification of the surface phase of such nanosensors, affecting the permeability of analyte ions into the nanospheres, enables tailoring of the shape of analytical characteristics - from sigmoidal (high sensitivity, narrow linear response range) to linear dependence of the signal on logarithm of analyte concentration (low sensitivity, but wide linear response range).",
             "authors": "Agata Michalska, Krzysztof Maksymiuk",
             "keywords": [
-                "foo",
-                "bar"
+                "ion-selective electrodes",
+                "optodes",
+                "fluorimetric sensors",
+                "nanosensors"
             ],
             "ref": "Wiadomo\u015bci Chemiczne, 2015, 69, 687.",
             "emails": [
@@ -11118,10 +11194,12 @@
             "title": "On the Use of Atomic and Mass Spectrometry for the Investigation of Chemical Speciation",
             "institute": "Wydzia\u0142 Chemii, Centrum Nauk Biologiczno-Chemicznych, Uniwersytet Warszawski, \r ul. \u017bwirki i&nbsp;Wigury 101, 02-089 Warszawa",
             "abstract": "Selected examples of studies conducted by the research group from Laboratory of the Basic Aspect of Analytical Chemistry (Faculty of Chemistry, University of Warsaw), related to the investigation of chemical speciation with the use of coupled techniques were discussed in this work. The pioneering investigation was focused on the study of the speciation of mercury in fish tissues and in clinical samples. Then, the intensive researches were conducted towards understanding of the speciation of antimony and selenium in water, plants and clinical objects. Interestingly, the evaluation of the speciation of aluminium become a&nbsp;challenge in respect of the establishing of the reliable analytical procedure, and the use of flow injection for sample operation were explored in this case. The last but not least, the non - routine analytical procedure was developed in the case of zinc speciation in plant exposed to the harmful environmental conditions.",
-            "authors": "Ewa Bulska*, Marcin Wojciechowski",
+            "authors": "Ewa Bulska, Marcin Wojciechowski",
             "keywords": [
-                "foo",
-                "bar"
+                "chemical speciation",
+                "atomic spectrometry",
+                "mass spectrometry",
+                "coupled techniques"
             ],
             "ref": "Wiadomo\u015bci Chemiczne, 2015, 69, 701.",
             "emails": [
@@ -11130,12 +11208,13 @@
         },
         {
             "title": "Elemental Distribution in Archaeometric Studies with the Use of Micro-Destructive Laser Ablation Inductively Coupled Plasma Mass Spectrometry",
-            "institute": "1 Wydzia\u0142 Chemii, Uniwersytet Warszawski, ul. Pasteura 1, 02-093 Warszawa\r 2 Centrum Nauk Biologiczno-Chemicznych Uniwersytetu Warszawskiego, \r ul. \u017bwirki i&nbsp;Wigury 101, 02-089 Warszawa\r 3 Centrum Archeologii \u015ar\u00f3dziemnomorskiej Uniwersytetu Warszawskiego, \r ul. Nowy \u015awiat 4, 00-497 Warszawa\r 4 Muzeum Narodowe w&nbsp;Warszawie, Al. Jerozolimskie 3, 00-495 Warszawa",
+            "institute": "<sup>1</sup>Wydzia\u0142 Chemii, Uniwersytet Warszawski, ul. Pasteura 1, 02-093 Warszawa </br><sup>2</sup>Centrum Nauk Biologiczno-Chemicznych Uniwersytetu Warszawskiego, \r ul. \u017bwirki i&nbsp;Wigury 101, 02-089 Warszawa </br><sup>3</sup> Centrum Archeologii \u015ar\u00f3dziemnomorskiej Uniwersytetu Warszawskiego, ul. Nowy \u015awiat 4, 00-497 Warszawa </br><sup>4</sup>Muzeum Narodowe w&nbsp;Warszawie, Al. Jerozolimskie 3, 00-495 Warszawa",
             "abstract": "Laser Ablation Inductively Coupled Plasma Mass Spectrometry (LA-ICP-MS) is one of modern instrumental methods, which use in elemental analysis of cultural heritage objects has recently noticeably increased. The method requires almost no sample preparation and permits direct analysis of solid samples, availing only minute amount of the material. The micro-destructiveness of ablation processes remains usually within the scale acceptable for art historians, conservators, archaeologists and art curators, therefore the capability to perform multi-elemental, ultra trace and isotopic analysis can be fully used during studies of cultural heritage objects. The lack of appropriate matrix-matched certified reference materials and the fractionation effects, which may influence the final quantitative results to a&nbsp;different extent, are widely reported among the main limitations of LA-ICP-MS. Despite these constrains, LA-ICP-MS is a&nbsp;method that can be flexibly tuned to collect the desired elemental information about various cultural heritage objects.\nThis paper focuses on advantages of using LA-ICP-MS in analysis of heterogeneous objects in respect of mapping of elemental distribution either during the one-point or multi-line ablation executed directly from the surface of the investigated objects. The use of LA-ICP-MS allowed collection of chemical information availing reconstruction of distribution patterns, which reflected important structural characteristic of the small gilded decoration produced in mediaeval times (collection of Gallery of Medieval Art, the National Museum in Warsaw) and archaeological \"metal-in-glass\"/\"sandwich\" bead (Nubian collection, the Museum of Archaeology University of Stavanger, Norway). The mediaeval decoration was identified as the gilded (Ag+Au) copper object, which due to corrosion and re-painting has lost their original appearance. The bead was produced from two various types of glass and a&nbsp;metal foil (Ag+Au+Cu) between them. In both cases LA-ICP-MS was used successfully to determine the main elemental composition and to collect information about elemental distribution in the investigated artifact.",
-            "authors": "Luiza K\u0119pa1,2, Joanna Then-Ob\u0142uska3, \r Marianna Otmianowska4, Barbara Wagner1,2*",
+            "authors": "Luiza K\u0119pa<sup>1,2</sup>, Joanna Then-Ob\u0142uska<sup>3</sup>, \r Marianna Otmianowska<sup>4</sup>, Barbara Wagner<sup>1,2</sup>",
             "keywords": [
-                "foo",
-                "bar"
+                "LA-ICP-MS",
+                "archaeometry",
+                "cultural heritage objects"
             ],
             "ref": "Wiadomo\u015bci Chemiczne, 2015, 69, 719.",
             "emails": [
@@ -11143,13 +11222,16 @@
             ]
         },
         {
-            "title": "Analytical Chemistry in Investigation \r and Protection of the Environment",
-            "institute": "Wydzia\u0142 Chemii, Uniwersytet Warszawski, \r ul. Pasteura 1, 02-093 Warszawa",
+            "title": "Analytical Chemistry in Investigation and Protection of the Environment",
+            "institute": "Wydzia\u0142 Chemii, Uniwersytet Warszawski, ul. Pasteura 1, 02-093 Warszawa",
             "abstract": "The main goal of studies carried in our reasearch group - analytical chemistry in investigation and protection of the environment is the evaluation of the impact of human activity on environmental pollution, and creation of analytical procedures that can be applied in environmental analysis. Detailed description of our research can be found on webpage http://www.chem.uw.edu.pl/labs/pcas. In this paper we would like to present only a&nbsp;few topics and analytical challenges that we were dealing with during the last years. The application of anodic and cathodic stripping voltammetry for trace analysis of hazardous metals (cadmium, lead, thallium, platinum, rhodium) in natural samples is described [4-6]. Voltammetry is also presented as a&nbsp;tool used in speciation analysis, which is particularly important in the case of elements which toxicity and assimilation depends on chemical form of the element that is present in the environment (e.g. As) [8]. Attention is also paid to fractionation, which is a&nbsp;specific case of speciation analysis, extremely important for evaluation of mobility and bioavailability of harmful or nutritious substances from soil. As environmental monitoring often requires carrying measurements at trace levels, it might be necessary to preconcentrate the analytes or simplify the composition of the sample before the analysis. For such purposes solid phase extraction (SPE) is widely used and frequently applied. Another analytical task presented in this work is recognition of the defense mechanisms developed by hyperaccumulating plants, e.g. white mustard. This species was investigated for synthesis of phytochelatins - sulphur-rich polipeptides induced by high concentrations of As, Tl, Cd, Pt, Pd and Rh [14]. It is worth noting that plant species that are able to cumulate high amounts of xenobiotics can be used for phytoremediation, which is one of so called \"green technologies\", used for restitution of polluted environment, particularly soil [19].",
-            "authors": "Beata Krasnod\u0119bska-Ostr\u0119ga*, Joanna Kowalska, \r Katarzyna Ki\u0144ska, Monika Sadowska, Ewa Biadu\u0144",
+            "authors": "Beata Krasnod\u0119bska-Ostr\u0119ga, Joanna Kowalska, Katarzyna Ki\u0144ska, Monika Sadowska, Ewa Biadu\u0144",
             "keywords": [
-                "foo",
-                "bar"
+                "woltamperometria",
+                "analiza specjacyjna",
+                "frakcjonowanie",
+                "fitoremediacja",
+                "fitochelatyny"
             ],
             "ref": "Wiadomo\u015bci Chemiczne, 2015, 69, 735.",
             "emails": [
@@ -11158,12 +11240,16 @@
         },
         {
             "title": "Determination of Oxygen - from Winkler Method to Enzymatic Sensor",
-            "institute": "1 Uniwersytet Warszawski, Wydzia\u0142 Chemii, Pracownia Teorii i&nbsp;Zastosowa\u0144 Elektrod, \r ul. Pasteura 1, 02-093 Warszawa\r 2 Politechnika Gda\u0144ska, Wydzia\u0142 Chemiczny, \r Katedra Chemii i&nbsp;Technologii Materia\u0142\u00f3w Funkcjonalnych, \r ul. Narutowicza 11/12, 80-233 Gda\u0144sk",
+            "institute": "<sup>1</sup>Uniwersytet Warszawski, Wydzia\u0142 Chemii, Pracownia Teorii i&nbsp;Zastosowa\u0144 Elektrod, \r ul. Pasteura 1, 02-093 Warszawa</br><sup>2</sup>Politechnika Gda\u0144ska, Wydzia\u0142 Chemiczny, \r Katedra Chemii i&nbsp;Technologii Materia\u0142\u00f3w Funkcjonalnych, \r ul. Narutowicza 11/12, 80-233 Gda\u0144sk",
             "abstract": "Monitoring of dioxygen levels is of utmost importance from the view-point of life processes, medical diagnostics, nutrition and chemical industries. In all these measurements both low and high levels of this element are important. The common methods for the determination of dioxygen are the Winkler method, Clark electrode and pulsoxymeters. a&nbsp;new, already strong field of research can be now recognized - the development of miniaturized biosensors of dioxygen, characterized by short response time, selectivity and utility in continuous monitoring of dioxygen. This trend can be seen in all fields where analytical methods are applied. The aim is to construct simple and, therefore, low cost devices and a&nbsp;good example of such device is the enzymatic biocathode sensitive towards dioxygen. The main issue in the construction of such electrodes is how to immobilize a&nbsp;redox enzyme on the conductive support in a&nbsp;way allowing to retain its full activity and to provide efficient transfer of charge between the electrode and the active centres of the enzymes. The difficulty in achieving suitable electrical contact can be solved by applying suitable carbon nanomaterials, increasing the working surface of the electrode and providing access to the active centres of the enzyme molecules.",
-            "authors": "Sylwia Drami\u0144ska1, Jan F. Biernat2, Renata Bilewicz1*",
+            "authors": "Sylwia Drami\u0144ska<sup>1</sup>, Jan F. Biernat<sup>2</sup>, Renata Bilewicz<sup>1</sup>",
             "keywords": [
-                "foo",
-                "bar"
+                "determination of oxygen",
+                "dioxygen reduction",
+                "bioelectrocatalysis",
+                "oxygen biosensor",
+                "laccase",
+                "carbon nanotubes"
             ],
             "ref": "Wiadomo\u015bci Chemiczne, 2015, 69, 751.",
             "emails": [
@@ -11174,10 +11260,12 @@
             "title": "Cholinesterase Inhibitors in Alzheimer Disease Therapy",
             "institute": "Wydzia\u0142 Chemii Uniwersytetu Warszawskiego, \r ul. Pasteura 1, 02-093 Warszawa",
             "abstract": "In recent years, a&nbsp;progressive increase in age-related disorders could be observed in most western countries, among which Alzheimer's disease (AD) is one of the most challenging. The progress of AD is characterized by a&nbsp;severe loss in memory and cognition, leading to behavioral changing, depression and death. Currently approved treatments, including the acetylcholinesterase inhibitors (AChEIs) donepezil, galantamine and rivastigmine and N-methyl-D-aspartate (NMDA) antagonist memantine, do not halt the progression of the disease. The discovering of multifunctional compounds considering that several dual binding site AChEIs were able to reach different targets, guided the development of new drug design strategy, the multi-target-directed ligand (MTDL) approach. This review shows briefly summaries past and present research on the cholinesterase inhibitors (ChIs) able to interact with other targets contributing in aetiology of Alzheimer's disease.",
-            "authors": "Anna Zawadzka*, Zbigniew Czarnocki",
+            "authors": "Anna Zawadzka, Zbigniew Czarnocki",
             "keywords": [
-                "foo",
-                "bar"
+                "Alzheimer disease",
+                "cholinesterase inhibitors",
+                "hybrid drugs",
+                "multi-target-directed ligands (MTDLs)"
             ],
             "ref": "Wiadomo\u015bci Chemiczne, 2015, 69, 767.",
             "emails": [
@@ -11186,12 +11274,14 @@
         },
         {
             "title": "Historical Evolution of the Concept of Aromaticity",
-            "institute": "1 Instytut Biochemii i&nbsp;Biofizyki PAN, \r ul. Pawi\u0144skiego 5a, 02-106 Warszawa \r 2 Wydzia\u0142 Chemii UW, \r ul. Pasteura 1, 02-093 Warszawa",
+            "institute": "<sup>1</sup>Instytut Biochemii i&nbsp;Biofizyki PAN, ul. Pawi\u0144skiego 5a, 02-106 Warszawa</br><sup>2</sup>Wydzia\u0142 Chemii UW, ul. Pasteura 1, 02-093 Warszawa",
             "abstract": "Aromaticity is one of the most important terms used in organic chemistry. It has been called as a&nbsp;\"as a&nbsp;cornerstone of heterocyclic chemistry\" or \"a theoretical concept of immese practical importance\". The concept, in chemical sense, has been introduced by Friedrich August Kekul\u00e9 von Stradonitz 150 ago. The paper presents the contribution to its development of many outstanding scientists: Emil Erlenmayer, Albert Ladenburg, Adolf von Baeyer, Victor Meyer, Heinrich Limpricht, Artur Hantzsch, Eugen Bamberger, Richard Willst\u00e4tter, Ernest Crocker, James W. Armit, Robert Robinson, Erich H\u00fcckel, Artur Frost, Boris Musulin, Linus Pauling, Kathleen Lonsdale, Eric Clar, Haruo Hosoya, Henry Edward Armstrong, George W. Wheland, Fritz W. London, John Pople, Paul von Ragu\u00e9 Schleyer and others. Aromaticity is defined on the basis of four main criteria: energetic, geometric, magnetic and reactivity. Two modern definitions of the term are presented in chapter 2 (both are given in English).",
-            "authors": "Arkadiusz Ciesielski1,2*, Tadeusz Marek Krygowski2, Micha\u0142 Ksawery Cyra\u0144ski2*",
+            "authors": "Arkadiusz Ciesielski<sup>1,2</sup>, Tadeusz Marek Krygowski<sup>2</sup>, Micha\u0142 Ksawery Cyra\u0144ski<sup>2</sup>",
             "keywords": [
-                "foo",
-                "bar"
+                "aromaticity",
+                "benzene",
+                "benzenoid hydrocarbons",
+                "electron delocalization"
             ],
             "ref": "Wiadomo\u015bci Chemiczne, 2015, 69, 789.",
             "emails": [
@@ -11200,12 +11290,16 @@
         },
         {
             "title": "Recent Approaches to Electrochemical Determination of Arsenic",
-            "institute": "1 Wydzia\u0142 Chemii, Uniwersytet Warszawski, \r ul Pasteura 1, 02-093 Warszawa\r 2 Department of Chemistry and Biochemistry, Miami University, \r Oxford, OH 45056, USA",
+            "institute": "<sup>1</sup>Wydzia\u0142 Chemii, Uniwersytet Warszawski, ul Pasteura 1, 02-093 Warszawa </br><sup>2</sup>Department of Chemistry and Biochemistry, Miami University, \r Oxford, OH 45056, USA",
             "abstract": "There has been growing interest in development of new methods for the determination of arsenic due to its high toxity and increasing population in the environment. At present, chromatographic (separation) and spectroscopic (detection) approaches are the most common. Although, they are characterized by high sensitivity and low detection limits, the experimental procedures often require generation of toxic AsH3. Electrochemical methods for the determination of arsenic can be considered as complimentary because they are fairly simple and they are subject to different selectivity criteria. In this respect, various stripping voltammetric procedures are becoming popular. The actual stripping voltammetric measurement consists of two steps in which preconcentration of an analyte at the electrode surface is followed by the so called \"stripping\" step involving electrode reaction recorded in a&nbsp;form of the voltammetric peak. a&nbsp;representative approach involves reduction of the analyte anions upon application of the sufficiently negative potential to form As(0) on the electrode (e.g. gold) surface; this step is followed by voltammetric oxidation (anodic stripping) of the deposit (to As(III)). In a&nbsp;case of so called cathodic stripping voltammetry, the stationary Hanging Mercury Drop Electrode (HMDE) is often used. During the preconcentration step, an insoluble salt is produced on the electrode surface. To facilitate its formation, copper or selenium species are used as mediators. Under such conditions, insoluble Cu3As2 is generated together with copper amalgam on the surface of HMDE.\nBecause sensitivity and detection limit in electroanalytical determinations strongly depend on the current densities measured, there is a&nbsp;need to search for specific catalytic materials that would induce otherwise highly slow and irreversible redox processes of As(III) (oxidation) and, in particular, As(V) (reduction). Designing effective electrocatalytic materials would be of importance to the development of more sensitive stripping methods and monitoring of arsenic under chromatographic and flow conditions. Representative examples of catalytic systems are provided and discussed here. Some attention is also paid to application of enzymes to sensing of arsenic. Electrochemical determination of arsenic(III) is generally better described in literature. Direct determination of As(V) typically requires its binding into chemical compounds. It is reasonable to expect intense research in future aiming at the developing of new electroanalytical methods for direct selective determination of As(V).",
-            "authors": "Weronika Ozimek1, Iwona A. Rutkowska1, James A. Cox2, Pawe\u0142 J. Kulesza1",
+            "authors": "Weronika Ozimek<sup>1</sup>, Iwona A. Rutkowska<sup>1</sup>, James A. Cox<sup>2</sup>, Pawe\u0142 J. Kulesza<sup>1</sup>",
             "keywords": [
-                "foo",
-                "bar"
+                "arsenic",
+                "electrochemical determinations",
+                "stripping voltammetry",
+                "electrocatalysis",
+                "modified electrodes",
+                "metal and metal oxide nanoparticles"
             ],
             "ref": "Wiadomo\u015bci Chemiczne, 2015, 69, 809.",
             "emails": [
@@ -11216,10 +11310,12 @@
             "title": "Influence of Heterogeneity Biocolloids Surface on their Electrophoretic Separation",
             "institute": "Katedra Chemii \u015arodowiska i&nbsp;Bioanalityki, \r Wydzia\u0142 Chemii, Uniwersytet Miko\u0142aja Kopernika, \r ul. Gagarina 7, 87-100 Toru\u0144",
             "abstract": "Electrical properties of biocolloids, due to the unique structure and properties of the walls and cell membranes are altered by ions present in the environment. This change in the surface properties of bacterial cells has a&nbsp;major impact on the effects of cell-cell or cell-surface during the formation of aggregates or biofilm. Each microorganism has a&nbsp;complex and characteristic cell wall composition, which surface charge originates from the ionization of carboxyl, phosphate or amino groups and the adsorption of ions from solution. Consequently, the charged cell wall groups determine the spontaneous formation of the electrical double layer (EDL). The properties of the EDL affect the behavior of biocolloid including cell-to-cell and cell-to-capillary surface interactions. In addition, the inner wall surface of capillary groups (modified and/or unmodified) interact with the solvent and the analyte. Biocolloids effect of aggregation and adhesion to the surface of the capillary is unfavorable phenomenon occurring during the electrophoretic separation. These phenomena are highly correlated with the acid-base properties of the bacterial cells. Interactions between molecules are unstable, hence the analytes adsorbed on the surface concerned can be removed using a&nbsp;variety of solvents or physico-chemical and mechanical factors. However, when the bacterial cells are in close proximity to the charged surface of the capillary may be subject to specific and non-specific short-range interactions, which are characterized by high stability.\nIt has been shown the characteristics of the microbial surface in order to determine their role in adhesion and aggregation phenomena during the electrophoretic separation.\nThe use of experimental techniques, including instrumental, electrochemical and electrophoretic allowed the description of the relationship between the acid-base properties of pathogens and their behavior.\nThe review summarizes the research on biocolloids which are helpful in understanding the interactions that occur during electrophoretic analysis.",
-            "authors": "Bogus\u0142aw Buszewski*, Pawe\u0142 Pomastowski",
+            "authors": "Bogus\u0142aw Buszewski, Pawe\u0142 Pomastowski",
             "keywords": [
-                "foo",
-                "bar"
+                "biocolloids",
+                "electric double layer",
+                "zeta potential",
+                "capillary zone electrophoresis"
             ],
             "ref": "Wiadomo\u015bci Chemiczne, 2015, 69, 823.",
             "emails": [
@@ -11230,10 +11326,13 @@
             "title": "Nanosilver - Uses, Migration \r and Methods of Determination",
             "institute": "Uniwersytet w&nbsp;Bia\u0142ymstoku, Instytut Chemii, \r ul. Cio\u0142kowskiego 1K, 15-245 Bia\u0142ystok",
             "abstract": "The rapid growth in the commercial application of silver nanoparticles (AgNPs) will certainly increase the exposure to these metals among humans and in the environment. Nano-size silver particles have a&nbsp;broad spectrum of antimicrobial activity and therefore are incorporated into various materials, including medical textiles, which claim to prevent infection, as well as more common textiles, like anti-odour sportswear, underwear, socks and gloves. On the market there is also a&nbsp;variety of home consumer products claiming to contain nanosilver, for example disinfecting sprays (to disinfect hard surfaces, towels, sheets, and clothing), kitchen cutting boards, washing machines, refrigerators, dishwashers, pillows and mattresses, toothbrushes, toilet seats, water filters, and cosmetics. Nanosilver is added to food contact materials to preserve the packaged food for a&nbsp;particularly long period of time by inhibiting the growth of microbes. There is a&nbsp;number of in vitro studies showing cytotoxic effects and genotoxic DNA damaging capacity of AgNPs to a&nbsp;variety of mammalian cell types [24]. However, there are only a&nbsp;few in vivo studies on their genotoxicity. Likely routes of human exposure to released nanoparticles include inhalation, ingestion and dermal penetration. Evaluation of the health impact of AgNPs requires information on how readily and in what forms this substance can be released from the material. At present, the availability of such data is limited (Tab. 1).\nSize of metal-based nanoparticles is an important factor determining their physical and chemical properties as well as their bioavailability and toxicity. The methods used for the size characterisation of AgNPs in different matrices (consumer products, biological and environmental samples) (Tab. 2), as well as for speciation analysis of various forms of silver, namely AgNPs and silver ions, are reviewed in this paper.\nOff-line methods such as centrifugal ultrafiltration, (ultra)centrifugation, dialysis, and cloud point extraction are used in order to distinguish between nanoparticles and dissolved forms of silver. Field-flow fractionation (FFF) in different modes is used for nanoparticle size dependent separation [50]. Size-resolved AgNPs fractions are further characterised by on-line detectors, such as UV-Vis, ICP OES or ICP MS. ICP MS in single-particle detection mode is used for simultaneous determination of nanosilver and silver ions [38]. The application of capillary electrophoresis [40] and liquid chromatography [41, 42] for the separation of nano and ionic forms of silver is also discussed in this work.",
-            "authors": "Julita Malejko, Beata Godlewska-\u017by\u0142kiewicz*",
+            "authors": "Julita Malejko, Beata Godlewska-\u017by\u0142kiewicz",
             "keywords": [
-                "foo",
-                "bar"
+                "silver nanoparticles",
+                "migration",
+                "bioavailability",
+                "separation",
+                "hyphenated techniques"
             ],
             "ref": "Wiadomo\u015bci Chemiczne, 2015, 69, 847.",
             "emails": [
@@ -11242,12 +11341,13 @@
         },
         {
             "title": "New Methodological and Technical Approaches in the Field of Solid Phase Microextraction",
-            "institute": "1 Katedra Chemii Analitycznej, Wydzia\u0142 Chemiczny, Politechnika Gda\u0144ska, \r ul. G. Narutowicza 11/12 80-233 Gda\u0144sk\r 2 Katedra Chemii Fizycznej, Wydzia\u0142 Chemiczny, Politechnika Gda\u0144ska, \r ul. G. Narutowicza 11/12 80-233 Gda\u0144sk",
+            "institute": "<sup>1</sup>Katedra Chemii Analitycznej, Wydzia\u0142 Chemiczny, Politechnika Gda\u0144ska, \r ul. G. Narutowicza 11/12 80-233 Gda\u0144sk</br><sup>2</sup>Katedra Chemii Fizycznej, Wydzia\u0142 Chemiczny, Politechnika Gda\u0144ska, \r ul. G. Narutowicza 11/12 80-233 Gda\u0144sk",
             "abstract": "Sample preparation has been recognized as a&nbsp;critical step of the analytical process, being even considered as the bottleneck of the overall process. Enrichment of target compounds, transfer of the analytes into a&nbsp;solvent compatible with the analytical instrumentation, minimization of potential interferences, and efficient sample clean-up, are among the main aims of sample preparation techniques. In this regard, liquid-liquid extraction and solid-phase extraction have been conventionally employed prior to the determination of relevant compounds in a&nbsp;variety of samples. In spite of their suitable performance, these classical techniques do not fulfill several of the challenges in analytical chemistry, including miniaturization, portability, and environmental sustainability. Furthermore, the necessity to determine relevant compounds at very low concentrations in matrices of different complexity, especially when dealing with reduced sample volumes, made the improvement of sample preparation techniques being of paramount importance. The inception of solid-phase microextraction (SPME) involved a&nbsp;huge advance in this sense. SPME was firstly introduced by prof. Janusz Pawliszyn in 1990 as an alternative to conventional sample preparation methods. its small size makes SPME being highly convenient for on-site analysis and monitoring, as well as in vivo analysis. a&nbsp;variety of coating fibers for extracting analytes of different polarity and volatility are nowadays commercially available. Nevertheless, the development of novel SPME fibers with improved mechanical, chemical and thermal stability is a&nbsp;current trend in analytical chemistry, as discussed in the text. In this work the information about novel methodological and instrumental solutions in relation to different variants solid-phase microextraction (SPME) is presented. The proposed solutions fulfill the requirements resulting from the concept of sustainable development, and specifically from the implementation of green chemistry principles in analytical laboratories. Therefore particular attention was paid to the description of possible uses of novel, selective stationary phases for SPME technique. Last part presents new technical approaches in SPME field such as: Electrochemically Enhanced SPME, Membrane-SPME.",
-            "authors": "\u0141ukasz Marcinkowski2, Adam Kloskowski2, \r Jacek Namie\u015bnik1*",
+            "authors": "\u0141ukasz Marcinkowski<sup>1</sup>, Adam Kloskowski<sup>2</sup>, Jacek Namie\u015bnik<sup>1</sup>",
             "keywords": [
-                "foo",
-                "bar"
+                "green chemistry",
+                "solid phase microextraction",
+                "sample preparation techniques"
             ],
             "ref": "Wiadomo\u015bci Chemiczne, 2015, 869, .",
             "emails": [
@@ -11256,12 +11356,15 @@
         },
         {
             "title": "Interaction of Electrons with Biologically Relevant Molecules",
-            "institute": "Wydzia\u0142 Nauk \u015acis\u0142ych, Uniwersytet Przyrodniczo-Humanistyczny w&nbsp;Siedlcach, \r ul. 3 Maja 54, 08-110 Siedlce",
+            "institute": "Wydzia\u0142 Nauk \u015acis\u0142ych, Uniwersytet Przyrodniczo-Humanistyczny w&nbsp;Siedlcach, ul. 3 Maja 54, 08-110 Siedlce",
             "abstract": "Recent years have witnessed an increase of the interest in the studies of the interaction of electrons with biologically relevant molecules. This has been mainly motivated by the seminal work, where it has been demonstrated that low energy electrons can induce single and double strand breaks in DNA in the energy range below the level of ionization. Since the damage profile as a&nbsp;function of electron energy showed pronounced resonances it was proposed that resonant electron capture could occur at particular molecular components of the DNA as the initial step towards strand breaks. From a&nbsp;series of experiments on electron attachment to DNA building blocks (nucleobases, the sugar moiety and the phosphate unit) became obvious that they effectively capture electrons leading to the formation of low energy resonances associated with the decomposition of the corresponding molecule. Recent dissociative electron attachment experiments on an entire gas phase nucleotide 2'-deoxycytidine-5\u00b4-monophosphate give also insight into the molecular mechanism involved, which comprises both direct electron attachment to the backbone and transfer of the excess electron from cytosine to the backbone resulting in single strand breaks. The results further allow an estimate of the relative contribution of these different mechanisms to single strand breaks.",
-            "authors": "Janina Kopyra*",
+            "authors": "Janina Kopyra",
             "keywords": [
                 "foo",
-                "bar"
+                "dissociative electron attachment",
+                "mass spectrometry",
+                "negative ions",
+                "biologically relevant molecules"
             ],
             "ref": "Wiadomo\u015bci Chemiczne, 2015, 69, 893.",
             "emails": [
@@ -11272,10 +11375,12 @@
             "title": "Cell Engineering in Lab-On-Chip Systems",
             "institute": "Wydzia\u0142 Chemiczny Politechniki Warszawskiej, Instytut Biotechnologii, \r Zak\u0142ad Mikrobioanalityki, \r ul. Noakowskiego 3, 00-664 Warszawa",
             "abstract": "Lab-on-a-chip systems are promising tools in the field of cell engineering. Microfluidic systems are integrated microlaboratories consisting of many microstructures such as microchannels and microchambers, which can be used for cell analysis and cell culture. Appropriately designed geometry of the chip allows to mimic in vivo conditions. Microsystems enables continuous culture medium perfusion. During cell culture, regulation of the flow rate of medium is possible, which allows to control conditions of the cultivation.\nIn this paper we present a&nbsp;review of microfluidics systems which are used in cell engineering. We describe methods of microsystems fabrication, parameters which influence cell proliferation in microscale and examples of microsystems for cell analysis and cell culturing. Microfluidic systems for maintaining cell culture are mainly fabricated of poly(dimethylsiloxane) (PDMS) and glass, non-toxic materials for cells. The most commonly used method for fabrication of PDMS microsystems is photolithography and replica molding techniques. Cell culture in microsystems can be carried out in two ways: as a&nbsp;two-dimensional (2D) cell culture and three-dimensional (3D) cell culture. In two-dimensional culture cells grow as a&nbsp;monolayer on a&nbsp;flat surface of microchambers or microchannels. Microsystems for two-dimensional cell culture are widely described in the literature. They are mainly used for: (i) cell proliferation after exposure to external stimuli, (ii) testing the activity of cytotoxic drugs, (iii) interactions and cell migration and (iv) the evaluation of procedures applicable in tumor therapy e. g. photodynamic therapy. However, two-dimensional cell culture do not mimic fully in vivo conditions. In living organisms cells grow spatially creating three-dimensional structures like tissues. Therefore, nowadays microsystems for 3D cell culture are being developed intensively. Three-dimensional cell culture in microfluidic systems can be achieved in three ways: by the design of suitable geometry and topography of microchannels, by the use of hydrogels or by spheroids formation. Three-dimensional cell culture in microfluidic systems are much better experimental in vitro models than cell culture in traditional culture vessels. It is the main reason why microsystems should be still improved, as to become widely used research tools in cellular engineering.",
-            "authors": "Ewelina Tomecka*, Katarzyna Tokarska, \r El\u017cbieta Jastrz\u0119bska, Micha\u0142 Chudy, Zbigniew Brz\u00f3zka",
+            "authors": "Ewelina Tomecka, Katarzyna Tokarska, \r El\u017cbieta Jastrz\u0119bska, Micha\u0142 Chudy, Zbigniew Brz\u00f3zka",
             "keywords": [
-                "foo",
-                "bar"
+                "cell engineering",
+                "microfluidic systems",
+                "two-dimensional (2D) cell culture",
+                "three-dimensional (3D) cell culture"
             ],
             "ref": "Wiadomo\u015bci Chemiczne, 2015, 69, 909.",
             "emails": [
@@ -11286,10 +11391,13 @@
             "title": "Electrochemical Methods in Bioanalytics \r - Selected Aspects",
             "institute": "Politechnika Warszawska, Wydzia\u0142 Chemiczny, Zak\u0142ad Mikrobioanalityki, \r ul. Noakowskiego 3, 00-664 Warszawa",
             "abstract": "The cooperation of scientists specializing in different fields has given rise to the integration of previously distinct thematic areas and creation of new multidimensional disciplines as a&nbsp;result. Biochemistry, which has derived from the borderline of chemistry and biology, can be set as a&nbsp;good example. In this short review an insight into electrochemical studies, which are currently carried out in the Department of Microbioanalytics at the Faculty of Chemistry (Warsaw University of Technology), was presented. Three independent scientific pathways introducing electrochemical methods for biochemical and bioanalytical purposes can be distinguished among the ongoing researches.\nThe first one embraces the design of the so-called electronic tongue - a&nbsp;system used for the qualitative and quantitative analysis of liquid samples of complex composition. In this work, potentiometric sensor arrays were applied to develop an electronic tongue system enabling the evaluation of the effectiveness of bitter taste masking of pharmaceuticals. The second scientific pathway involves voltammetric studies of the interactions of biologically active peptides with copper(II) ions. The interest was drawn to clarify and describe the role of \u00df-amyloid and NSFRY copper(II) complexes, relevant to Alzheimer's disease occurrence and cardiovascular system disorder respectively. Finally, boronic acids and their derivatives, exhibiting the affinity for molecules possessing 1,2 or 1,3-diol group in their structure, were used as selective molecular receptors in the third research project. The studies include the selection of the optimal method and conditions of the immobilization process, providing the most favorable receptor layer structure, and the determination of the performances of constructed electrochemical sensor towards particular bioanalytes.",
-            "authors": "Iwona Ufnalska*, Magdalena Zofia Wiloch, \r Ma\u0142gorzata Weso\u0142y, Pawe\u0142 \u0106wik, Marcin Zabadaj, \r Patrycja Ciosek, Urszula El\u017cbieta Wawrzyniak, \r Wojciech Wr\u00f3blewski",
+            "authors": "Iwona Ufnalska, Magdalena Zofia Wiloch, \r Ma\u0142gorzata Weso\u0142y, Pawe\u0142 \u0106wik, Marcin Zabadaj, \r Patrycja Ciosek, Urszula El\u017cbieta Wawrzyniak, \r Wojciech Wr\u00f3blewski",
             "keywords": [
-                "foo",
-                "bar"
+                "electrochemistry",
+                "electronic tongue",
+                "chemometrics",
+                "peptide-copper(II) complexes",
+                "boroorganic layers"
             ],
             "ref": "Wiadomo\u015bci Chemiczne, 2015, 69, 931.",
             "emails": [
@@ -11298,12 +11406,14 @@
         },
         {
             "title": "Synthesis of Modified Oligonucleotides Containing Stereodefined Internucleotide \r Phosphorothioate Bonds",
-            "institute": "1Centrum Bada\u0144 Molekularnych i&nbsp;Makromolekularnych Polskiej Akademii Nauk, Zak\u0142ad Chemii Bioorganicznej, \r ul. Sienkiewicza 112, 90-363 \u0141\u00f3d\u017a\r 2 Wydzia\u0142 Matematyczno-Przyrodniczy, Instytut Chemii i&nbsp;Ochrony \u015arodowiska, Akademia im. Jana D\u0142ugosza, \r al. Armii Krajowej 13/15, 42-200 Cz\u0119stochowa",
-            "abstract": "Synthetic oligonucleotides constitute an important class of compounds which can exhibit biological activity. As potential drugs they could be employed in antisense strategy by acting on the pathogenic mRNA, causing inactivation of the target molecules during the translation process [1]. Ideal antisense agent (ASO) should be resistant to exo and/or endonucleases, exhibit a&nbsp;suitable pharmacological and pharmacokinetic profile and exhibits high binding affinity towards the target mRNA. To improve some properties of the ASO plethora of the chemical modifications introduced within the nucleobase, sugar unit and internucleotide linkage are investigated [3]. Among them, phosphorothioate oligonucleotides (PS-oligo), created by replacing one of the nonbridging oxygen atoms with a&nbsp;sulfur atom, are the major representatives of DNA analogs. PS-oligo display several attractive features like nuclease resistance, activation of RNase H, and good pharmacokinetic properties [1].\nReplacement of one of two nonbridging oxygens at phosphorus by sulfur induces asymmetry at the phosphorus atom. Hence, the synthesized oligo(nucleoside phosphorothioate) is a&nbsp;mixture of 2n diastereomers (where n is the number of internucleotide phosphorothioate functions). Therefore the actual biological activity of the P-chiral oligonucleotide analogues, (e.g., interactions with proteins or nucleic acids) may depend on stereochemical factors [7]. One has to keep in mind that the phosphoramidite [5] and H-phosphonate [32] methodologies (commonly used to prepare PS-oligo) are nonstereospecific and give a&nbsp;mixture of 2n diastereomers. Thus, various methods have been elaborated to synthesize these P-chiral oligonucleotide analogs in a&nbsp;stereocontrolled manner [15, 17], among them the oxathiaphospholane method developed by Stec et al. [18], the method utilizing nucleoside 3'-O-(3-N-acyl)oxazaphospholidine derivatives as monomer units [19], and the method based on a&nbsp;stereoselective synthesis of nucleoside 3'-O-oxazaphospholidine monomers [21, 22] are the most significant.",
-            "authors": "Ewa Radzikowska*1, Renata Kaczmarek1, \r Janina Baraniak2",
+            "institute": "<sup>1</sup>Centrum Bada\u0144 Molekularnych i&nbsp;Makromolekularnych Polskiej Akademii Nauk, Zak\u0142ad Chemii Bioorganicznej, \r ul. Sienkiewicza 112, 90-363 \u0141\u00f3d\u017a</br><sup>2</sup>Wydzia\u0142 Matematyczno-Przyrodniczy, Instytut Chemii i&nbsp;Ochrony \u015arodowiska, Akademia im. Jana D\u0142ugosza, \r al. Armii Krajowej 13/15, 42-200 Cz\u0119stochowa",
+            "abstract": "Synthetic oligonucleotides constitute an important class of compounds which can exhibit biological activity. As potential drugs they could be employed in antisense strategy by acting on the pathogenic mRNA, causing inactivation of the target molecules during the translation process [1]. Ideal antisense agent (ASO) should be resistant to exo and/or endonucleases, exhibit a&nbsp;suitable pharmacological and pharmacokinetic profile and exhibits high binding affinity towards the target mRNA. To improve some properties of the ASO plethora of the chemical modifications introduced within the nucleobase, sugar unit and internucleotide linkage are investigated [3]. Among them, phosphorothioate oligonucleotides (PS-oligo), created by replacing one of the nonbridging oxygen atoms with a&nbsp;sulfur atom, are the major representatives of DNA analogs. PS-oligo display several attractive features like nuclease resistance, activation of RNase H, and good pharmacokinetic properties [1].\nReplacement of one of two nonbridging oxygens at phosphorus by sulfur induces asymmetry at the phosphorus atom. Hence, the synthesized oligo(nucleoside phosphorothioate) is a&nbsp;mixture of 2<sup>n</sup> diastereomers (where n is the number of internucleotide phosphorothioate functions). Therefore the actual biological activity of the P-chiral oligonucleotide analogues, (e.g., interactions with proteins or nucleic acids) may depend on stereochemical factors [7]. One has to keep in mind that the phosphoramidite [5] and H-phosphonate [32] methodologies (commonly used to prepare PS-oligo) are nonstereospecific and give a&nbsp;mixture of 2<sup>n</sup> diastereomers. Thus, various methods have been elaborated to synthesize these P-chiral oligonucleotide analogs in a&nbsp;stereocontrolled manner [15, 17], among them the oxathiaphospholane method developed by Stec et al. [18], the method utilizing nucleoside 3'-O-(3-N-acyl)oxazaphospholidine derivatives as monomer units [19], and the method based on a&nbsp;stereoselective synthesis of nucleoside 3'-O-oxazaphospholidine monomers [21, 22] are the most significant.",
+            "authors": "Ewa Radzikowska<sup>1</sup>, Renata Kaczmarek<sup>1</sup>, \r Janina Baraniak<sup>2</sup>",
             "keywords": [
-                "foo",
-                "bar"
+                "oligo(deoxy)ribonucleoside phosphorothioates",
+                "antisense oligonucleotides",
+                "synthesis of modified oligonucleotide",
+                "stereospecific synthesis"
             ],
             "ref": "Wiadomo\u015bci Chemiczne, 2015, 69, 957.",
             "emails": [
@@ -11312,12 +11422,13 @@
         },
         {
             "title": "Synthesis of Olivacine",
-            "institute": "Katedra i&nbsp;Zak\u0142ad Chemii Organicznej Uniwersytetu Medycznego we Wroc\u0142awiu, \r ul. Borowska 211a, 50-556 Wroc\u0142aw, Katedra i&nbsp;Zak\u0142ad Chemii Lek\u00f3w Uniwersytetu Medycznego we Wroc\u0142awiu, \r ul. Borowska 211, 50-556 Wroc\u0142aw",
+            "institute": "<sup>1</sup>Katedra i&nbsp;Zak\u0142ad Chemii Organicznej Uniwersytetu Medycznego we Wroc\u0142awiu, \r ul. Borowska 211a, 50-556 Wroc\u0142aw</br><sup>2</sup>Katedra i&nbsp;Zak\u0142ad Chemii Lek\u00f3w Uniwersytetu Medycznego we Wroc\u0142awiu, \r ul. Borowska 211, 50-556 Wroc\u0142aw",
             "abstract": "Olivacine (1,5-methyl-6H-pyrido[4,3-b]carbazole) is an isomer of ellipticine (5,11-dimethyl-6H-pyrido[4,3-b] carbazole). Both of these heterocyclic compounds are carbazole derivatives, which exhibit broad spectrum of biological activity [1], especially as antineoplastic agents [2-9]. These four-ring heterocycles can be isolated from natural sources [10-16], or prepared synthetically. Chemical literature described more than 20 method of synthesis of olivacine [2, 17-34]. In this paper we described five selected syntheses of this alkaloid. In the first one this compound can be obtained during a&nbsp;multistep synthesis starting from 1-benzenesulfonyl-2-lithioindole [35]. a&nbsp;shorter method to get olivacine was the condensation of indole with an ethylene ketal [35]. Third synthesis starts from obtaining benzenosulfonyloindol from indole [37]. Another way starts from the synthesis of 1-(tert-butoxy)carbonyloindol [38]. Fifth method to get olivacine is the synthesis from the 1H-indole-2-carboxylate [39].",
-            "authors": "Beata Tyli\u0144ska1, Aleksandra Redzicka2",
+            "authors": "Beata Tyli\u0144ska<sup>1</sup>, Aleksandra Redzicka<sup>2</sup>",
             "keywords": [
-                "foo",
-                "bar"
+                "synthesis",
+                "olivacine",
+                "pyrido[4,3-b]carbazole"
             ],
             "ref": "Wiadomo\u015bci Chemiczne, 2015, 69, 983.",
             "emails": [
@@ -11329,10 +11440,10 @@
             "title": "Natural and Synthetic Structural Analogs of Ionones",
             "institute": "Katedra Chemii, Uniwersytet Przyrodniczy we Wroc\u0142awiu, \r ul. Norwida 25, 50-375 Wroc\u0142aw",
             "abstract": "Both plants and animals in the process of evolution gained the ability to produce compounds that affect their existence in the wild. These compounds may affect the organisms producing them, and may also be used by completely different individuals. Among huge number of molecules characterized by extremely essential features are, among others, ionones and their derivatives. Ionones are ketones composed of 13 carbon atoms. They are found in many essential oils being the products of degradation of carotenoids. Both they and their structural analogues can play various biological functions such as being deterrent to other individuals or, conversely, atractant. Compounds found in plants, containing like ionone carbon skeleton, and having in their structure additional hydroxyl groups or epoxide ring (4)-(23) often exhibit allelopathic activity [1-15] (Fig. 2-5). Marine animals may in turn use them as ichtyotoxic compounds (27) and (28) [19] (Fig. 7). a&nbsp;compound called luciferin Latia (29) is responsible for the bioluminescent properties of marine snail [20] (Fig. 8). Plants used for centuries in traditional folk medicine of different countries are a&nbsp;source of glycoside derived \u03b1- and \u03b2-ionone (37)-(55) [22-31] (Fig. 11-14). These compounds may also be used in modern medicine, inter alia, in the regulation of neurodegenerative diseases or for the treatment of osteoporosis. Because of the potential biological properties of structural analogs of ionones they are also obtained by chemical synthesis (56)-(69) [32-39] (Fig. 15-18) or biotransformation (70)-(89) [40-47] (Fig. 19-25), and then subjected to careful examination of their biological activities. By applying these methods we can also obtain a&nbsp;molecules whose acquisition from natural sources is unprofitable. We have received such derivatives which have no counterpart in nature.",
-            "authors": "Ma\u0142gorzata Grabarczyk*, Katarzyna Wi\u0144ska, Wanda M\u0105czka",
+            "authors": "Ma\u0142gorzata Grabarczyk, Katarzyna Wi\u0144ska, Wanda M\u0105czka",
             "keywords": [
-                "foo",
-                "bar"
+                "ionone derivatives",
+                "biological activity"
             ],
             "ref": "Wiadomo\u015bci Chemiczne, 2015, 69, 997.",
             "emails": [
@@ -11343,10 +11454,12 @@
             "title": "Recent Advances in the Synthesis of Tropane Alkaloids and other Tropane Derivatives",
             "institute": "Instytut Chemii, Uniwersytet w&nbsp;Bia\u0142ymstoku, \r ul. Cio\u0142kowskiego 1K, 15-245 Bia\u0142ystok",
             "abstract": "Tropane alkaloids are a&nbsp;long-known class of compounds possessing an 8-azabicyclo[3.2.1]octane skeleton. Many tropane alkaloids posses biological activity (anticholinergic, anti-Parkinsonian, hypotensive), and as such had a&nbsp;significant influence on medicine and played a&nbsp;notable role in the development of organic chemistry [1]. The most known representatives of biologically active tropane alkaloids are: cocaine, atropine, scopolamine, ecgonine, and Bao Gong Teng A. a&nbsp;number of natural tropane alkaloids are chiral compounds, whose preparation in optically active forms is still a&nbsp;big challeng [2]. The biological activity of enantiomers often differs depending on their configurations.\nAlkaloids are a&nbsp;subject of an intensive research: scopus database contains nearly 200 thousand publications with the word \"alkaloid\", and almost 4,500 publications with the phrase \"tropane alkaloids\" (about half of them have appeared in the last ten years). About 55 papers are devoted to stereoselective synthesis of tropane derivatives in 2000-2015. About half of this concernes stereoselective methods.\nThe organic synthesis of alkaloids has a&nbsp;long history and numerous synthetic approaches to the tropane skeleton have been developed, from the classical synthesis of tropinone by Willst\u00e4tter at the beginning of the XX century, to more recent developments dealing with asymmetric deprotonation of tropinone with chiral lithium amide bases for the enantioselective synthesis of a&nbsp;range of tropanes [3, 4]. Owing to extensiveness of the field, the current review presents the most interesting, from a&nbsp;synthetic point of view, approaches to tropane derivatives and tropane analogues.\nMost of the methods of synthesis are long (often several steps), time- and recourses-intensive, and often required elaborate and hardly available starting materials. But there are also notable exceptions, based on the asymmetric deprotonation approach; e.g., from the syntheses of cocaine described in this article, the most efficient one was reported by Lee in 2000 [5]. The concise synthesis (6 steps) gave the unnatural enantiomer of cocaine starting from commercially available tropinone in 78% overall yield. This approach allows to obtain both enantiomers and racemate, by changing type of one reactant only. However, most strategies provide only one enantiomer or racemic mixture of an alkaloid. As can be seen, despite of advances in chemicall science, there is no general way to synthesize majority of the representatives of this group of structurally related compounds.",
-            "authors": "Katarzyna Sidorowicz*, Krzysztof Kropiwnicki, Ryszard \u0141a\u017any",
+            "authors": "Katarzyna Sidorowicz, Krzysztof Kropiwnicki, Ryszard \u0141a\u017any",
             "keywords": [
-                "foo",
-                "bar"
+                "synthesis",
+                "tropane alkaloids",
+                "tropane derivatives",
+                "stereoselective synthesis"
             ],
             "ref": "Wiadomo\u015bci Chemiczne, 2015, 69, 1019.",
             "emails": [
@@ -11355,12 +11468,13 @@
         },
         {
             "title": "Cardiac Glycosides - New Trends in Medicinal Chemistry of Saponins and their Genins",
-            "institute": "1 Instytut Farmaceutyczny, \r ul. Rydygiera 8, 01-793 Warszawa 2 Wydzia\u0142 Chemii Politechniki \u015al\u0105skiej, \r ul. Krzywoustego 8, 44-100 Gliwice",
+            "institute": "<sup>1</sup>Instytut Farmaceutyczny, \r ul. Rydygiera 8, 01-793 Warszawa</br><sup>2</sup>Wydzia\u0142 Chemii Politechniki \u015al\u0105skiej, \r ul. Krzywoustego 8, 44-100 Gliwice",
             "abstract": "Plant secondary metabolites - ubiquitous low molecular weight chemicals which are not essentials for the host existence and reproduction but serve many auxiliary functions, are frequently occurring as glycosides, for which particularly abundant examples exist in antibiotic, saponins and flavonoid categories. Cardiac glycosides (CG), originally isolated from Digitalis plants, also known as cardiotonic steroids, have particularly extensive record of ethnopharmacological and medicinal use. Although their application in treatment of dropsy is documented since 1875, long time has elapsed before their chemical structure were determined and mechanisms of their toxicity and cardiotonic action were recognized as inhibition of Na+ / K+ ATP-ase pump. Contemporary molecular pharmacology has revealed that cardiac glycosides are endogenous compounds in variety of animals, where they function as toxins or hormones. Besides, numerous recent studies confirmed anticancer activity of CGs at very low concentrations. These findings have been possible due to advances in ultrasensitive analytical techniques and also due to progress in organic synthesis, particularly total enantioselective syntheses of carbohydrates, which secured availability of individual CG and their analogs for medicinal chemistry studies.",
-            "authors": "Grzegorz Grynkiewicz*1, Wies\u0142aw Szeja2",
+            "authors": "Grzegorz Grynkiewicz<sup>1</sup>, Wies\u0142aw Szeja<sup>2</sup>",
             "keywords": [
-                "foo",
-                "bar"
+                "cardiac glycosides",
+                "digitoxin",
+                "digitoxose synthesis"
             ],
             "ref": "Wiadomo\u015bci Chemiczne, 2015, 69, 1047.",
             "emails": [
@@ -11371,10 +11485,12 @@
             "title": "Perspective of Selenium Fortifications of Plants with Economic Importance to Poland",
             "institute": "Politechnika Wroc\u0142awska, \r Wydzia\u0142 Chemiczny, Zak\u0142ad Zaawansowanych Technologii Materia\u0142owych, \r ul. Smoluchowskiego 25, 50-372 Wroc\u0142aw",
             "abstract": "Selenium is an essential element for animals and human. Thus, its growing deficiency, observed since many years in many European countries leads to consider available strategies of rising selenium level in diet of local inhabitant and farm animals that may ensure safety and commonness of such solution. Agronomic fortification, as one of the way, has been successfully proven in other countries with similar problem like Finland, United Kingdom, Australia or New Zealand. While most of the food and feed consumed in Poland came from internal market, the implementation of this strategy in Poland may have beneficial effects on health of farm animals and local inhabitants. The most suitable plants for agronomic biofortification with selenium in Poland are crops, especially cereals and selected members of mustard plants. They have a&nbsp;great share in agriculture land in this country and what results from their metabolism, can assure biologically active, i.e. desired by final consumers, selenium compounds. Based on the current knowledge and experiences in biofortification of crops with selenium, a&nbsp;novel technology that increase selenium content in edible parts of plants of interest should be developed and implemented in Poland.",
-            "authors": "Aleksander Darecki, Agnieszka Saeid*, Henryk G\u00f3recki",
+            "authors": "Aleksander Darecki, Agnieszka Saeid, Henryk G\u00f3recki",
             "keywords": [
-                "foo",
-                "bar"
+                "selenium",
+                "agronomic biofortification",
+                "food",
+                "microelement deficiency"
             ],
             "ref": "Wiadomo\u015bci Chemiczne, 2015, 69, 1067.", 
             "emails": [
@@ -11387,7 +11503,7 @@
             "title": "Anion alkoksyallenowy w syntezie związków naturalnych i ich analogów",
             "institute": "Wydział Chemii Uniwersytetu Łódzkiego ul. Tamka 12, 91-403 Łódź",
             "abstract": "Among diverse systems containing multiple bonds, cumulenes are recognized as the most reactive derivatives towards both nucleophilic and electrophilic agents, and for this reason, they are considered as important class of substrates for organic synthesis. Over the last three decades alkoxyallenes have been demonstrated as highly useful C3-building blocks for the construction of numerous N-, O-, and S-containing heterocycles, including enantiomerically pure compounds. Special attention has been paid to lithiated alkoxyallenes as suitable nucleophiles for the reactions with alkyl halides, strained heterocycles, carbonyl compounds and their derivatives. The presence of the allene unit in the initially formed adducts opens up several possibilities in the preparation of more complex systems. In this review, selected applications of lithiated alkoxyallenes in the synthesis of natural products and their analogues are discussed.",
-            "authors": "Beata Busiak, Greta Utecht, Marcin Jasiński*",
+            "authors": "Beata Busiak, Greta Utecht, Marcin Jasiński",
             "keywords": [
                 "alkoxyallenes",
                 "nucleophilic addition",
