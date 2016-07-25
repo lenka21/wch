@@ -1,130 +1,130 @@
 {
   "library": [
     {
+      "title": "Nomenklatura steroidów",
+      "author": "J.W.Morzycki, W.J.Szczepek",
+      "price": "0,00",
+      "available": false
+    },
+    {
       "title": "Nomenklatura chemii nieorganicznej (Zalecenia 1990)",
-      "author": "red. Zofia Stasicka",
-      "price": "25",
-      "available": "yes"
+      "author": "red.&nbsp;Z.Stasicka",
+      "price": "25,00",
+      "available": true
     },
     {
       "title": "Nomenklatura związków chemicznych. Poradnik dla nauczycieli",
-      "author": "Z. Kluz, M. Późniczek",
-      "price": "10",
-      "available": "yes"
+      "author": "Z.Kluz, M.Późniczek",
+      "price": "10,00",
+      "available": true
     },
     {
       "title": "Podstawowa terminologia stereochemii (Zalecenia 1996). Słownik podstawowych terminów w nauce o polimerach (Zalecenia 1996)",
-      "author": "Osman Achmatowicz, Barbara Szechner, Przemysław Kubisa",
-      "price": "12",
-      "available": "yes"
+      "author": "O.Achmatowicz, B.Szechner, P.Kubisa",
+      "price": "12,00",
+      "available": true
     },
     {
       "title": "Nomenklatura weglowodanów (Zalecenia 1996)",
-      "author": "tłum. i red. T.Sokołowska i A.Wiśniewski",
-      "price": "18",
-      "available": "yes"
+      "author": "tłum.&nbsp;i&nbsp;red.&nbsp;T.Sokołowska i&nbsp;A.Wiśniewski",
+      "price": "18,00",
+      "available": true
     },
     {
       "title": "Bronisław Radziszewski i lwowska szkoła chemii organicznej",
       "author": "I.Z.Siemion",
-      "price": "18",
-      "available": "yes"
+      "price": "18,00",
+      "available": true
     },
     {
       "title": "Fizykochemia molekuł zamkniętych w zeolitach i zol-żelach",
-      "author": "Krzysztof Maruszewski",
-      "price": "18",
-      "available": "yes"
+      "author": "K.Maruszewski",
+      "price": "18,00",
+      "available": true
     },
     {
       "title": "Uporządkowane materiały mezoporowatered",
       "author": "B.Burczuk",
-      "price": "18",
-      "available": "yes"
+      "price": "18,00",
+      "available": true
     },
     {
       "title": "Skorygowana nomenklatura rodników, jonów, jonorodników i podobnych indywiduów chemicznych (Zalecenia 1993)",
-      "author": "red. T.Sokołowska i A.Wiśniewski",
-      "price": "15",
-      "available": "yes"
+      "author": "red.&nbsp;T.Sokołowska i A.Wiśniewski",
+      "price": "15,00",
+      "available": true
     },
     {
       "title": "Lutum sapientiae, czyli Notatek chaotycznych część pierwsza",
       "author": "I.Z.Siemion",
-      "price": "18",
-      "available": "yes"
+      "price": "18,00",
+      "available": true
     },
     {
       "title": "Ruchliwość jonów w podwójnych układach stopionych soli",
-      "author": "Monika Zabłocka-Malicka, Włodzimierz Szczepaniak, Bartłomiej Ciechanowski, Anna Kot",
-      "price": "0",
-      "available": "yes"
-    },
-    {
-      "title": "Bibliografia Wiadomości Chemicznych za lata 1998-1997",
-      "author": "0",
-      "price": "3",
-      "available": "yes"
+      "author": "M.Zabłocka-Malicka, W.Szczepaniak, B.Ciechanowski, A.Kot",
+      "price": "8,00",
+      "available": true
     },
     {
       "title": "Nanomateriały",
-      "author": "red. D.Hreniak, W.Łojewski, W.Stręk, M.Suszyńska",
-      "price": "25",
-      "available": "yes"
+      "author": "red.&nbsp;D.Hreniak, W.Łojewski, W.Stręk, M.Suszyńska",
+      "price": "25,00",
+      "available": true
     },
     {
       "title": "Glosariusz nazw klas związków organicznych i reaktywnych produktów pośrednich oparty na strukturze (Zalecenia IUPAC 1994)",
-      "author": "F. Kaźmierczak, J. Gawroński",
-      "price": "16",
-      "available": "yes"
+      "author": "F.Kaźmierczak, J.Gawroński",
+      "price": "16,00",
+      "available": true
     },
     {
       "title": "Ogniwa paliwowe. Nowe kierunki rozwoju",
       "author": "praca zbiorowa",
-      "price": "20",
-      "available": "yes"
+      "price": "20,00",
+      "available": true
     },
     {
       "title": "Oddziaływanie leków nowotworowych z białkami osocza i wybranymi białkami wewnątrzkomórkowymi",
-      "author": "Lilianna Trynda-Lemiesz",
-      "price": "18",
-      "available": "no"
+      "author": "L.Trynda-Lemiesz",
+      "price": "18,00",
+      "available": false
     },
     {
       "title": "Od substancji prostych do życia. Świat RNA - początki życia na ziemi",
-      "author": "Zdzisław Chilmonczyk",
-      "price": "18",
-      "available": "no"
+      "author": "Z.Chilmonczyk",
+      "price": "18,00",
+      "available": false
     },
     {
       "title": "Profesor Bogusława Jeżowska-Trzebiatowska 1908-1991",
-      "author": "prof. dr hab. J. J. Ziółkowski",
-      "price": "12",
-      "available": "yes"
+      "author": "prof.&nbsp;dr&nbsp;hab.&nbsp;J.J.Ziółkowski",
+      "price": "12,00",
+      "available": true
     },
     {
       "title": "Chemia koordynacyjna w Polsce. Część I",
-      "author": "prof. dr hab. J. J. Ziółkowski",
+      "author": "prof.&nbsp;dr&nbsp;hab.&nbsp;J.J.Ziółkowski",
       "price": "17,50",
-      "available": "yes"
+      "available": true
     },
     {
       "title": "Chemia koordynacyjna w Polsce. Część II",
-      "author": "prof. dr hab. J. J. Ziółkowski",
+      "author": "prof.&nbsp;dr&nbsp;hab.&nbsp;J.J.Ziółkowski",
       "price": "17,50",
-      "available": "yes"
+      "available": true
     },
     {
       "title": "Chemosensory Optyczne oraz Materiały Rozpoznawcze dla Jonów Metali w Roztworach",
-      "author": "Krzysztof Kledzik",
-      "price": "22",
-      "available": "yes"
+      "author": "K.Kledzik",
+      "price": "22,00",
+      "available": true
     },
     {
       "title": "Obliczenia teoretyczne stałej ekranowania magnetycznego i stałych sprzężeń spinowo-spinowych",
-      "author": "Teobald Kupka",
-      "price": "20",
-      "available": "yes"
+      "author": "T.Kupka",
+      "price": "20,00",
+      "available": true
     }
   ]
 }

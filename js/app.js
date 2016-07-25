@@ -16,7 +16,7 @@ wchApp.config(['$routeProvider',
       })
       .when('/sales', {
         templateUrl: 'templates/sales/sales.html',
-        controller: 'HomeCtrl'
+        controller: 'SalesCtrl'
       })
       .when('/terms', {
         templateUrl: 'templates/terms/terms.html',

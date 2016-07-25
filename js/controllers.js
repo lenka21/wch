@@ -15,6 +15,14 @@ wchControllers.controller('AbstractCtrl', ['$scope', '$http', '$routeParams',
     }
 ]);
 
+wchControllers.controller('SalesCtrl', ['$scope', '$http',
+    function ($scope, $http) {
+        $http.get('library.json').success(function(data){
+            $scope.library = data;
+        });
+    }
+]);
+
 wchControllers.controller('menuController', function($scope){
     $scope.menuItems = [
         {
