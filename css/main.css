@@ -67,6 +67,23 @@ nav .open>a, .nav .open>a:hover, .nav .open>a:focus {
     display: inline-block;
 }
 
+.ms-navbar-fixed {
+    position: fixed;
+    z-index: 1030;
+}
+
+.navbar.ms-navbar-fixed {
+    border-width: 0 2px 1px 0;
+}
+
+@media (max-width: 1199px) {
+    .ms-container {
+        padding-top: 150px;
+    }
+
+
+}
+
 @media (min-width: 768px) {
     .navbar-form {
         width: auto;
@@ -79,16 +96,29 @@ nav .open>a, .nav .open>a:hover, .nav .open>a:focus {
         box-shadow: none;
     }
 
+    .ms-navbar-fixed {
+        position: fixed;
+        z-index: 1030;
+    }
+
+    .ms-container {
+        padding-top: 70px;
+    }
+
     .container {
         margin-bottom: 12px;
+        margin-right: auto;
+        margin-left: auto;
+        padding-left: 0px;
+        padding-right: 0px;
     }
 }
 
 @media (max-width: 767px) {
+
     .container {
         margin-bottom: 32px;
     }
-
 }
 
 @media (max-width: 378px) {
@@ -97,3 +127,7 @@ nav .open>a, .nav .open>a:hover, .nav .open>a:focus {
     }
 
 }
+
+
+
+
