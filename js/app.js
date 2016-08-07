@@ -5,9 +5,8 @@ var wchApp = angular.module('wchApp', [
   'bootstrapSubmenu'
 ]);
 
-wchApp.config(['$routeProvider',
-  function($routeProvider) {
-
+wchApp.config(['$routeProvider', '$locationProvider',
+  function($routeProvider, $locationProvider) {
 
     $routeProvider
       .when('/home', {
@@ -53,4 +52,8 @@ wchApp.config(['$routeProvider',
       .otherwise({
         redirectTo: '/home'
       });
+
+    // use the HTML5 History API
+    $locationProvider.html5Mode(true);
+
   }]);
