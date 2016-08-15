@@ -67,11 +67,12 @@ nav .open>a, .nav .open>a:hover, .nav .open>a:focus {
     display: inline-block;
 }
 
+
+
 @media (min-width: 768px) {
     .navbar-form {
         width: auto;
         border: 0;
-        margin-left: -15px;
         margin-right: -15px;
         padding-top: 0;
         padding-bottom: 0;
@@ -82,6 +83,9 @@ nav .open>a, .nav .open>a:hover, .nav .open>a:focus {
     .container {
         margin-bottom: 12px;
     }
+    .committee {
+    height: 345px;
+}
 }
 
 @media (max-width: 767px) {
@@ -94,6 +98,10 @@ nav .open>a, .nav .open>a:hover, .nav .open>a:focus {
 @media (max-width: 378px) {
     .container {
         margin-bottom: 52px;
+    }
+
+    .navbar-form {
+        margin-left: -15px;
     }
 
 }
