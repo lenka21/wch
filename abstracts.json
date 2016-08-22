@@ -11722,7 +11722,6 @@
             "abstract": "Recent years have witnessed an increase of the interest in the studies of the interaction of electrons with biologically relevant molecules. This has been mainly motivated by the seminal work, where it has been demonstrated that low energy electrons can induce single and double strand breaks in DNA in the energy range below the level of ionization. Since the damage profile as a&nbsp;function of electron energy showed pronounced resonances it was proposed that resonant electron capture could occur at particular molecular components of the DNA as the initial step towards strand breaks. From a&nbsp;series of experiments on electron attachment to DNA building blocks (nucleobases, the sugar moiety and the phosphate unit) became obvious that they effectively capture electrons leading to the formation of low energy resonances associated with the decomposition of the corresponding molecule. Recent dissociative electron attachment experiments on an entire gas phase nucleotide 2'-deoxycytidine-5\u00b4-monophosphate give also insight into the molecular mechanism involved, which comprises both direct electron attachment to the backbone and transfer of the excess electron from cytosine to the backbone resulting in single strand breaks. The results further allow an estimate of the relative contribution of these different mechanisms to single strand breaks.",
             "authors": "Janina Kopyra",
             "keywords": [
-                "foo",
                 "dissociative electron attachment",
                 "mass spectrometry",
                 "negative ions",
@@ -11909,7 +11908,7 @@
         },
         {
             "title": "Biogenic amines in their role in living systems",
-            "institute": "<sup>1</sup>A. Mickiewicz University, Faculty of Chemistry ul. Umultowska 89b, 61-614 Poznań <sup>2</sup>Universitat Rovira i&nbsp;Virgili, Departament de Enginyeria Química Av. Països Catalans, 26–43007 Tarragona, Spain",
+            "institute": "<sup>1</sup>A. Mickiewicz University, Faculty of Chemistry ul.&nbsp;Umultowska 89b, 61-614 Poznań <sup>2</sup>Universitat Rovira i&nbsp;Virgili, Departament de Enginyeria Química Av. Països Catalans, 26–43007 Tarragona, Spain",
             "abstract": "<p>Although polyamines (PA) belong to relatively simple aliphatic substances, their role in life processes of animals and plants is of key importance [1–5]. The group of the most important amines, called biogenic ones includes: Spermine (Spm): H<sub>2</sub>N(CH<sub>2</sub>)<sub>3</sub>NH(CH<sub>2</sub>)<sub>4</sub>NH(CH<sub>2</sub>)<sub>3</sub>NH<sub>2</sub>Spermidine (Spd): H<sub>2</sub>N(CH<sub>2</sub>)<sub>3</sub>NH(CH<sub>2</sub>)<sub>4</sub>NH<sub>2</sub>Putrescine (Put): H<sub>2</sub>N(CH<sub>2</sub>)<sub>4</sub>NH<sub>2</sub>. Of secondary importance are homologues of biogenic amines, occurring in lower contents in living organisms [2, 6–8]: 1,3-diaminopropan: H<sub>2</sub>N(CH<sub>2</sub>)<sub>3</sub>NH<sub>2</sub>Cadaverine: H<sub>2</sub>N(CH<sub>2</sub>)<sub>5</sub>NH<sub>2</sub>Homospermidine: H<sub>2</sub>N(CH<sub>2</sub>)<sub>4</sub>NH(CH<sub>2</sub>)<sub>4</sub>NH<sub>2</sub>Norspermine (3,3,3-tet): H<sub>2</sub>N(CH<sub>2</sub>)<sub>3</sub>NH(CH<sub>2</sub>)<sub>3</sub>NH(CH<sub>2</sub>)<sub>3</sub>NH<sub>2</sub>Thermospermine: H<sub>2</sub>N(CH<sub>2</sub>)<sub>3</sub>NH(CH<sub>2</sub>)<sub>4</sub>NH(CH<sub>2</sub>)<sub>4</sub>NH<sub>2</sub>Caldopentamine: H<sub>2</sub>N(CH<sub>2</sub>)<sub>3</sub>NH(CH<sub>2</sub>)<sub>3</sub>NH(CH<sub>2</sub>)<sub>3</sub>NH(CH<sub>2</sub>)<sub>3</sub>NH<sub>2</sub>.</p><p>The first polyamine discovered in a&nbsp;living organism was tetramine, a&nbsp;spermine crystallised out of sperm in 1678 by Van Leewenkeuk [9]. Putrescine was discovered in the end of the 19th century in microbes and then triamine: spermidine was discovered in the beginning of the 20th century [2]. Later studies have shown that in animal cells spermidine and spermine occur at elevated levels, while in prokaryotes spermidine and putrescine contents are dominant. Putrescine, spermidine, 1,3-diaminopropan, homospermidine, norspermidine, and norspermine have been found in many gramnegative bacteria and algae [7, 10, 11]. </p><p>Total concentration of PA in living organisms is on the order of millimols, however, the concentration of free polyamines is much lower. a&nbsp;low level of free amines follows from the fact that they are involved in noncovalent interactions with biomolecules occurring in living organisms such as nucleic acids, proteins, or phospholipids. High concentrations of non-bonded polyamines have been detected first of all in young molecules in the process of growth, in particular in rapidly proliferating cancer cells [6, 12]. Elevated levels of free polyamines have been observed, e.g. in breast, colon, lung, prostate, and skin tumours, accompanied by changed levels of enzymes responsible for biosynthesis and catabolism of polyamines.</p><p>Because of the increased level of free polyamines and a&nbsp;tendency of their interaction with nucleic acids and other bioligands, these compounds have become objects of intense study [1, 13–19]. There is no doubt that the regulation of biosynthesis of polyamines and catabolism is one of the most important pathways in the search strategy for chemoprevention and chemotherapeutic drugs [14, 15, 20–36]. The present state of knowledge of these processes, their significance in biological systems, and their application in medicine are presented in subsequent sections of this chapter.</p>",
             "authors": "Renata Jastrząb<sup>1</sup>, Bartosz Tylkowski<sup>1,2</sup>",
             "keywords": [
@@ -11925,7 +11924,7 @@
         },
         {
             "title": "Milestones in clinical chemistry",
-            "institute": "Zakład Biochemii Klinicznej Instytut Pediatrii Collegium Medicum Uniwersytetu Jagiellońskiego ul. Wielicka 265, Kraków",
+            "institute": "Zakład Biochemii Klinicznej Instytut Pediatrii Collegium Medicum Uniwersytetu Jagiellońskiego ul.&nbsp;Wielicka 265, Kraków",
             "abstract": "Clinical chemistry is the science on the border of the two disciplines: medicine and chemistry. It is defined as the application of the chemistry in the study of biological samples in order to diagnose, treat, cure diseases as well as in monitoring and prognosis [1]. Development of clinical chemistry is dated on the 19th century. Biuret test, and a&nbsp;method for detection of sugar in the urine were then described, also blood gases were extracted [13, 17]. In the mid of 19th century blood could be analyzed for the presence of potassium, sodium, phosphorus and calcium [31]. In the second half of 19th century Duboscq built first colorimeter. This model was widely adapted in laboratories and was in use till the 20-ties of 20th century [44]. Colorimetry also became the most popular technique in the clinical chemistry. In the 80ties of 19th century was developed a&nbsp;method for estimating the concentration of creatinine and detection of bilirubin [36, 39]. Increasing number of available laboratory tests resulted in the separation laboratory diagnostic as a&nbsp;distinguish branch of science. At the beginning of 20th century has been introduced quantitative analytical methods for determination of ammonia, urea, creatinine, cholesterol, uric acid, nitrogen, phosphorus, and chloride in biological fluids as well as measurements of blood gases. In 1930 was introduced clinical enzymology with the first method for assessing the activity of alkaline phosphatase. In the mid of 20th century in the medical laboratories routinely were measured amylase, lipase, acid and alkaline phosphatase, phosphocreatine kinase, alanine and asparagine aminotransferases [78, 79]. Development of electrical engineering and computing resulted with intensive development of laboratory instruments. First automated spectrophotometer was invented in 1957 (Autoanalyzer, Technicon company). In 1970, Automatic Clinical Analyzer f. Du Pont was able to perform determinations in any configurations not as so far in the series [99].",
             "authors": "Katarzyna Klimasz, Przemysław J. Tomasik",
             "keywords": [
@@ -11942,7 +11941,7 @@
         },
         {
             "title": "Investigetion (detection) of environment microbial contamination by mass spectrometry. Part 2, 3-hydroxy fatty acids as a lipopolysaccharides (endotoxin) biomarkers of the gram-negative bacterial cell walls",
-            "institute": "COBRO - Instytut Badawczy Opakowań ul. Konstancińska 11, 02-942 Warszawa",
+            "institute": "COBRO - Instytut Badawczy Opakowań ul.&nbsp;Konstancińska 11, 02-942 Warszawa",
             "abstract": "<p>Microorganisms synthesize several monomeric chemical structures that are not found elsewhere in nature, e.g. muramic acid (an amino sugar) and D-amino acids (D-alanine and D-glutamic acid) are ubiquitous in bacterial peptidoglycan (PG). Characteristic sugars (e.g. heptoses) and 3-hydroxylated fatty acids are found in the endotoxin (lipopolysaccharide, LPS) of gram-negative bacteria [1]. </p><p>The best way to protect against environment contamination is microbial control. Methods in current use for monitoring microorganisms mainly include culture and direct microscopy. However, several factors, including samples collection, growth conditions, incubation temperature and interaction between different organisms all affected the culture results. </p><p>Additionally, culture based methods can detect only viable organisms and they are also time consuming, sometimes taking days or weeks. </p><p>However, since both living and dead microorganisms express irritating and toxic structures, they should all be taken into consideration.</p><p>Muramic acid has been suggested for use as a&nbsp;chemical marker in gas chromatography-mass spectrometry (GC-MS) determination of bacterial peptidoglycan [2]. While 3-hydroxylated fatty acids are the best proposition for use as a&nbsp;chemical markers in gas chromatography-mass spectrometry determination of bacterial lipopolysaccharide (endotoxin) of gram-negative bacteria in both clinical and environmental samples [38]. Two derivatives have been applied, including the trimethylsilyl (TMS) and pentafluorobenzoyl (PFBO) derivatives [80]. </p><p>Both derivatives (TMS and PFBO) have been proven suitable for use with GC-ion-trap tandem MS [3].</p><p>The aim of our proposition is trial of application of gas chromatography-mass spectrometry (GC-MS) method as an alternative or complement to culturing, microscopy and other assays for detection, characterization and monitoring of microbial contamination of environment (e.g. water, air, air-conditioning systems), contamination of biochemical and food production chain processes, packaging for foodstuffs etc. by analysis of bacterial 3-hydroxylated fatty acids as a&nbsp;biochemical markers.</p><p>A method is described for the quantitation of methyl esters of 3-hydroxyacids, markers of bacterial lipopolysaccharide (endotoxin), as trimethylsilyl or pentafluorobenzoyl derivatives using GC/MS method.</p><p>The described methods are quick and simple, can be applied for monitoring microbial contamination directly, without prior culturing, in complex environmental samples. </p><p>This method can be also applied for testing processes of cleaning and disinfections on packaging materials or on both packaging materials/foodstuffs in order to decrease their microbial load and thus to ensure better shelf-life.</p><p>[1] Z. Mielniczuk, K. Bal, Spektrometria mas w&nbsp;badaniach skażeń mikrobiologicznych środowiska. Część I. Kwas muraminowy jako biomarker ścian komórkowych bakterii, Wiad. Chem., 2012, 66, 445.</p><p>[2] K. Bal, L. Larsson, E. Mielniczuk, Z. Mielniczuk, Structure of muramic acid TMS derivative mass spectrum’s base ion (m/z=185) used for quantification of bacterial peptidoglycan, J. Microbiol. Meth., 2002, 48, 267.</p><p>[3] A. Saraf, L. Larsson, Identification of microorganisms by mass spectrometry, Advances in Mass Spectrometry, 1998, 14, 449.</p><p>[38] Z. Mielniczuk, E. Mielniczuk, L. Larsson, Gas chromatography-mass spectrometry methods for analysis of 2- and 3-hydroxylated fatty acids: Application for endotoxin measurement, J. Microbiol. Meth., 1993, 17, 91.</p><p>[80] Z. Mielniczuk, S. Alugupalli, E. Mielniczuk, L. Larsson, Gas chromatography-mass spectrometry of lipopolysaccharide 3-hydroxy fatty acids: comparison of pentafluorobenzoyl and trimethylsilyl methyl ester derivatives, J. Chromatogr., 1992, 623, 115.</p>",
             "authors": "Karol Bal, Zbigniew Mielniczuk",
             "keywords": [
@@ -11957,7 +11956,7 @@
         },
             {
       "title": "Synthesis and biological activity of pyrrolo[2,3-d]pyridazine derivatives",
-      "institute": "<sup>1</sup>Katedra i&nbsp;Zakład Chemii Leków Uniwersytetu Medycznego we Wrocławiu ul. Borowska 211, 50-556 Wrocław <sup>2</sup>Katedra i&nbsp;Zakład Chemii Organicznej Uniwersytetu Medycznego we Wrocławiu, ul. Borowska 211a, 50-556 Wrocław",
+      "institute": "<sup>1</sup>Katedra i&nbsp;Zakład Chemii Leków Uniwersytetu Medycznego we Wrocławiu ul.&nbsp;Borowska 211, 50-556 Wrocław <sup>2</sup>Katedra i&nbsp;Zakład Chemii Organicznej Uniwersytetu Medycznego we Wrocławiu, ul.&nbsp;Borowska 211a, 50-556 Wrocław",
       "abstract": "<p>Pyrrolo[2,3-<i>d</i>]pyridazines are one of the four structural isomers of the bicyclic ring system containing pyrrole moiety condensed with a&nbsp;pyridazine ring. This review presents most of the literature data about synthetic pyrrolo[2,3-<i>d</i>]pyridazine derivatives and their biological activity. These 5,6-diazaindole analogues were first synthesized by Fischer et. al. in 1928. Compounds containing the pyrrolo[2,3-<i>d</i>]pyridazine scaffold can be synthesized from different substrates, but the syntheses may be classified into two main categories: annulation of pyrrole ring on to pyridazine derivatives or annulation of pyridazine ring on to pyrrole derivatives. </p><p>Pyrrolo[2,3-<i>d</i>]pyridazine derivatives have attracted considerable interest, owing to diverse biological activities. Most of them have been studied as antitumor and antiviral. Pyrrolo[2,3-<i>d</i>]pyridazines can also be used as acid pump antagonist.</p>",
       "authors": "Aleksandra Redzicka<sup>1</sup> , Beata Tylińska<sup>2</sup>",
       "keywords": [
@@ -11973,7 +11972,7 @@
     },
     {
       "title": "Isolation And Identification Of Natural Dyestuffs Present In Artistic Paints And textiles Of Historical Origin",
-      "institute": "Katedra Chemii Organicznej, Wydział Chemiczny Politechniki Gdańskiej ul. G. Narutowicza 11/12, 80-233 Gdańsk ",
+      "institute": "Katedra Chemii Organicznej, Wydział Chemiczny Politechniki Gdańskiej ul.&nbsp;G. Narutowicza 11/12, 80-233 Gdańsk ",
       "abstract": "<p>natural organic dyes are group of substances that belong to various types of chemical compounds. The most commonly used in paintings and dyeing textiles were naturally occurring dyestuffs from group of anthraquinones, flavones and indigoid dyes. Identification of coloring substances present in historical artistic paints provides relevant information for a&nbsp;wide range of specialists dealing with works of art and in the field of conservation science. This research presents a&nbsp;review of analytical techniques (mainly chromatographic and spectroscopic) used for identification of dyes. It also describes the methods of colorants isolation from historical artistic paints and textiles. Furthermore, the article presents a&nbsp;brief characteristics of fragmentation reactions of selected groups of dyestuffs, which is useful in their identification.</p>",
       "authors": "Olga Otłowska, Magdalena Śliwka-Kaszyńska, Aleksander Kołodziejczyk",
       "keywords": [
@@ -11989,7 +11988,7 @@
     },
     {
       "title": "Synthesis and adsorption properties of graphene–Based materials",
-      "institute": "<sup>1</sup>Wojskowa Akademia Techniczna, 00–908 Warszawa, ul. Gen. S. Kaliskiego 2 <sup>2</sup>Department of Chemistry and Biochemistry Kent State University Kent 44–242 OH, USA",
+      "institute": "<sup>1</sup>Wojskowa Akademia Techniczna, 00–908 Warszawa, ul.&nbsp;Gen. S. Kaliskiego 2 <sup>2</sup>Department of Chemistry and Biochemistry Kent State University Kent 44–242 OH, USA",
       "abstract": "<p>New, efficient and cost effective methods for CO<sub>2</sub> capture are needed to keep the clean environment in the era of rising energy demand. Hydrogen is being considered as an ideal energy source for replacing fossil fuels.</p><p>Since the breakthrough work in Science on graphene published in 2004 [22], this material has been intensively studied because of its great potential for applications in many fields of modern technology such as electronics [94–96], energy storage [21, 110, 111] and gas detection [13, 16]. As a&nbsp;two–dimensional, crystalline carbon material, graphene is characterized by superior chemicals and physical properties [2, 5]. The large theoretical specific surface area of graphene (2630 m<sup>2</sup>/g [89]) makes it an excellent material for adsorption applications. Furthermore, graphene–based materials could be doped by heteroatoms (e.g. B [72], N [106]) or decorated with various nanoparticles (e.g. Fe [55], Pd [106], Fe<sub>3</sub>O<sub>4</sub> [8], V<sub>2</sub>O<sub>5</sub> [79], TiO<sub>2</sub> [79]), which significantly improves their adsorption properties. Specific mechanism CO<sub>2</sub> [8] and H<sub>2</sub> [104–106] takes place during adsorption processes on some graphene materials containing metal or metal oxide nanoparticles on their surfaces. </p><p>In this review, the major methods for synthesis of graphene and graphene–based materials are discussed with particular emphasis on “chemical exfoliation”. The possibility of obtaining a&nbsp;high quality graphene material from waste materials such as polystyrene or biological materials such as crustacean skin [37, 41] is also reviewed. An overview of the newest synthesis methods of graphene [46] and modified graphene materials including polymer nanocomposites [61, 62] is presented too. a&nbsp;particular attention is given to CO<sub>2</sub> and H<sub>2</sub> adsorption properties of graphene–based materials [8, 62, 106]. Fe<sub>3</sub>O<sub>4</sub> and Pd decorated graphene materials [8, 106–108] are ones of the most effective adsorbents described so far. These materials show a&nbsp;maximum CO<sub>2</sub> adsorption capacity of 60 mmol/g at 25°C and 11 bar [8] and a&nbsp;maximum hydrogen uptake capacity of 4,4 wt% at 25°C and 40 bar [106]. </p><p>It seems, that modified graphene materials can compete successfully with the currently used adsorbents, including nanoporous carbonaceous materials such as activated carbons, fullerenes, carbon nanotubes [8, 21] or ordered mesoporous carbon materials.</p>",
       "authors": "Barbara Szczęśniak<sup>1</sup>, Jerzy Choma<sup>1</sup>, Mietek Jaroniec<sup>2</sup>",
       "keywords": [
@@ -12004,7 +12003,7 @@
     },
     {
       "title": "Study on electrochemical absorption of hydrogen in palladium and its alloys using limited volume electrodes",
-      "institute": "Wydział Chemii Uniwersytetu Warszawskiego ul. Pasteura 1, 02-093 Warszawa",
+      "institute": "Wydział Chemii Uniwersytetu Warszawskiego ul.&nbsp;Pasteura&nbsp;1, 02-093 Warszawa",
       "abstract": "<p>The review summarizes the results of the electrochemical studies on hydrogen absorption in Pd and Pd alloys prepared in the form of thin deposits on a&nbsp;hydrogen-neutral matrix. This kind of electrodes, called Limited Volume Electrodes (LVE), enables to limit and control the amount of absorbed hydrogen inside a&nbsp;Pd sample and makes it possible to study the process of hydrogen absorption under electrochemical conditions. The amount of absorbed hydrogen, phase transition potentials, hysteresis effect and the rate of hydrogen absorption/desorption can be determined using cyclic voltammetric, chronoamperometric and chronopotentiometric techniques. The mechanism of the interactions of hydrogen with Pd-LVE is presented. The influence of electrode potential, temperature and Pd layer thickness on the process of hydrogen absorption is discussed. The behavior of Pd alloys towards hydrogen is summarized. The interrelation between hydrogen absorption and surface processes is described. The examples of the use of LVE in applied electrochemistry are given.</p>",
       "authors": "Mariusz Łukaszewski, Michał Grdeń",
       "keywords": [
@@ -12016,6 +12015,110 @@
       "ref": "Wiadomości Chemiczne, 2016, 70, 219",
       "emails": [
         "maluk@chem.uw.edu.pl"
+      ]
+    },
+    {
+      "title": "The oxidation reactions of selected functional groups using Oxone® as a source of molecular oxygen",
+      "institute": "<sup>1</sup>Selvita S.A. ul.&nbsp;Bobrzyńskiego 14, 30-348 Kraków <br /> <sup>2</sup>Silesian University of Technology, Faculty of Chemistry, Department of Chemical Organic Technology and Petrochemistry ul.&nbsp;Krzywoustego 4, Gliwice 44-100",
+      "abstract": "<p>Oxidation reactions belong to the group of the most commonly used processes in both organic and inorganic chemistry. The main issues in such transformation are usually safe handling of the oxidants as well as waste generation. </p><p>Peroxymonosulfuric acid is one of the strongest oxidants. It was described for the first time in 1898 by Heinrich Caro. Nowadays, the commercial sources of KHSO<sub>5</sub> are low-cost industrial bulk chemicals, e.g., the triple salt Oxone® (2KHSO<sub>5</sub>·KHSO<sub>4</sub>·K<sub>2</sub>SO<sub>4</sub>). These products are stable oxidizing agents commonly used in fine chemicals synthesis, and are easy to handle, non-toxic as well as generate non-pollu­ting by-products.</p><p>Over the past several years the scope of its use has extended. One of the most important transformation that have been made possible with the use of Oxone® are epoxidation and ketone formation. Epoxides and ketones are important synthetic building blocks widely used in the chemical industry for the production of pharmaceutical products, flavours, fragrances, resins, adhesives and paints.</p><p>The use of Oxone® was demonstrated in several combinations both in classical methods that involved metal catalysis as well as in novel approaches with the use of microwaves and ionic liquids. Over the past 20 years, ionic liquids, together with supercritical fluids and water, have become powerful alternatives to conventional organic solvents. Ionic liquids are salts having in the structure an organic cation and an inorganic or organic anion, with a melting point below 100°C. The advantage of using ionic liquids is a big variety of available structures. Combinations of both ionic liquids and Oxone® offer an interesting alternative to classical oxidation methods used in industry.</p>",
+      "authors": "Przemysław Zawadzki<sup>1</sup>, Wojciech Czardybon<sup>1</sup>, Anna Chrobok<sup>2</sup>",
+      "keywords": [
+          "Oxone®",
+          "ionic liquids",
+          "oxidation reactions",
+          "epoxide"
+      ],
+      "ref": "Wiadomości Chemiczne, 2016, 70, 269",
+      "emails": [
+          "przemyslaw.zawadzki@selvita.com",
+          "wojciech.czardybon@selvita.com",
+          "anna.chrobok@polsl.pl"
+      ]
+    },
+    {
+      "title": "Methods for determining polysaccharides structure",
+      "institute": "Wydział Chemii Uniwersytetu Gdańskiego ul.&nbsp;Wita&nbsp;Stwosza&nbsp;63, 80-308 Gdańsk",
+      "abstract": "<p>Sequencing of polysaccharides is difficult to achieve because of the heterogeneous nature of the polysaccharide structure, high molecular weight (the size of a polysaccharide varies between approximately 16,000 and 16,000,000 daltons (Da)), and polydispersity of the polymer chains. </p><p>The following information is essential to determine the primary structure of a polysaccharide:<ul><li>monosaccharide composition: nature and molar ratios of the monosaccharide building blocks;</li><li>relative configuration of monosaccharides: d or l;</li><li>anomeric configuration: α- or β-configuration of the glycosidic linkage;</li><li>ring size: presence and distinction of furanosidic and pyranosidic rings;</li><li>linkage patterns: linkage positions between the monosugars and branches;</li><li>sequences of monosaccharide residues in the repeating units;</li><li>substitutions: position and nature of OH–modifications, such as O–phosphorylation, acetylation, O-sulfation, etc.;</li><li>molecular weight and molecular weight distribution.</li></ul></p><p>A polysaccharide extracted from plant materials or food products is usually purified before being subjected to structural analysis. The first step of characterizing a polysaccharide is the determination of its purity, which is reflected by its chemical composition, including total sugar content, level of uronic acids, proteins, ash, and moisture of the preparation. The second step is the determination of monosaccharide composition, which will unveil structural information such as the number of monosaccharides present in the polysaccharide and how many of each sugar unit. NMR spectroscopy has become the most powerful and noninvasive physicochemical technique for determining polysaccharide structures. It can provide detailed structural information of carbohydrates, including identification of monosaccharide composition, elucidation of α- or β-anomeric configurations, establishment of linkage patterns, and sequences of the sugar units in oligosaccharides and/or polysaccharides. Monosaccharide composition can be determined also by analysis of totally acid hydrolyzed polysacharide using high performance liquid chromatography (HPLC) or gas chromatography (GC). The ring size and glycosidic linkage positions of sugar units in a polysaccharide could be established by methylation analysis and/or cleavage reduction. The anomeric configuration is conventionally determined by oxidation, and this method can be combined with mass spectrometry to obtain more structural information. </p>",
+      "authors": "Justyna Samaszko-Fiertek, Monika Kuźma, Barbara Dmochowska, Rafał Ślusarz, Janusz Madaj",
+      "keywords": [
+          "polysaccharides",
+          "monosaccharides",
+          "oxidative degradation",
+          "methylation analysis",
+          "acetolysis",
+          "NMR",
+          "MS"
+      ],
+      "ref": "Wiadomości Chemiczne, 2016, 70, 299",
+      "emails": [
+        "janusz.madaj@ug.edu.pl"
+      ]
+    },
+    {
+      "title": "1’-homonucleos(t)ides – synthesis and biological activity",
+      "institute": "Zakład Chemii Bioorganicznej, Wydział Farmaceutyczny,Uniwersytet Medyczny w Łodzi ul.&nbsp;Muszyńskiego&nbsp;1, 90-151 Łódź",
+      "abstract": "<p>Long-lasting interest in the synthesis of nucleos(t)ide analogues is dictated by hope to obtain compounds possessing antibacterial, antiviral and antitumor activities [1, 2]. Introduction of a methylene linker between  an anomeric carbon and the nucleobase nitrogen atom produces a new class of compounds called 1’-homonucleos(t)ides as potentially active analogues. Although a sugar ring in nucleosides can be replaced by several cyclic or even acyclic moieties we focus attention on compounds containing the tetrahydrofuran ring. Since methods of attachment of nucleobases are limited to their alkylation with appropriate compounds and the de novo synthesis we discussed various synthetic approaches to substituted tetrahydrofuranes in racemic or optically pure forms. Various pentose and hexose derivatives were employed as starting materials and their transformations into the final sugar frameworks were detailed, thus revealing the importance of these class of compounds. To prepare deoxysugars Barton-McCombie reaction sequence was applied.</p><p>A significant number of final 1’-homonucleos(t)ides were screened for antiviral and cytotoxic activity to identify a few very potent compounds. Thus, phosphonates trans- and cis-138a were as active against HCMV as ganciclovir. In addition trans-138a inhibited the proliferation of several murine and human cancer cell lines with IC<sub>50</sub>s in the µM range. 1’-Homonucleosides 64b and 66b exhibited selective antiviral activity against HSV-1<sub>TK–</sub> and HSV-2<sub>TK–</sub> (MIC = 8–12 µg/mL). Compound 129 was found active against HCV (EC = 6.31 µM) and reduced growth of CCRF-CEM cells with IC<sub>50</sub> = 5.73 µM.</p><p>Despite limited activity observed so far for the known 1’-homo­nu­cleos(t)ides and their analogues, they deserve further interest both from the synthetic point of view and biological potential inherent in molecules having nucleobase scaffolds.</p>",
+      "authors": "Joanna Gotkowska, Dorota G. Piotrowska",
+      "keywords": [
+          "nucleoside analogues",
+          "1’-homonucleos(t)ides",
+          "substituted tetrahydrofurans",
+          "modified monosaccharides",
+          "biological activity"
+      ],
+      "ref": "Wiadomości Chemiczne, 2016, 70, 319",
+      "emails": [
+          "joanna.gotkowska@umed.lodz.pl"
+      ]
+    },
+    {
+      "title": "Synthesis and reduction of prochiral imines",
+      "institute": "Wydział Chemii, Uniwersytet Jagielloński ul.&nbsp;Ingardena 3, 30-06 Kraków",
+      "abstract": "<p>Natural chemical compounds and their derivatives could be used for designing new classes of anticancer, antifungal or antiviral drugs. One of those compounds is  gossypol, isolated from grains of wool. Gossypol’s derivatives can freely penetrate the blood-brain barrier (BBB). </p><p>This basic review considers synthesis and reduction of prochiral imines. Gossy­pol derivatives belong to imines. Imines as unstable compounds, hydrolyze in contact with a small amount of water. There are substrates for preparation of oximes and its derivatives. In this article three methods of imines production are presented. There are: (a) reaction of aldehyde or ketones with primary amine, (b) addition of Grignard reagents to nitriles and (c) pyrolysis of alkyl azide. The first one is discussed in details with specific description of the mechanism of both steps: first stage - addition to form a hemiaminal, second one – dehydration with formation of imine. Many conditions such as acid power, value of pH reaction and environment (preferably anhydrous) have influence on the formation rate of imines and determine each of two stages, i.e. addition and dehydration. </p><p>Furthermore, the imines-enamines tautomeric and stereochemical aspects with possible attack of nucleophile molecules to the carbon atom of the C=N bond from the Si or Re side of prochiral imines as well as potential ways of imines reductions to amines by using commonly used reducers (NaCNBH<sub>3</sub>) are discussed. Moreover, two new methods of reduction are presented: the first – with using trichlor acids catalyzed chiral Lewis’s bases and  the second one – asymmetric hydrogenation of imines.</p>",
+      "authors": "Tomasz Artur Berniak",
+      "keywords": [
+          "ketimines",
+          "gossypol",
+          "aldimines",
+          "Schiff bases",
+          "oximes"
+      ],
+      "ref": "Wiadomości Chemiczne, 2016, 70, 353",
+      "emails": [
+          "tberniak@gmail.com"
+      ]
+    },
+    {
+      "title": "Immobilized alpha-amylases and cellulases in practical applications",
+      "institute": "Uniwersytet Jagielloński ul.&nbsp;R. Ingardena 3, 30-060 Kraków",
+      "abstract": "<p>Today, more and more products made in biotechnological processes involving enzymes. The stability of the enzyme under process conditions are subjected to the immobilization on solid supports, which leads to a heterogeneous biocatalyst that can be used in several cycles or continuous processes. The article discusses the techniques presented in the literature immobilization of enzymes hydrolyzing starch and cellulose. Includes the method of immobilization in/on polymer and inorganic carriers and different ways of binding of the enzyme to a solid support. Particular attention is focused on mesoporous silica (mesoporous silica) (SBA-15) as a very attractive media for biocatalysts. Starch and cellulose are the main components of biomass, which is seen as an alternative raw material for ethanol production, i.e. second generation biofuels. Developing an effective biocatalyst for the conversion of biomass is the challenge of the XXI century.</p>",
+      "authors": "Zbigniew Chałupka",
+      "keywords": [
+          "amylolytic enzyms",
+          "cellulases",
+          "enzyme immobilization",
+          "mesoporous silica",
+          "SBA-15"
+      ],
+      "ref": "Wiadomości Chemiczne, 2016, 70, 369",
+      "emails": [
+          "zbigniewchalupka92@gmail.com"
+      ]
+    },
+    {
+      "title": "Polymer brushes – synthesis, characterization and applications",
+      "institute": "Wydział Chemii, Uniwersytet Jagielloński ul.&nbsp;R. Ingardena 3, 30-060 Kraków",
+      "abstract": "<p>In 1959 Feynman said the future of engineering and science belongs to the nanotechnology [1, 2]. After fifty-seven years it has been proved that he was completely right. A perfect example of systems obtained in a nanometers scale, with huge development potential is a polymer brush.</p><p>Polymer brushes consist of polymer chains tethered by one end to a commonly solid substrate. For a sufficiently high grafting density the macromolecules are arranged sticking out perpendicularly to the surface. Such systems could be prepared following two main strategies: “grafting to” and “grafting from” processes by means of various polymerization methods. The most popular ones are controlled radical polymerizations, especially surface-initiated atom transfer radical polymerization (SI-ATRP) [3], but brushes may also be fabricated using surface-initiated anionic or cationic polymerization processes.</p><p>The architecture of the polymer systems could be very precisely controlled by selection of monomers used for the polymerization, substrates, types of solvents, temperature and duration of the whole synthesis. A postmodification of the produced brushes is also possible [4, 5].</p><p>Both structure and composition of polymer brushes may be characterized by means of numerous methods applied for a surface characterization including grazin-angle infrared spectroscopy, X-ray photoelectron spectroscopy (XPS), atomic force microscopy (AFM) or even gel permeation chromatography (GPC) [6].</p><p>Thanks to the above mentioned distinguishing properties polymer brushes have found a lot of applications. They have been used e.g. in the construction of modified graphene surfaces (they improved solubility, mechanical properties, thermal stability and electrical conductivity of the material), by manipulation of cell adhesion processes, in the column chromatography (to change quality of the stationary phase what enabled more efficient proteins separation) etc. [4].</p><p>In this review the synthesis, characterization and applications of varied polymer brushes are discussed.</p>",
+      "authors": "Artur Jarema Wójcik",
+      "keywords": [
+          "nanotechnology",
+          "polymer brushes",
+          "SI-ATRP",
+          "“grafting from” process"
+      ],
+      "ref": "Wiadomości Chemiczne, 2016, 70, 391",
+      "emails": [
+          "artur2.wojcik@student.uj.edu.pl"
       ]
     }
     ]
