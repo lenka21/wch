@@ -49,6 +49,10 @@ wchApp.config(['$routeProvider', '$locationProvider',
         templateUrl: 'templates/contact/contact.html',
         controller: 'HomeCtrl'
       })
+      .when('/download', {
+        templateUrl: 'templates/download/download.html',
+        controller: 'HomeCtrl'
+      })
       .otherwise({
         redirectTo: '/home'
       });
