@@ -67,7 +67,16 @@ nav .open>a, .nav .open>a:hover, .nav .open>a:focus {
     display: inline-block;
 }
 
+.thumbnail .caption#newRR {
+    height: 550px;
+}
 
+
+@media (max-width: 991px) {
+.thumbnail .caption#newRR {
+    height: auto;
+}
+}
 
 @media (min-width: 768px) {
     .navbar-form {
@@ -85,14 +94,13 @@ nav .open>a, .nav .open>a:hover, .nav .open>a:focus {
     }
     .committee {
     height: 345px;
-}
+    }
 }
 
 @media (max-width: 767px) {
     .container {
         margin-bottom: 32px;
     }
-
 }
 
 @media (max-width: 378px) {
