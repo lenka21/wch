@@ -67,13 +67,13 @@ nav .open>a, .nav .open>a:hover, .nav .open>a:focus {
     display: inline-block;
 }
 
-.thumbnail .caption#newRR {
+.thumbnail .caption.newRR {
     height: 550px;
 }
 
 
 @media (max-width: 991px) {
-.thumbnail .caption#newRR {
+.thumbnail .caption.newRR {
     height: auto;
 }
 }
