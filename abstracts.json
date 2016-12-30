@@ -12106,20 +12106,104 @@
       ]
     },
     {
-      "title": "Polymer brushes – synthesis, characterization and applications",
-      "institute": "Wydział Chemii, Uniwersytet Jagielloński ul.&nbsp;R. Ingardena 3, 30-060 Kraków",
-      "abstract": "<p>In 1959 Feynman said the future of engineering and science belongs to the nanotechnology [1, 2]. After fifty-seven years it has been proved that he was completely right. A perfect example of systems obtained in a nanometers scale, with huge development potential is a polymer brush.</p><p>Polymer brushes consist of polymer chains tethered by one end to a commonly solid substrate. For a sufficiently high grafting density the macromolecules are arranged sticking out perpendicularly to the surface. Such systems could be prepared following two main strategies: “grafting to” and “grafting from” processes by means of various polymerization methods. The most popular ones are controlled radical polymerizations, especially surface-initiated atom transfer radical polymerization (SI-ATRP) [3], but brushes may also be fabricated using surface-initiated anionic or cationic polymerization processes.</p><p>The architecture of the polymer systems could be very precisely controlled by selection of monomers used for the polymerization, substrates, types of solvents, temperature and duration of the whole synthesis. A postmodification of the produced brushes is also possible [4, 5].</p><p>Both structure and composition of polymer brushes may be characterized by means of numerous methods applied for a surface characterization including grazin-angle infrared spectroscopy, X-ray photoelectron spectroscopy (XPS), atomic force microscopy (AFM) or even gel permeation chromatography (GPC) [6].</p><p>Thanks to the above mentioned distinguishing properties polymer brushes have found a lot of applications. They have been used e.g. in the construction of modified graphene surfaces (they improved solubility, mechanical properties, thermal stability and electrical conductivity of the material), by manipulation of cell adhesion processes, in the column chromatography (to change quality of the stationary phase what enabled more efficient proteins separation) etc. [4].</p><p>In this review the synthesis, characterization and applications of varied polymer brushes are discussed.</p>",
-      "authors": "Artur Jarema Wójcik",
-      "keywords": [
-          "nanotechnology",
-          "polymer brushes",
-          "SI-ATRP",
-          "“grafting from” process"
-      ],
-      "ref": "Wiadomości Chemiczne, 2016, 70, 391",
-      "emails": [
-          "artur2.wojcik@student.uj.edu.pl"
-      ]
-    }
+            "title": "Polymer brushes – synthesis, characterization and applications",
+            "institute": "Wydział Chemii, Uniwersytet Jagielloński ul.&nbsp;R. Ingardena 3, 30-060 Kraków",
+            "abstract": "<p>In 1959 Feynman said the future of engineering and science belongs to the nanotechnology [1, 2]. After fifty-seven years it has been proved that he was completely right. A perfect example of systems obtained in a nanometers scale, with huge development potential is a polymer brush.</p><p>Polymer brushes consist of polymer chains tethered by one end to a commonly solid substrate. For a sufficiently high grafting density the macromolecules are arranged sticking out perpendicularly to the surface. Such systems could be prepared following two main strategies: “grafting to” and “grafting from” processes by means of various polymerization methods. The most popular ones are controlled radical polymerizations, especially surface-initiated atom transfer radical polymerization (SI-ATRP) [3], but brushes may also be fabricated using surface-initiated anionic or cationic polymerization processes.</p><p>The architecture of the polymer systems could be very precisely controlled by selection of monomers used for the polymerization, substrates, types of solvents, temperature and duration of the whole synthesis. A postmodification of the produced brushes is also possible [4, 5].</p><p>Both structure and composition of polymer brushes may be characterized by means of numerous methods applied for a surface characterization including grazin-angle infrared spectroscopy, X-ray photoelectron spectroscopy (XPS), atomic force microscopy (AFM) or even gel permeation chromatography (GPC) [6].</p><p>Thanks to the above mentioned distinguishing properties polymer brushes have found a lot of applications. They have been used e.g. in the construction of modified graphene surfaces (they improved solubility, mechanical properties, thermal stability and electrical conductivity of the material), by manipulation of cell adhesion processes, in the column chromatography (to change quality of the stationary phase what enabled more efficient proteins separation) etc. [4].</p><p>In this review the synthesis, characterization and applications of varied polymer brushes are discussed.</p>",
+            "authors": "Artur Jarema Wójcik",
+            "keywords": [
+                "nanotechnology",
+                "polymer brushes",
+                "SI-ATRP",
+                "“grafting from” process"
+            ],
+            "ref": "Wiadomości Chemiczne, 2016, 70, 391",
+            "emails": [
+                "artur2.wojcik@student.uj.edu.pl"
+            ]
+        },
+        {
+            "title": "IN QUEST OF PERIODIC TABLE FOR MATTER IN NANOSCALE",
+            "institute": "Wydział Chemiczny, Politechnika Wrocławska, <br />Wybrzeże Wyspiańskiego 27, 50-300 Wrocław",
+            "abstract": "<p>The purpose of this article was a presentation of the state of the art in the search of the periodic system for matter in nanoscale. It was preceded by a history of the discovery of traditional periodic table of the elements just to bring out the possible analogies to help in the analysis. Finally, the „road map” by Tomalia and Khanna [D.A. Tomalia, S.N. Khanna, Chem. Rev., 2016, 116, 2705] leading to a future periodic system unifying nanoscience was presented. </p>",
+            "authors": "Maria Cieślak-Golonka",
+            "keywords": [
+                "periodic table",
+                "precursors and discoveres",
+                "matter in nanoscale",
+                "road map",
+                "clusters",
+                "hard matter",
+                "soft matter"
+            ],
+            "ref": "Wiadomości Chemiczne, 2016, 70, 563",
+            "emails": [
+                "maria.golonka@pwr.edu.pl"
+            ]
+        },
+        {
+            "title": "REVERSE TURNS IN PEPTIDES AND PROTEINS. REVERSE TURNS MIMETICS. PART 1",
+            "institute": "Akademia Górniczo-Hutnicza im. Stanisława Staszica w Krakowie Wydział Inżynierii Materiałowej i Ceramiki<br />al. Adama Mickiewicza 30, 30-059 Kraków",
+            "abstract": "<p>The secondary structure of the proteins can be divided into α-helix, βsheet and reverse turns. A reverse turn is defined as a site where a polypeptide chain reverses its overall direction. It leads the chain to fold back on itself by almost 180°. Another condition for defining this motif is the amount of amino acid residues involved in forming the turn that can not be greater then six and polypeptide chain in this region can not be in helical conformation [1]. Turns are classified as: γ-turn, β-turn, α-turn and π-turn, which are formed by 3-, 4-, 5- and 6- amino acid residues, respectively. Turns defined as “closed” are stabilized by intramolecular hydrogen bonds between the main chain carbonyl group from the first residue and the main chain amide group from the last residue in the turn. This results in formation of 7-, 10-, 13- and 16-membered pseudo-rings, respectively (Fig. 1, Fig. 2). The other group of turns also stabilized by hydrogen bond, but conversely between the main chain amide group of the first residue and the carbonyl group of the last residue, are δ-turn (2-residues, 8-membered pseudo-ring) and ε-turn (3-residues, 11-membered pseudo-ring) (Fig. 2) [10–13]. These are seldom found in proteins. Turns are considered irregular structures due to the lack of clearly defined torsion angle preferences. because of that, each of the turn types can be further divided into several different subtypes (Table 1, 2 and 3) [1, 15, 31]. The “open” type structures are not stabilized by hydrogen bonds, but Cα-Cα distance between the first and the last residue in main chain is up to 10 Å [10].  As turns can be found mostly on the surface of the proteins they play the important role in folding processes, thus enabling the formation of the tertiary structure [2]. The turns are also responsible for the interactions between proteins, recognition processes and ligand-receptor interactions [3–8]. In the following article, the classification and characterization of the turn types is described. The particular attention was given to the γ and β turns, as these are most commonly found in proteins structure.    </p>",
+            "authors": "Maria Owińska",
+            "keywords": [
+                "reverse turn",
+                "hydrogen bond",
+                "conformation",
+                "dihedral angle"
+            ],
+            "ref": "Wiadomości Chemiczne, 2016, 70, 597",
+            "emails": [
+                "owinska@agh.edu.pl"
+            ]
+        },
+        {
+            "title": "BIOLOGICAL ACTIVITY OF ACETYLENE COMPOUNDS OF NATURAL ORIGIN",
+            "institute": "<sup>1</sup>Śląski Uniwersytet Medyczny w Katowicach, Wydział Farmaceutyczny z Oddziałem Medycyny Laboratoryjnej w Sosnowcu, Katedra i Zakład Chemii Organicznej,<br /><sup>2</sup>Śląski Uniwersytet Medyczny w Katowicach, Wydział Farmaceutyczny z Oddziałem Medycyny Laboratoryjnej w Sosnowcu, Studenckie Koło Naukowe przy Katedrze i Zakładzie Chemii Organicznejul. Jagiellońska 4, 41-200 Sosnowiec",
+            "abstract": "<p>The natural acetylenic products containing at least one a carbon-carbon triple bond, are important class of compounds widely distributed in the environment. Development of spectroscopic techniques and methods for the isolation of metabolites allowed the extraction of natural acetylenic compounds. The most of these substances have been obtained from marine organisms, such as: cyanobacteria, algae and sponges. The next source of metabolites are herbal plants, which were used in the Chinese traditional medicine. A many of them show interesting biological activity. The first isolated natural compound possessing an acetylenic unit was dehydromatricaria ester, which was obtained from rhizome European goldenrod (Solidago virgaurea). To present day have been found and researched more than 2000 natural acetylenic metabolites. </p><p>Due to the chemical structure, natural acetylenic compounds were divided into six groups: peptides, aromatic compounds, enediyne antibiotics, sterols, carotenoids, and poliacetylenic compounds .</p><p>This article focuses natural acetylenic substances, which exhibit interesting biological properties, particularly anticancer ones. The review presents many of such metabolites, including fatty alcohols, ketones, acids, ethers, and carotenoids.</p>",
+            "authors": "Monika Kadela-Tomanek<sup>1</sup>, Elwira Chrobak<sup>1</sup>, Ewa Bębenek<sup>1</sup>, Agnieszka Lubczyńska<sup>1</sup>, Szymon Siudak<sup>2</sup>, Anna Wójcik<sup>2</sup>, Agnieszka Otulakowska<sup>1</sup>, Stanisław Boryczka<sup>1</sup>",
+            "keywords": [
+                "natural products",
+                "acetylenic derivatives",
+                "cytotoxicity"
+            ],
+            "ref": "Wiadomości Chemiczne, 2016, 70, 613",
+            "emails": [
+                "mkadela@sum.edu.pl"
+            ]
+        },
+        {
+            "title": "CHROMATOGRAPHIC ANALYSIS OF NUCLEIC ACIDS CONSTITUENTS",
+            "institute": "Uniwersytet Mikołaja Kopernika, Wydział Chemii, Katedra Chemii Środowiska i Bioanalityki, <br />ul. Gagarina 7, 87-100 Toruń",
+            "abstract": "<p>Understanding the characteristics, role and structure of nucleic acids allowed to answer questions about the disease processes. Today, nucleic acids and their constituents are tools, which are used by molecular biology in medicine and biotechnology. Antisense and gene therapy are intensively developing methods for possible treating or preventing disease. They use short fragments of DNA or RNA - oligonucleotides to silence the genes expression. They are not the only ones that allow analytical chemists to obtain information about the state of our body. Determination of modified nucleoside allows detection of cancer, while analysis of nucleotides allows the estimation of strengthening the immune system.</p><p>There is a great need of sensitive, selective and precise methods of separation of nucleosides, nucleotides and oligonucleotides and their qualitative and quantitative analysis. Consequently liquid chromatography (LC) is the most commonly used for analysis of nucleic acid constituents. The most widely used modes of LC include Ion Exchange Chromatography (IEC) and Reversed Phase High Performance Liquid Chromatography (RP HPLC). Both techniques have their advantages and disadvantages in the analysis of nucleosides, nucleotides and oligonucleotides. In the case of IEC it is necessary to use high concentrations of the salt in the mobile phase or concentration gradients, which considerably limits the possibility of using MS detection. RP HPLC can be coupled with MS detection but only when volatile salts are mobile phase components. On the other hand there is a significant problem is the lack of sufficient selectivity for the most polar nucleosides and nucleotides. RP HPLC MS is still most often used in the determination of nucleosides and nucleotides, due to its high sensitivity and a comprehensive qualitative analysis.</p><p>Another system used for the HPLC analysis of oligonucleotides is Ion Pair Reversed Phase High Performance Liquid Chromatography (IP RP HPLC). These compounds can not be analyzed by RP HPLC due to their high polarity. The advantage of IP RP HPLC is selectivity, achieved by a suitable choice of mobile phase composition and the possibility of using MS. A disadvantage of IP RP HPLC in the analysis of oligonucleotides is however lower sensitivity compared to RP HPLC. </p><p>During the last few years Hydrophilic Interaction Liquid Chromatography (HILIC) was applied for the separation of mixtures of nucleosides, nucleotides, oligonucleotides extracted from a biological or food samples. The presented results demonstrate the usefulness of this method, however, the resolving power is limited due to the asymmetric peak shape. On the other hand proper selection of the mobile and stationary phase can lead to a high selectivity in the analysis of the most polar nucleosides, nucleotides and oligonucleotides, which can not be separated by RP HPLC.</p>",
+            "authors": "Sylwia Studzińska, Rafał Rola, Filip Łobodziński, Katarzyna Krzemińska",
+            "keywords": [
+                "nucleosides",
+                "nucleotides",
+                "oligonucleotides",
+                "liquid chromatography",
+                "sensitivity",
+                "selectivity"
+            ],
+            "ref": "Wiadomości Chemiczne, 2016, 70, 633",
+            "emails": [
+                "kowalska@chem.umk.pl"
+            ]
+        },
+        {
+            "title": "modification of Chitosan – a concise overview",
+            "institute": "Katedra Chemii Fizycznej i Fizykochemii Polimerów, Wydział Chemii, Uniwersytet Mikołaja Kopernika w Toruniu<br />ul. Gagarina 7, 87-100 Toruń",
+            "abstract": "<p>Chitosan is the most important derivative of chitin, a polysaccharide found in the exoskeleton of shellfish like shrimp and crab. It is a product of deacetylation of chitin under alkaline conditions or enzymatic hydrolysis in the presence of chitin deacetylase. Both chitin and chitosan are linear polysaccharides and are chemically defined as copolymers consisting of varying amounts of β-(1→4)-linked 2-acetamido-2-deoxy-β-d-glucopyranose (GlcNAc) and 2-amino-2-deoxy-β-d-glucopyranose (GlcN). The difference between chitin and chitosan lies in the content of GlcNAc and GlcN units. Chitin samples contain a high content of GlcNAc units. Due to excellent properties of chitosan, such as biocompatibility, biodegradability, hydrophilicity, non-toxicity, cationicity, ease of modification, film forming ability, affinity to metals, protein and dyes, etc., this polymer has found applications in medicine and pharmacy, as food additive, antimicrobial agent, in paper and textile industry, in environmental remediation and other industrial areas. The presence of functional groups, reactive amino and hydroxyl groups, in chitosan backbone makes it suitable candidate for chemical modification. Chemical modification of chitosan to generate new polymers with useful physicochemical properties and distinctive biological functions is of key interest because it would not change the fundamental skeleton of the polymer. In this article the main three methods of chitosan modification: substitution reactions, reactions leading to the chain elongation and/or molecular weight increasing and methods of depolymerization are shortly characterized. Moreover, the selected methods of chitosan modification, i.e. quaternization, alkylation, acylation, carboxyalkylation, phosphorylation, sulfation, graft copolymerisation, crosslinking and depolymerization are discussed in more detail. A special attention is drawn to chitosan crosslinking with low and high molecular compounds. Chitosan modification by covalent and ionic crosslinking allows to obtain polymer materials with improved mechanical and chemical resistance and suitable for example for chitosan hydrogel membranes formation.</p>",
+            "authors": "Jadwiga Ostrowska-Czubenko*, Milena Pieróg, Magdalena Gierszewska",
+            "keywords": [
+                "chitosan",
+                "chitosan modification",
+                "chitosan derivatives",
+                "crosslinking"
+            ],
+            "ref": "Wiadomości Chemiczne, 2016, 70, 657",
+            "emails": [
+                "jocz@chem.umk.pl"
+            ]
+        }
     ]
 }
