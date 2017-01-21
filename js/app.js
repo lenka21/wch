@@ -37,7 +37,7 @@ wchApp.config(['$routeProvider', '$locationProvider',
         templateUrl: 'templates/editor/editor.html',
         controller: 'HomeCtrl'
       })
-      .when('/#abstarct', {
+      .when('/#abstract', {
         templateUrl: 'templates/abstract/abstract.html',
         controller: 'AbstractCtrl'
       })
@@ -51,6 +51,10 @@ wchApp.config(['$routeProvider', '$locationProvider',
       })
       .when('/download', {
         templateUrl: 'templates/download/download.html',
+        controller: 'HomeCtrl'
+      })
+      .when('/mdt', {
+        templateUrl: 'templates/mdt/mdt.html',
         controller: 'HomeCtrl'
       })
       .otherwise({

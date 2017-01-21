@@ -67,21 +67,40 @@ nav .open>a, .nav .open>a:hover, .nav .open>a:focus {
     display: inline-block;
 }
 
-.thumbnail .caption.newRR {
-    height: 550px;
+img.baner-all {
+    width: 100%;
+}
+.panel-info#mdt {
+    border-color: #4d4d4d;
 }
 
+.panel-info#mdt>.panel-heading {
+    background-color: #e8e8e8;
+    border-color: #e8e8e8;
+    color:  #474747;
+}
+
+.thumbnail .caption.newRR {
+    height: 630px;
+}
+
+@media (max-width: 1200px) {
+    .thumbnail .caption.newRR {
+        height: 900px;
+    }
+}
 
 @media (max-width: 991px) {
-.thumbnail .caption.newRR {
-    height: auto;
-}
+    .thumbnail .caption.newRR {
+        height: 850px;
+    }
 }
 
 @media (min-width: 768px) {
     .navbar-form {
         width: auto;
         border: 0;
+        margin-left: -15px;
         margin-right: -15px;
         padding-top: 0;
         padding-bottom: 0;
@@ -100,6 +119,9 @@ nav .open>a, .nav .open>a:hover, .nav .open>a:focus {
 @media (max-width: 767px) {
     .container {
         margin-bottom: 32px;
+    }
+    .thumbnail .caption.newRR {
+        height: auto;
     }
 }
 
