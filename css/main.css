@@ -1,3 +1,11 @@
+.jumbotron p {
+       font-size: 15px;
+}
+
+.jumbotron h1 {
+    margin-top: 0;
+}
+
 p.navbar-text a {
     text-decoration: none;
 }
@@ -52,10 +60,22 @@ img.ptch-logo {
     text-align:right;
 }
 
+.anniversary {
+    background: rgba(240,240,24,0.23);
+    background: -moz-linear-gradient(45deg, rgba(240,240,24,0.23) 0%, rgba(240,240,24,0.03) 1%, rgba(240,240,24,0.03) 76%, rgba(250,220,70,0.03) 87%);
+    background: -webkit-gradient(left bottom, right top, color-stop(0%, rgba(240,240,24,0.23)), color-stop(1%, rgba(240,240,24,0.03)), color-stop(76%, rgba(240,240,24,0.03)), color-stop(87%, rgba(250,220,70,0.03)));
+    background: -webkit-linear-gradient(45deg, rgba(240,240,24,0.23) 0%, rgba(240,240,24,0.03) 1%, rgba(240,240,24,0.03) 76%, rgba(250,220,70,0.03) 87%);
+    background: -o-linear-gradient(45deg, rgba(240,240,24,0.23) 0%, rgba(240,240,24,0.03) 1%, rgba(240,240,24,0.03) 76%, rgba(250,220,70,0.03) 87%);
+    background: -ms-linear-gradient(45deg, rgba(240,240,24,0.23) 0%, rgba(240,240,24,0.03) 1%, rgba(240,240,24,0.03) 76%, rgba(250,220,70,0.03) 87%);
+    background: linear-gradient(45deg, rgba(240,240,24,0.23) 0%, rgba(240,240,24,0.03) 1%, rgba(240,240,24,0.03) 76%, rgba(250,220,70,0.03) 87%);
+    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f0f018', endColorstr='#fadc46', GradientType=1 );
+}
+
 .cover{
     height: 320px;
     width: 211px;
     display: flex;
+    margin-right: 5px;
 }
 
 nav .open>a, .nav .open>a:hover, .nav .open>a:focus {
@@ -134,4 +154,10 @@ img.baner-all {
         margin-left: -15px;
     }
 
+}
+
+@media (min-width: 768px) and (max-width: 1200px) {
+    .jumbotron p, .jumbotron h1 {
+        margin-left: 4%;
+    }
 }
