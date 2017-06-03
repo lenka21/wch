@@ -104,6 +104,10 @@ img.baner-all {
     height: 630px;
 }
 
+a.see-more {
+    float: right;
+}
+
 @media (max-width: 1200px) {
     .thumbnail .caption.newRR {
         height: 900px;
