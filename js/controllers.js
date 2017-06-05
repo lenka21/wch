@@ -29,8 +29,12 @@ wchControllers.controller('menuController', function($scope){
             display: 'Abstrakty',
             children: [
                 {
-                    display: 'Rok 2016',
-                    href: '/abstract?year=2016'
+                    display: 'Lata 2016-2017',
+                    href: '#',
+                    children: [
+                        { display: '2017', href: '/abstract?year=2017'},
+                        { display: '2016', href: '/abstract?year=2016'}
+                    ]
                 },
                 {
                     display: 'Lata 2011-2015',
