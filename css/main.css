@@ -108,6 +108,14 @@ a.see-more {
     float: right;
 }
 
+.logo-mr {
+    margin-top: 12%;
+}
+
+.logo-tql {
+    width: 75%;
+}
+
 @media (max-width: 1200px) {
     .thumbnail .caption.newRR {
         height: 900px;
