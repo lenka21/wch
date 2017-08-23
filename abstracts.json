@@ -12250,7 +12250,7 @@
                 "quantitative models",
                 "residual water determination"
             ],
-            "ref": "Wiadomości Chemiczne, 2016, 747",
+            "ref": "Wiadomości Chemiczne, 2016, 70, 747",
             "emails": [
                 "Krzysztof.Bulenger@piwet.pulawy.pl"
             ]
@@ -12501,6 +12501,99 @@
             "ref": "Wiadomości Chemiczne, 2017, , ",
             "emails": [
                 "beata.kolesinska@p.lodz.pl"
+            ]
+        },
+        {
+            "title": "Self-healing varnishes",
+            "institute": "Zachodniopomorski Uniwersytet Technologiczny w Szczecinie<br />Wydział Technologii i Inżynierii Chemicznej ul. Pułaskiego 10, 70-322 Szczecin",
+            "abstract": "<p>The recent decade brought about new dimensions to materials developments; stimuliresponse materials capable of responding to internal or external stimuli. The ability of materials to autonomously self-heal is the most promising property [1]. The number of publications that appeared in the past decade concerning the self-repair of polymeric materials is quite extensive. They cover different fields of research, inclu­ding thermoplastic and thermoset polymers, polymer composites, and coatings. The first ideas already started to develop in the 1990s, when scientists started to look at nature to solve the recurring problem of damage to materials [2]. </p><p>The process of implementing a strategy of autorepair of a damage is a subject of increasing interest. One of the challenges for many of the already developed self­-repairing systems is to enhance the structural stability and mechanical properties of the materials. The first developed self-healing materials relied on microencapsulated healing agents within the bulk polymer [3]. Upon mechanical stress, the microcap­sules were ruptured releasing agents that reacted with the catalyst in the polymer matrix to repair the damage [4–5]. Among many other crosslinking methods relying mainly on epoxy chemistry, ‘click’-based chemistry, the use of thiolene-based systems, as well as catalytic crosslinking reactions based on ring opening metathesis polyme­rization have found wide application in materials science. In the latter methodology, the catalyst present inside the matrix then promotes an autorepair reaction via ROMP. Thermosetting autorepair polymers which have been proposed so far include Grubbs’ first-generation catalyst; currently, the possibility of applying other ruthenium cata­lysts such as second-generation Grubbs’ catalyst and Hoveyda–Grubbs’ second-gene­ration catalyst are under evaluation [3]. In addition to the aforementioned methods, you can also find self-healing coatings in the reaction of Diels-Alder. </p><p>The self-healing concept envisages a similar recovery of material properties, such as fracture toughness, corrosion resistance, or conductivity, to improve the durability and reliability of the polymer materials. Damage due to impact, wear or fatigue ini­tiates a healing mechanism that preferentially without external stimulus can recover any functionality. Researchers working in the field of self-healing polymeric mate­rials mainly focus on high-end applications where the added value outweighs the cost of production. Such applications can, for example, be found in the transport sector, electronics, and structural materials. Car coatings, structural composites in airplanes, conductive polymers in sensors are only some examples of many targeted applica­tions. Repair of damage in these materials is often laborious, not cost-efficient and only detected on the macroscopic level when it is too late. On the other hand, self­-healing materials try to avoid macroscopic failure by responding immediately or at least fast enough to damage [1]. </p>",
+            "authors": "Paulina Bednarczyk, Adrian Krzysztof Antosik, Zbigniew Czech",
+            "keywords": [
+                "varnish",
+                "self-healing materials",
+                "coatings"
+            ],
+            "ref": "Wiadomości Chemiczne, 2017, 71, 381",
+            "emails": [
+                "bednarczyk.pb@gmail.com"
+            ]
+        },
+        {
+            "title": "Synthesis and adsorption properties of metal-organic frameworks",
+            "institute": "<sup>1</sup>Wojskowa Akademia Techniczna ul. Gen. S. Kaliskiego 2, 00-908 Warszawa,<br /><sup>2</sup>Department of Chemistry and Biochemistry Kent State University, Kent 44-242 OH, USA",
+            "abstract": "<p>MOF materials or metal-organic frameworks are compounds consisting of metal ions or clusters (metal junctions) and organic ligands (bridging groups) con­nected via coordination bonds. Since a variety of organic ligands and metal junc­tions is available, metal-organic frameworks of desired composition and structures can be synthesized. These compounds are relatively new, intensively studied, their number is continuously growing from year to year. Metalorganic frameworks may also possess elastic properties due to the presence of coordination bonds in their structure. A distinct feature of MOF materials, which differentiates them from other sorbents, is the possibility of changing their pore structure under influence of external stimuli and the ability of adjusting their pore size to the dimensions of the adsorbed molecules. An interesting phenomenon observed in these materials is the so-called “breathing” effect that is manifested by drastic changes in the pore volume upon external stimuli such as temperature, pressure, type of adsorbate, presence of solvent.</p><p>There are numerous methods for the preparation of MOF materials: solvother­mal, electrochemical, mechanochemical, sonochemical and microwave-assisted syntheses. An additional activation of these materials is often required to remove the remaining solvents from pores and consequently, increase their adsorption capacity. The latter can be also increased by additional modifications that can be used to tune their physicochemical properties, and especially porosity. </p><p>Due to the excellent adsorption properties of MOF, especially very high BET specific surface area (up to 6200 m2/g) and large pore volume, these materials have been intensively studied for capture or storage of various gases such as CO<sub>2</sub>, H<sub>2</sub> and CH<sub>4</sub>.</p><p>Applications of metal-organic frameworks are continuously growing and range from gas storage, chemical sensors and phosphors to medicine, where they are used as drug carriers.</p>",
+            "authors": "Sylwia Szeligowska1, Jerzy Choma<sup>1</sup>, Mietek Jaroniec<sup>2</sup>",
+            "keywords": [
+                "metal-organic frameworks (MOF)",
+                "synthesis of MOF materials",
+                "CO<sub>2</sub> adsorption",
+                "H<sub>2</sub> adsorption"
+            ],
+            "ref": "Wiadomości Chemiczne, 2017, 71, 299",
+            "emails": [
+                "jerzy.choma@wat.edu.pl",
+                "jaroniec@kent.edu"
+            ]
+        },
+        {
+            "title": "Thin liquid black films",
+            "institute": "Zakład Chemii Fizycznej i Elektrochemii, Wydział Chemii, Uniwersytet Jagielloński ul. Ingardena 3, 30-060 Kraków",
+            "abstract": "<p>The purpose of his paper is to show the development of investigations on thin liquid films in particular black films: common and Newton black films. The spe­cial attention was drawn to structure and forces acting in thin liquid black films. The thickness and stability of common black films can be described by DLVO the­ory. This theory cannot predict the short – range repulsive force appears in Newton black films. It is probably caused by the unique properties of water molecule in this films. </p>",
+            "authors": "Maria Paluch",
+            "keywords": [
+                "thin liquid films",
+                "common black films",
+                "Newton black films"
+            ],
+            "ref": "Wiadomości Chemiczne, 2017, 71, 389",
+            "emails": [
+                    "paluch@chemia.uj.edu.pl"
+            ]
+        },
+        {
+            "title": "Qualitative research on the influence of the cathode surface state on measurement results of mass transfer coefficients using electrolytic technique",
+            "institute": "Politechnika Rzeszowska im. Ignacego Łukasiewicza, Wydział Budowy Maszyn i Lotnictwa, Zakład Termodynamiki, Al. Powstańców Warszawy 8, 35-959 Rzeszów ",
+            "abstract": "<p>The paper presents the results of qualitative investigations on the effect of the cathode surface state on mass transfer coefficients during the electrochemical pro­cess. Electrochemical methods have wide applications [1]. One of these method is the limiting current technique which is used in model studies on mass and heat transfer. Exemplary applications of the limiting current technique in heat transfer research with the use of mass/heat transfer analogy can be found in [2–7]. In the present paper the authors focused on measuring the mass transfer coefficients at the flat nickel cathode under free convection conditions. A schematic diagram of the measuring system is shown in Fig.1. The obtained voltammograms with clear visible flat segments representing limiting current values are presented in Fig. 2–4. In turn, Table 2 and 3 include the results of mass transfer coefficients calculation on the basis of limiting current values obtained for different condition of cathode surface. The surface of cathode was prepared before the experiment. It was polished using 400- , 600- and 800-grade SiC paper. Next, the cathode was polished by the special abrasive compound. Necessary for mass transfer coefficient calculations the ion concentration was measured using iodometric titration method. The experi­mental results confirmed the importance of keeping the measurement conditions. The cathode surface smoothing increases the mass transfer coefficients. The results are consistent with those received by the other researchers [9]. </p>",
+            "authors": "Joanna Wilk, Sebastian Grosicki",
+            "keywords": [
+                "electrolytic technique",
+                "mass/heat transfer"
+            ],
+            "ref": "Wiadomości Chemiczne, 2017, 71, 403",
+            "emails": [
+                "joanwilk@prz.edu.pl"
+            ]
+        },
+        {
+            "title": "Synthesis of 2,7-naphthyridine derivatives ",
+            "institute": "Katedra i Zakład Technologii Leków Uniwersytet Medyczny im. Piastów Śląskich we Wrocławiu ul. Borowska 211A, 50-556 Wrocław",
+            "abstract": "<p>2,7-Naphthyridines have been the least known from all of the six structural isomers of pyridopyridines. The broad spectrum of biological activity of 2,7-naph­thyridine derivatives [1] is the main of reason for obtaining of the new compounds containing this scaffold (Fig. 1). Gabriel and Colman were the first to obtain isomer 2,7-naphthyridine in 1902 and they called it ‘copiryne’ (Fig. 2) [2]. The goal of this study is the presentation of various methods for the preparation of 2,7-naphthyridine derivatives. Compounds containing copyrine scaffold can be obtained from a diffe­rent substrates, but that synthesis may be classified into three main categories: from pyridine derivatives, from quinoline derivatives and from other compounds. Most of 2,7-naphthyridines have been synthesized by cyclocondensation (Scheme 5, 7–10, 13–14, 16–18, 20, 28–29, 32, 35–36) or intramolecular cyclization (Scheme 1–4, 6, 11–12, 15, 19, 21–25, 30–31, 33–34, 38) of pyridine derivatives by annulation of the other pyridine ring [3–24, 27–31]. Intramolecular rearrangement of pyrrolo[3,4-c] pyridines (Scheme 26–27) and pyrano[3,4-c]pyridine or thiopyrano[3,4-c]pyridine (Scheme 35–37) also gave the 2,7-naphthyridine scaffold [32-34]. There are also many syntheses of benzo[c][2,7]naphthyridine, benzo[f][2,7]naphthyridine or ben­zo[c,f][2,7]naphthyridine scaffolds, in which the substrates are quinoline derivatives (Scheme 39–48) [35–43]. 2,7-naphthyridines have been least often obtained by cyc­locondensation of non-cyclic substrates (Scheme 49–53) [44–49]. </p>",
+            "authors": "Anna Wójcicka",
+            "keywords": [
+                "2,7-naphthyridine derivatives",
+                "synthesis",
+                "cyclocondensation"
+            ],
+            "ref": "Wiadomości Chemiczne, 2017, 71, 349",
+            "emails": [
+                "anna.wojcicka@umed.wroc.pl"
+            ]
+        },
+        {
+            "title": "Olefin metathesis catalysts, modifications on the nhc ligand ",
+            "institute": "Zachodniopomorski Uniwersytet Technologiczny w Szczecinie, Wydział Technologii i Inżynierii Chemicznej, Instytut Technologii Chemicznej Organicznej, ul. Pułaskiego 10, 70-322 Szczecin ",
+            "abstract": "<p>Olefin metathesis is one of the most important synthetic tools, both in organic and olefin chemistry. Olefin metathesis allows to shorten production time of organic compounds and it is characterized by a smaller amount of by-products and waste in comparison with the classical ways of the synthesis of these compounds. Simultane­ously, the conditions at which metathesis is performed are environmentally friendly. This method allows obtaining very valuable compounds, such as: anti-inflamma­tory agents, fungicides and many others. This causes that olefin metathesis has an important place in the organic synthesis and develops constantly. </p><p>The first catalysts had undefined structure, therefore, it was difficult to predict the mechanism of their action. Big development metathesis came with the synthesis of catalysts with a clearly defined structure. This article explains what olefin meta­thesis is and shows applications of olefin metathesis. This work presents catalysts, which possess transition metal in the structure, such as: ruthenium, molybdenum or tungsten. It also shows the comparison of catalysts possess ruthenium (Grubbs catalyst first and second generation and Hoveyda-Grubbs catalyst) taking into acco­unt their structure and properties. This work describe carbenes, which improve thermal stability of catalysts compare with complexes containing phosphine. </p><p>Researchers receive new compounds through modifications on the NHC ligand. In this work are presented modifications of the NHC ligand complexes of ruthenium described in the literature and their influence on such catalytic pro­perties as: activity, selectivity, and efficiency. Modifications concern: heteroatoms, bulky groups and groups, which change electron density. Despite many studies and receiving large amounts of catalysts for this reaction, still a problem is the obtaining of an universal catalyst for all types transitions, that would have a high activity, high efficiency and which could be easily recovered after the reaction. </p>",
+            "authors": "Monika Retajczyk, Agnieszka Wróblewska",
+            "keywords": [
+                "olefin metathesis",
+                "ligand NHC",
+                "Grubbs catalyst",
+                "Hoveyda-Grubbs cata­lyst"
+            ],
+            "ref": "Wiadomości Chemiczne, 2017, 71, 324",
+            "emails": [
+                "monika.retajczyk@zut.edu.pl",
+                "agnieszka.wroblewska@zut.edu.pl"
             ]
         }
     ]
