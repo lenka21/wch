@@ -12522,7 +12522,7 @@
             "title": "Synthesis and adsorption properties of metal-organic frameworks",
             "institute": "<sup>1</sup>Wojskowa Akademia Techniczna ul. Gen. S. Kaliskiego 2, 00-908 Warszawa,<br /><sup>2</sup>Department of Chemistry and Biochemistry Kent State University, Kent 44-242 OH, USA",
             "abstract": "<p>MOF materials or metal-organic frameworks are compounds consisting of metal ions or clusters (metal junctions) and organic ligands (bridging groups) con­nected via coordination bonds. Since a variety of organic ligands and metal junc­tions is available, metal-organic frameworks of desired composition and structures can be synthesized. These compounds are relatively new, intensively studied, their number is continuously growing from year to year. Metalorganic frameworks may also possess elastic properties due to the presence of coordination bonds in their structure. A distinct feature of MOF materials, which differentiates them from other sorbents, is the possibility of changing their pore structure under influence of external stimuli and the ability of adjusting their pore size to the dimensions of the adsorbed molecules. An interesting phenomenon observed in these materials is the so-called “breathing” effect that is manifested by drastic changes in the pore volume upon external stimuli such as temperature, pressure, type of adsorbate, presence of solvent.</p><p>There are numerous methods for the preparation of MOF materials: solvother­mal, electrochemical, mechanochemical, sonochemical and microwave-assisted syntheses. An additional activation of these materials is often required to remove the remaining solvents from pores and consequently, increase their adsorption capacity. The latter can be also increased by additional modifications that can be used to tune their physicochemical properties, and especially porosity. </p><p>Due to the excellent adsorption properties of MOF, especially very high BET specific surface area (up to 6200 m2/g) and large pore volume, these materials have been intensively studied for capture or storage of various gases such as CO<sub>2</sub>, H<sub>2</sub> and CH<sub>4</sub>.</p><p>Applications of metal-organic frameworks are continuously growing and range from gas storage, chemical sensors and phosphors to medicine, where they are used as drug carriers.</p>",
-            "authors": "Sylwia Szeligowska<sup>1<sup>, Jerzy Choma<sup>1</sup>, Mietek Jaroniec<sup>2</sup>",
+            "authors": "Sylwia Szeligowska<sup>1</sup>, Jerzy Choma<sup>1</sup>, Mietek Jaroniec<sup>2</sup>",
             "keywords": [
                 "metal-organic frameworks (MOF)",
                 "synthesis of MOF materials",
@@ -12594,6 +12594,163 @@
             "emails": [
                 "monika.retajczyk@zut.edu.pl",
                 "agnieszka.wroblewska@zut.edu.pl"
+            ]
+        },
+        {
+            "title": "Tautomerism and biological activity of β-diketones, triketones, β-ketoesters and β-ketoamides. A mini review",
+            "institute": "oskilde University, Department of Science and Environment Universitetsvej 1, DK-4000 Roskilde, Denmark",
+            "abstract": "<p>The review deals with β-diketones, β-ketoester, β-ketoamides, triketones, their tautomerism and biological activity. In addition, it covers briefly methods to detect tautomerism in particular NMR and deuterium isotope effects on chemical shifts, both primary and secondary. A number of typical systems are treated such as: usnic acid, tetracyclines, piroxicam, curcurmines, humulones, acyltetramic acids and quinolone 3-esters.</p>",
+            "authors": "Poul Erik Hansen",
+            "keywords": [
+                "β-diketones",
+                "β-ketoester",
+                "β-ketoamides",
+                "triketones",
+                "biological activity",
+                "NMR"
+            ],
+            "ref": "Wiadomości Chemiczne, 2017, 71, 427",
+            "emails": [
+                "Poulerik@ruc.dk"
+            ]
+        },
+        {
+            "title": "Triels as centers of lewis acids in intermolecular interactions – comparison with hydrogen bonds",
+            "institute": "aculty of Chemistry, University of the Basque Country and Donostia International Physics Center (DIPC), P.K. 1072 20080 Donostia - San Sebastián, Spain<br />IKERBASQUE, Basque Foundation for Science 48011 Bilbao, Spain",
+            "abstract": "<p>The triel bonds are analyzed and compared with the hydrogen bond interaction. The triel bonds belong to the class of interactions that are named as the σ-hole and π-hole bonds. The σ-hole bond is an interaction between the σ-hole characterized by the positive electrostatic potential and the electron rich regions such as lone electron pairs, π-electron systems, in other words, centers paying a role of Lewis bases. The σ-holes may be observed for elements of the 14–18 groups of the periodic system and the corresponding interactions with Lewis bases are named; tetrel, pnicogen, chalcogen, halogen and aerogen bonds, respectively. On the other hand, π-holes also characterized by the positive electrostatic potential are observed for centers in planar molecules or planar fragments of molecules in regions above those planes. π-holes may be attributed to triel centers (13th group of the periodic system). The boron and aluminium trihydrides and trihalides are examples of molecules where triels are characterized by π-holes. </p><p>The mechanism of the triel bond formation is very similar to the mechanism of the formation of the hydrogen bond. It is the Lewis acid – Lewis base interaction where the electron charge transfer from the base unit to the acid one is observed. Next there is outflow of the electron charge from the triel center to the other parts of the Lewis acid unit; in other words the positive charge of the triel center increases as a result of complexation. The triel bonds are often very strong and often they possess characteristics of typical covalent bonds; this is confirmed by the QTAIM (Quantum Theory of Atoms in Molecules) and NBO (Natural Bond Orbital) approaches. For example, for the triel bonds the bond paths between the triel center and the Lewis base center are observed with the bond critical points (BCPs) attributed to those paths. Similarly for the A-H…B hydrogen bonds the H…B bond paths are observed. The parameters of those BCPs often indicate the covalent character of the triel bonds and analogously those characteristics for H-bonds may also indicate the covalent character of the latter interactions. </p><p>It is very interesting that the triel bonds are observed experimentally in the real systems; for example in crystal structures. The triel center which is trivalent and possesses the trigonal configuration is hypovalent; it means that the octet rule is not obeyed here because of the valence electrons´ deficiency (the triel center possesses six valence electrons in such species). Thus it may interact with one Lewis base ligand reaching rather stable octet and tetrahedral configuration. If the trivalent triel center interacts with two Lewis base ligands thus it may lead to the configuration of the trigonal bipyramid with the hypervalent and pentavalent triel center. These kinds of the triel species occur in crystal structures that are described here.</p>",
+            "authors": "Sławomir Janusz Grabowski",
+            "keywords": [
+                "hydrogen bond",
+                "triel bond",
+                "electrostatic potential",
+                "σ-hole",
+                "π-hole",
+                "electron charge shift",
+                "crystal structures"
+            ],
+            "ref": "Wiadomości Chemiczne, 2017, 71, 447",
+            "emails": [
+                "s.grabowski@ikerbasque.org"
+            ]
+        },
+        {
+            "title": "An application of molecular dynamics methods in investigations of systems with hydrogen bonds",
+            "institute": "Wydział Chemii, Uniwersytet Wrocławski ul. F. Joliot-Curie 14, 50-383 Wrocław",
+            "abstract": "<p>Modern computational chemistry offers a wide variety of methods allowing us to investigate very complex systems. In the current study, we would like to focus on ab initio and classical molecular dynamics to show their applications in our research. Car-Parrinello molecular dynamics (CPMD) was carried out to study compounds possessing intra- and intermolecular hydrogen bonds. Our simulations were performed in vacuum, in solvent and in crystalline phase. It is well known that intramolecular hydrogen bonding stabilizes 3D structure of molecules. The strength of the bonding and its features are influenced by inductive and steric effects. Our short overview on CPMD application to systems with intramolecular HB we start from Schiff and Mannich bases -model compounds to investigate intramolecular hydrogen bonding. Other examples reported here derive from the class of N-oxide type compounds. Special attention was devoted to another representative structure in such investigations – picolinic acid N-oxide. In some examples listed above proton transfer phenomena occurred making these compounds interesting objects for future excited state studies. Aliphatic boronic acid was used as a model example to study intermolecular hydrogen bonds based on CPMD method. Further, classical molecular dynamics was applied to investigate proteins. Here, we would like to report our results for two biomolecules. The first one is proteinase K for which the impact of mercury(II) on its catalytic center was studied. The second one is streptavidin. For the latter one its complexes with biotinylated ligands were investigated. We close our review with a paragraph describing further development and perspectives related to CPMD method.</p>",
+            "authors": "Aneta Jezierska, Jarosław J. Panek",
+            "keywords": [
+                "CPMD",
+                "classical MD",
+                "intramolecular HB",
+                "intermolecular HB",
+                "Schiff base",
+                "Mannich base",
+                "N-oxides",
+                "proteins"
+            ],
+            "ref": "Wiadomości Chemiczne, 2017, 71, 473",
+            "emails": [
+                "aneta.jezierska@chem.uni.wroc.pl"
+            ]
+        },
+        {
+            "title": "A new look at the substituent effect",
+            "institute": "<sup>1</sup>Wydział Chemiczny Politechniki Warszawskiej ul. Noakowskiego 3, 00-664 Warszawa <br /> <sup>2</sup>Wydział Chemii Uniwersytetu Warszawskiego ul. Pasteura 1, 02-093 Warszawa",
+            "abstract": "<p>Classical view on the substituent effect (SE) is associated with an empiric approach presented 80-years ago by Hammett [1]. He proposed a simple formula to represent the effect of a substituent upon the rate or equilibrium constants of a reaction in which the reacting group is in a side chain attached to the ring and introduced quantitative descriptors of the SE named substituent constants σ, defined in terms of dissociation constants of meta- and para- substituted benzoic acids. Then the Hammett’s equation relied on using them to describe SE for various physicochemical properties, P(X), by means of linear regression like P(X)=ρ·σ, where ρ is so called reaction constants describing sensitivity of a system in question on the SE. Application of the quantum chemistry modeling allowed to find descriptors (independent of empirical approaches) which are characterized by clear physical meaning and are accessible by use of standard computational packages.</p><p>The oldest descriptor is based on homodesmotic reaction [X-R-Y + R = R-X + R-Y] in which energy of products is subtracted from that of substrates [32]. The model is named as SESE (substituent effect stabilization energy) and its values are usually well correlated with empirical constants σ, or their modifications.</p><p>Ten years ago Sadlej-Sosnowska introduced [23, 24] an effective descriptor of SE based on atomic charges of a substituent X and the ipso carbon atom named cSAR(X) (charge of the substituent active region). Unlike atomic charges at substituent, q(X), the cSAR(X) values correlate well with the Hammett substituent constants [25].</p><p>Recently as an interesting and showing new aspects descriptor of SE appeared a model making use of population of electrons at sigma and pi orbitals of planar pi-electron systems (or their fragments), named as sEDA and pEDA [33]. Again in particular cases these descriptors correlate with the Hammett σ. This descriptor allowed to reveal how strong is SE on population of pi-electron systems in substituted derivatives of benzene, and how much is this different for para and meta substituted species. Analysis of the relation of pEDA vs sEDA for meta and para substituted derivatives of nitrobenzene revealed that sEDA values increase with a decrease of electronegativity of the linking atom [47]. The above mentioned action of the sigma structure is modulated by the remaining part of the substituent as well as its pi-electron structure. This part of substituents (including also the linking atom) is responsible for an interplay of the sigma structure with the pi-electron one.</p><p>Application of cSAR(X) for series of meta- and para- substituted phenol and phenolate derivatives [36] revealed that reverse substituent effect, i.e. the effect of impact of the functional group Y on the electron accepting/donating power of the substituent in systems like X-R-Y may be as large as the overall differences in these kind of properties between NO and NMe2! In the σ constants scale this is full range of σ for uncharged substituents, 1.73 units of σ.</p><p>Application of cSAR for CH2 groups in 1-X-bicyclo[2.2.2]octane derivatives and using the regression of cSAR(CH<sub>2</sub>) against cSAR(X) values allowed to document that substituent effect in these systems is inductive in nature [39].</p><p>In summary, substituent effect descriptors based on quantum chemistry modeling are usually consistent with the empirical ones, but are able to present more detailed information on physical aspects of the problem.</p>",
+            "authors": "Halina Szatyłowicz<sup>1</sup>, Tadeusz M. Krygowski<sup>2</sup>",
+            "keywords": [
+                "substituent effect",
+                "Hammett constants",
+                "quantum chemistry modeling"
+            ],
+            "ref": "Wiadomości Chemiczne, 2017, 71, 497",
+            "emails": [
+                "halina@ch.pw.edu.pl",
+                "tmkryg@chem.uw.edu.pl"
+            ]
+        },
+        {
+            "title": "Molar orientation entropy and structure of the self-associated liquids",
+            "institute": "Instytut Fizyki Molekularnej PAN ul. Mariana Smoluchowskiego 17, 60-179 Poznań",
+            "abstract": "<p>Research on the structural effects of intermolecular interactions not only brings us closer to a better understanding the macroscopic properties of liquids, but also allows one to modify these properties. Intermolecular dipolar couplings and hydrogen bonds are the most common interactions in liquids leading to formation of multimolecular entities with various structures. The natural rival of these interactions is the thermal agitation of molecules (kT), which aims to destroy the emerging structures. In this paper we present an experimental method to estimate the way of molecular self-assembly resulting from the simultaneous action of kT and intermolecular interactions. The method is based on the study of dipolar orientation effects induced by an applied electric field. As an experimental source of the information on these effects is temperature derivative of the static permittivity of tested liquid. That derivative is proportional to the liquid entropy change due to the ordering action of the electric field on the molecular dipoles. Here, we present the experimental results on temperature dependence of the static permittivity and increment of the orientation entropy of liquids where the self-association process realizes with two ways: dipolar couplings and hydrogen-bonds.</p>",
+            "authors": "Jan Jadżyn, Jolanta Świergiel",
+            "keywords": [
+                "molecular dipoles",
+                "static permittivity",
+                "orientation entropy",
+                "liquids",
+                "hydrogen bonds",
+                "isotropic liquids to nematic phase transition"
+            ],
+            "ref": "Wiadomości Chemiczne, 2017, 71, 517",
+            "emails": [
+                "jadzyn@ifmpan.poznan.pl"
+            ]
+        },
+        {
+            "title": "Structure and inelastic neutron scattering by the molecular crystals with the hydrogen bonds",
+            "institute": "Wydział Chemii Uniwersytetu Wrocławskiego ul. F. Joliot-Curie 14, 50-383 Wrocław",
+            "abstract": "<p>The molecular crystals, which are built of organic or organic-inorganic molecules, are characterized by the weak intermolecular interactions. From the viewpoint of the potential applications in electronics or optoelectronics the electric properties of the crystals are essential. In turn these properties are related to their crystal structure as well as the dynamics of the molecules in the solid state. The existence of the hydrogen bonds in the crystal structures, conventional and unconventional, is crucial from the viewpoint of the electric properties of the crystals. The dynamics of methyl groups present in the structure can be a measure of the molecular interactions in the crystals. In this work the dynamical properties, first of all taking into account the research results concerning the neutron scattering, will be discussed. The neutron technique is very effective as regards the methyl group dynamics investigations. The relationship between a formation of the conventional and unconventional hydrogen bonds and a tunneling of the methyl groups at low temperature will be discussed. The method of the interpretation of the INS spectra will be described taking into account the theoretical model, the parameters of which are fitted to the experimental data. The examples will regard the following molecular crystals: p-N,N’-1,10-tetraacethyldiaminodurene (TADD) (Figs. 2 and 4), 2,3,5,6-tetramethylpyrazine with chloranilic acid (TMP·CLA) (Figs. 5, 6 and 7), 2,3,5,6- tetramethylpyrazine with bromanilic acid (TMP·BRA) (Figs. 5 and 6) and the crystal of 3,4,7,8-tetramethylphenantroline (Me4phen) and its complex with picric acid (Me4phen·PIC) (Figs. 8 and 9). In this paper we have shown that the surrounding of the methyl group and its interactions with the adjacent molecules has a stronger effect than the changes in the electronic charge density in the molecule.</p>",
+            "authors": "Magdalena Rok, Grażyna Bator, Lucjan Sobczyk",
+            "keywords": [
+                "molecular complexes",
+                "hydrogen bonds",
+                "crystal structure",
+                "neutron scattering",
+                "molecular dynamics in the solid state"
+            ],
+            "ref": "Wiadomości Chemiczne, 2017, 71, 533",
+            "emails": [
+                "grazyna.bator@chem.uni.wroc.pl"
+            ]
+        },
+        {
+            "title": "Association equilibria of alkyl derivatives of urea and thiourea",
+            "institute": "Wydział Chemii Uniwersytetu Wrocławskiego ul. F. Joliot-Curie 14, 50-383 Wrocław",
+            "abstract": "<p>The studies and comparison of a series of molecular mono- and di-substituted derivatives of urea and thiourea in solvents of increasing polarity are presented [1–4]. These substances are characterized by a high tendency to self-associate through the formation of intermolecular hydrogen bonds due to the presence in their structure both groups as donors (NH) as well as proton acceptors (C=O) or (C=S). Studies were performed by using IR spectroscopy, method of measuring the average molecular weight and the dipole moments. The experimental data were verified by DFT quantum chemical calculations with B3PW91 correlation functional. Simultaneous use of these techniques alowed establishing not only the efficiency of aggregation, but also the structure and polarity of formed aggregates. It was shown, that in solvents with weak acidic C-H groups the aggregation was strongly limited because of molecular interactions between solute and solvent.</p><p>The theoretical DFT calculations which included the impact of the environment on the nature of interactions in the complex were carried out [e.g. Scheme 4.1.4]. A combination of geometry optimization in polarizable continuum model (PCM) with the connection of chloroform molecules (1,2-dichloroethane) with urea dimers enabled to obtain the expected theoretical simulation compliance with the experiment.</p><p>The equilibrium constants were calculated on the basis of data obtained in two independent methods of measurement: IR spectroscopy and measurements of average molecular weights. Good agreement of experimental data of both research techniques were found up to concentration of 0.03 mol/dm3 [Fig. 2.5]. The type of associates have been assessed following the dipole moments measured as a function of concentration, and on the results of density-functional theory (DFT) calculations on the structure and energy of particular species. All of the urea derivatives demonstrated an increase in dipole moment with increased concentration, suggesting linear-type aggregation [Fig. 4.1.3]. Contrastingly, the dipole moments of the N,N-dimethylthiourea and mono-N-alkyl-substituted thioureas decreased with concentration and suggest that cyclic dimers or trimers are formed by C=S…(HR)<sub>2</sub>N-C=S interactions [Fig. 4.2.2]. The efficiency of self-aggregation was described by use of two equilibrium constants. The first constant, K<sub>1</sub>, was describing dimer formation and the second constant, K<sub>2</sub>, the subsequent multimer formation. In N,N’-thioureas aggregation was lower than for the related urea compounds [Table 4.1.1 and Table 4.2.1].</p><p>Differences between urea and thiourea derivatives result from the fact that the ureas are stronger bases and, therefore, more active in aggregation.</p>",
+            "authors": "Maria Rospenk, Aleksander Koll, Monika Obrzud",
+            "keywords": [
+                "model of self-association",
+                "dipole moments",
+                "average molecular weight",
+                "FTIR spectra",
+                "DFT calculation",
+                "derivatives of urea and thiourea"
+            ],
+            "ref": "Wiadomości Chemiczne, 2017, 71, 559",
+            "emails": [
+                "maria.rospenk@chem.uni.wroc.pl"
+            ]
+        },
+        {
+            "title": "Betaines as proton-acceptors",
+            "institute": "Wydział Chemii Uniwersytetu im. Adama Mickiewicza ul.Umultowska 89b, 61-614 Poznań",
+            "abstract": "<p>Ammonium alkanoates (ammonioalkanocarboxylates) are zwitterions (or inner salts, or betaines), because they possess formally charged ammonium and carboxylate groups separated by one or more sp3 carbon atoms. The chemistry of betaines has become a subject of particular interest due to their applications in biological research, especially with regard to their important role in aminoacid synthesis as methyl transfer agents. The crystals of many betaine complexes display interesting physical properties, exhibiting phase transitions with ferroelectric, antiferroelctric and ferroelastic behavior. Betaines containing a hydrophobic chain in the range of 8–20 carbon atoms show the unique properties characteristic for amphoteric surfactants and their current industrial application is in toiletries and personal care products.</p><p>The conformational structure of zwitterionic molecules depends on several factors. The electrostatic attraction between two charged groups depends strongly on arm flexibility (energy differences between rotational trans and gauche isomers), bulkiness and hydration of charged groups preventing their close approach, solvent and arm electrical properties which control electrostatic attraction between two opposite charged groups, and polarization of solvent around the molecule caused by the dielectric discontinuity between solvent and solute interior (image charge effect). Electrostatic interaction is the common determinant and probably the most important element in structure-reactivity correlation in organic and biological systems. On the other hand, organic compounds are thought to be pure even though they may be a mixture of conformational isomers. This is because the isomers covert rapidly with each other at room temperature and their individual reactivates are little known. Occasionally the conformers may be stabilized in the crystallographic matrixes of polymorphic structures.</p><p>This article describes structures of seven groups of aliphatic, aromatic and alicyclic betaines and numbers of their new hydrogen-bonded complexes with mineral and organic acids.</p>",
+            "authors": "Zofia Dega-Szafran, Mirosław Szafran",
+            "keywords": [
+                "betaines",
+                "hydrogen-bonded complexes",
+                "molecular structures"
+            ],
+            "ref": "Wiadomości Chemiczne, 2017, 71, 609",
+            "emails": [
+                "degasz@amu.edu.pl"
+            ]
+        },
+        {
+            "title": "Synthesis and biological activity of salinomycin derivatives",
+            "institute": "Pracownia Chemii Bioorganicznej, Wydział Chemii Uniwersytet im. Adama Mickiewicza ul. Umultowska 89b, 61-614 Poznań",
+            "abstract": "<p>Polyether ionophore antibiotics (ionophores) represent a large group of naturally-occurring lipid-soluble compounds isolated from actinomycetes strains of Streptomyces genus. Ionophores are able to form complexes with the metal cations, especially sodium and potassium, and transport them across the lipid membranes according to electroneutral or electrogenic transport mechanism. This process disturbs the intercellular Na<sup>+</sup>/K<sup>+</sup> concentration gradient and intracellular pH, leads to the mitochondrial injuries, cell swelling, vacuolization and finally to programmed cell death (apoptosis). For this reason, ionophore antibiotics found commercial use in veterinary medicine as coccidiostatic agents and non-hormonal growth promoters.</p><p>In addition to the industrial use of ionophores, some of them effectively and selectively inhibit properties of different cancer cells as well as enhance the anti-cancer effects of radio- and/or chemotherapy. In this group, particularly interesting is salinomycin because of its potent anti-microbial and anti-cancer activity, including efficiency against multi-drug resistant cancer cells and cancer stem cells.</p><p>A very interesting direction of research is the chemical modification of ionophore antibiotics, which can lead to obtaining various derivatives with better biological activity and lower toxicity than those of the starting substances. Because biological activity of ionophore antibiotics and their derivatives is strictly connected with the ability to form characteristic pseudocyclic structures around the complexed cations (host-guest complex), it is also important to establish the detailed information on these structures.</p><p>In this context, our review article is focused on the possible role of salinomycin and its derivatives in anti-microbial as well as anti-cancer therapy, and gives an overview of the properties of this antibiotic.</p>",
+            "authors": "Michał Antoszczak, Adam Huczyński, Bogumił Brzezinski",
+            "keywords": [
+                "ionophore antibiotics", "onophores",
+                "molecular structure",
+                "antibacterial activity",
+                "anticancer activity"
+            ],
+            "ref": "Wiadomości Chemiczne, 2017, 71, 629",
+            "emails": [
+                "michant@amu.edu.pl"
             ]
         }
     ]
