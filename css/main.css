@@ -101,7 +101,7 @@ img.baner-all {
 }
 
 .thumbnail .caption.newRR {
-    height: 630px;
+    height: 760px;
 }
 
 a.see-more {
@@ -145,6 +145,9 @@ a.see-more {
     }
     .committee {
     height: 345px;
+    }
+    .thumbnail .caption.newRR {
+        height: 1180px;
     }
 }
 
