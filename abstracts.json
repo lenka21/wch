@@ -12752,6 +12752,73 @@
             "emails": [
                 "michant@amu.edu.pl"
             ]
+        },
+        {
+            "title": "Mof-graphene composites",
+            "institute": "<sup>1</sup>Wojskowa Akademia Techniczna, 00-908 Warszawa  ul. Gen.&nbsp;S.&nbsp;Kaliskiego&nbsp;2<br/><sup>2</sup>Department of Chemistry and Biochemistry, Kent State University, Kent 44-242 OH, USA ",
+            "abstract": "<p>The effective capture of harmful gases and clean energy sources are of great importance for protection of the environment. In this regard, it is possible to take advantage of the MOF-graphene composites to develop new technologies for envi- ronmental and energy-related applications. These composites attract a great atten- tion around the world due to their higher adsorption affinity toward CO<sub>2</sub>, volatile organic compounds (VOCs), H<sub>2</sub> and CH<sub>4</sub> reported in comparison to the parent MOFs. Integration of MOFs with graphene nanosheets can be a very effective stra- tegy not only to improve their adsorption performance but also to generate new chemical and physical properties that are not present in MOFs alone. In this review we present the progress in the field of gas capture/storage using MOF-graphene composites with special attention on the correlation between composition, structure and adsorption properties. </p>",
+            "authors": "<sup>1</sup>Barbara Szcześniak, <sup>1</sup>Jerzy Choma, <sup>2</sup>Mietek Jaroniec",
+            "keywords": [
+                "MOF-graphene composites",
+                "gas adsorption and storage",
+                "CO<sub>2</sub>",
+                "VOCs",
+                "H<sub>2</sub>",
+                "CH<sub>4</sub> adsorbents"
+            ],
+            "ref": "Wiadomości Chemiczne, 2017, 71, ",
+            "emails": [
+                "jerzy.choma@wat.edu.pl"
+            ]
+        },
+        {
+            "title": "Modulating properties of the cell penetrating peptides ",
+            "institute": "Instytut Chemii Organicznej, Politechniki Łódzkiej ul. Żeromskiego 116, 90-924 Łódź",
+            "abstract": "<p>Cell penetrating peptides (CPPs) are short peptides able to efficiently cross cel- lular membrane. The group includes great diversity of sequences and besides capa- bility to enter various types of cells, their characteristic feature is lack of toxicity. CPPs can be divided according to their origin (natural and synthetic) or according to their physicochemical properties responsible for the cellpenetrating ability (catio- nic, amphipathic and hydrophobic). </p><p>Properties of CPPs are closely related to their mechanism of internalisation. Endocytic pathway is probably the dominating mechanism for majority of CPPs, but less common energyindependent internalisation (occurring via inverted micelle, carpet-like, barrel stave pore or toroidal pore model may also play a relevant part in the uptake across membranes. </p><p>CPPs have been applied in transporting various compounds. They are very effective in delivering small molecules (fluorophores, drugs, peptides), macromo- lecules (proteins, nucleic acids) and even nanoparticles (metal nanoparticles, lipo- somes). Conjunction of CPP and cargo can be achieved either covalently (peptide bond, sulphide bridge etc.) or noncovalently (electrostatic or hydrophobic interac- tion, hydrogen bonding). </p><p>Ability to unspecific enter almost any kind of cell and tissue becomes a great problem in the case of in vivo applications. Another disadvantage of CPPs is their low plasma stability. Many strategies have been suggested to overcome these issues. Selectivity can be improved by attaching targeting ligands (e.g. short peptides, anti- bodies, proteins, folic acid or hyaluronic acid) or by incorporating CPPs into macro- molecular drug carriers, which exploit the so called enhanced permeability and retention (EPR) effect. The most recent and most sophisticated way of improving CPPs’ stability and selectivity is the synthesis of activatable cell penetrating peptides (ACPPs). The deactivating moiety may consist of anionic sequence, polymer chain or smaller protecting groups. The deactivating parts are connected to the delivery system via linker that can be cleaved under conditions characteristic for the site of action. ACPPs may be activated by enzymes, pH and oxidative potential change, temperature or radiation. </p><p>CPPs may find application in tumour therapy, diagnostics and the combination of both – theranostics. Despite many successful studies in delivering drugs and tags in vivo and in vitro, CPPs have passed only few clinical trials (some are being run currently). It is sure that this research area will develop in next years. </p>",
+            "authors": "Wojciech Lipiński, Beata Kolesińska",
+            "keywords": [
+                "cell penetrating peptides (CPPs)",
+                "activatable cell penetrating peptides (ACPPs)",
+                "cargo",
+                "transport into the cells",
+                "mechanism of penetration"
+            ],
+            "ref": "Wiadomości Chemiczne, 2017, 71, ",
+            "emails": [
+                "wojtek.p.lipinski@gmail.com"
+            ]
+        },
+        {
+            "title": "Chemical ligation methods in the synthesis of peptides and proteins – part I",
+            "institute": "Katedra Chemii Biomedycznej, Wydział Chemii, Uniwersytet Gdański ul. Wita Stwosza 63, 80-308 Gdański",
+            "abstract": "<p>Proteins are biological macromolecules affecting very important functions in the body. They are involved in many biochemical processes. They can perform cata- lytic functions acting as enzymes. They also participate in the transport of many small molecules and ions – for example one molecule of hemoglobin carries four molecules of oxygen. In addition, proteins serve as antibodies and are involved in transmission of nerve impulses as receptor proteins. Because peptides and proteins perform so important functions, to study them it is essential to obtain these com- pounds in the greatest possible amounts. The compounds can be obtained generally by three main methods: </p><ul><li>by isolation of the native peptides and proteins</li><li>by expression in microorganisms</li><li>by chemical synthesis.</li></ul><p>Each of the above methods has its advantages and disadvantages, but only the chemical synthesis gives the possibility to introduce modifications to the structure of the resulting protein, such as the insertion of new functional groups, to give the product in the final form and with satisfactory yield. </p><p>In this review we present the application of chemical ligation methods in the synthesis of peptides and proteins. We describe in details mechanism of native che- mical ligation method and the conditions necessary to carry the reaction [1]. The synthesis of long polypeptide chains by kinetically controlled ligation (KCL) is also depicted [2]. This part of the paper also details a number of approaches to non- cysteine containing peptides by chemical ligation methods. </p>",
+            "authors": "Magdalena Kropidłowska, Katarzyna Jędrzejewska, Ewa Wieczerzak",
+            "keywords": [
+                "Native chemical ligation",
+                "NCL",
+                "Kinetically controlled ligation",
+                "KCL",
+                "pep- tide synthesis "
+            ],
+            "ref": "Wiadomości Chemiczne, 2017, 71, ",
+            "emails": [
+                "magdalena.kropidlowska@phdstud.ug.edu.pl"
+            ]
+        },
+        {
+            "title": "Chemical ligation methods in the synthesis of peptides and proteins – part II",
+            "institute": "Katedra Chemii Biomedycznej, Wydział Chemii, Uniwersytet Gdański ul. Wita Stwosza 63, 80-308 Gdański",
+            "abstract": "<p>Proteins are synthesized only by living organisms. Today, we are able to receive them by recombinant protein expression in bacterial cells. This technique is very useful and gives satisfactory amount of desirable material but it precludes the possi- bility of introduction of some chemical modifications that are often obligatory. For this reason, chemical synthesis of longer peptide chains is still important and is the object of scientists attention. </p><p>Over the last century, notion of peptide synthesis took a new meaning. Nowa- days, we know a number of innovative methods and also automated devices which help us to make progress in this area. Nevertheless, the synthesis of longer, more complicated peptide chains and proteins still constitutes a problem. Native chemical ligation (NCL) has facilitated the synthesis of numerous complex peptide and pro- tein targets. Expansion of ligation techniques has allowed the entry of peptides into the world of therapeutic drugs [1]. </p><p>NCL reactions are carried out in aqueous solution and give good yields. Due to mild conditions, NCL overcomes racemic and solubility problems encountered in classical peptide synthesis using protected fragments. The challenge is to synthesize the C-terminal thioester-containing peptide necessary for the transesterification reaction, which is the first step of linking the peptide fragments [2]. </p><p>In this review we discuss the evolution, advantages and potential applications of chemical ligation reactions. In the first part of this article we described the uti- lity of native chemical ligation approach to non-cysteine containing peptides. This part details a number of important approaches to the synthesis of peptides bearing a C-terminal thioester. Contemporary applications of these techniques to the total chemical synthesis of proteins are also presented. </p>",
+            "authors": "Katarzyna Jędrzejewska, Magdalena Kropidłowska, Ewa Wieczerzak",
+            "keywords": [
+                "native chemical ligation",
+                "peptide synthesis",
+                "thioester "
+            ],
+            "ref": "Wiadomości Chemiczne, 2017, 71, ",
+            "emails": [
+                "katarzyna.jedrzejewska@phdstud.ug.edu.pl"
+            ]
         }
     ]
 }
