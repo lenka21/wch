@@ -129,7 +129,7 @@ a.see-more {
 
 @media (max-width: 991px) {
     .thumbnail .caption.newRR {
-        height: 850px;
+        height: 1180px;
     }
 }
 
@@ -150,9 +150,6 @@ a.see-more {
     .committee {
     height: 345px;
     }
-    .thumbnail .caption.newRR {
-        height: 1180px;
-    }
 }
 
 @media (max-width: 767px) {
@@ -160,7 +157,7 @@ a.see-more {
         margin-bottom: 32px;
     }
     .thumbnail .caption.newRR {
-        height: auto;
+        height: 800px;
     }
 }
 
@@ -172,7 +169,9 @@ a.see-more {
     .navbar-form {
         margin-left: -15px;
     }
-
+    .thumbnail .caption.newRR {
+        height: auto;
+    }
 }
 
 @media (min-width: 768px) and (max-width: 1200px) {
