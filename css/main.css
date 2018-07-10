@@ -106,7 +106,7 @@ img.baner-all {
 }
 
 .thumbnail .caption.newRR {
-    height: 760px;
+    /*height: 760px;*/
 }
 
 a.see-more {
@@ -120,17 +120,20 @@ a.see-more {
 .logo-tql {
     width: 75%;
 }
+.rip-border {
+    border: 1px solid #161f29;
+}
 
 @media (max-width: 1200px) {
-    .thumbnail .caption.newRR {
-        height: 900px;
-    }
+    /*.thumbnail .caption.newRR {*/
+        /*height: 900px;*/
+    /*}*/
 }
 
 @media (max-width: 991px) {
-    .thumbnail .caption.newRR {
-        height: 1180px;
-    }
+    /*.thumbnail .caption.newRR {*/
+        /*height: 1180px;*/
+    /*}*/
 }
 
 @media (min-width: 768px) {
@@ -156,9 +159,9 @@ a.see-more {
     .container {
         margin-bottom: 32px;
     }
-    .thumbnail .caption.newRR {
-        height: 800px;
-    }
+    /*.thumbnail .caption.newRR {*/
+        /*height: 800px;*/
+    /*}*/
 }
 
 @media (max-width: 378px) {

@@ -12899,5 +12899,73 @@
                 "adriankrzysztofantosik@gmail.com"
             ]
         }
+    ],
+    "year2018": [
+        {
+            "title": "Bioconjugates Of Ionophore Antibiotics – Goals, Synthesis Strategies And Properties",
+            "institute": "Pracownia Chemii Bioorganicznej, Wydział Chemii, Uniwersytet im. Adama Mickiewicza ul. Umultowska 89b, 61‒614 Poznań",
+            "abstract": "<p>Polyether ionophore antibiotics (ionophores) represent a large group of naturally-occurring lipophilic compounds which are able to form complexes with the metal cations and transport them across the lipid membranes. This process disturbs the intercellular Na<sup>+</sup>/K<sup>+</sup> concentration gradient and intracellular pH, and leads to the mitochondrial damages, cell swelling, vacuolization and finally to apoptosis process. For this reason, ionophores are commonly used in veterinary medicine as the non-hormonal growth-promoting as well as coccidiostatic agents. </p><p>In this group particularly interesting are monensin and salinomycin (Fig. 1) because of their proved anti-tumour activity, including efficiency against multidrug-resistant cancer cells and cancer stem cells of different origin. Improved synthetic derivatives of both polyether ionophores are thus of considerable current interest. Selective derivatization of these structures whose display multiple reactive functional groups and, in the case of salinomycin, a sensitive tricyclic spiroketal ring system is however non-trivial. Even so, semi-synthetic analogs reported to date includes i.a. selective derivatization of the carboxyl group, the three hydroxyl groups, the ketone group, the alkene, and epimerization of the characteristic tricyclic salinomycin unit (for more details see: M. Antoszczak, A. Huczyński, B. Brzezinski, Wiad. Chem., 2017, 71, 629). </p><p>On the other hand, as part of the original program to develop innovatory anti-cancer pro-drugs and prompted by the idea that cancer cells may be individually effectively killed by monensin and salinomycin, a very interesting direction of research is bioconjugation of these ionophores. In this context, our review article is focused on the possible role of hybrids of both ionophore antibiotics with other biologically active substances (natural amino acids, Cinchona alkaloids, flavonoids, nucleosides) in anti-bacterial and anti-cancer treatment, and gives an overview of their properties.</p>",
+            "authors": "Michał Antoszczak, Marta Kordylas, Adam Huczyński",
+            "keywords": [
+                "ionophore antibiotics",
+                "ionophores",
+                "bioconjugation",
+                "hybrids",
+                "antibacterial activity",
+                "anticancer activity"
+            ],
+            "ref": "Wiadomości Chemiczne, 2018, 72, 1",
+            "emails": [
+                "michant@amu.edu.pl"
+            ]
+        },
+        {
+            "title": "Classification Of Water-soluble Adhesives According To Origin",
+            "institute": "",
+            "abstract": "<p>elf-adhesive adhesives have been known since 1935. Since then, many categories of their division have been distinguished, depending on their origin, state of aggregation, operating conditions, obtaining, chemical base or binding mechanism, as well as many other properties. The main is their application in natural and synthetic adhesives, that is due to the origin of the high molecular weight compounds used for their production. The following work describes the types of water-soluble natural and synthetic adhesives. In recent centuries, there has been a decline in the use of natural polymers for the synthesis of water-soluble pressure sensitive adhesives. This is due to the spread of cheaper products from petrochemical resources, but also better properties that they characterize. For their polymerization, synthetic monomers which hydrophilic groups (hydroxyl, amide or carboxyl) are used. These groups, in the further reaction stage, after polymerisation, give the possibility of cross-linking of the pressure-sensitive adhesive.</p><p>Polyacrylate based adhesives are among the most commonly used adhesives. It is forecasted that the demand for such adhesives will increase on average by 2.9% per annum. Dispersive, water-soluble, self-adhesive adhesives and those in which the solvent is water also play an increasingly important role. This happens as a result of legal requirements, but also greater public awareness of ecology.</p>",
+            "authors": "Karolina Mozelewska, Zbigniew Czech",
+            "keywords": [
+                "pressure-sensitive adhesives",
+                "natural and synthetic adhesives",
+                "water-soluble adhesives"
+            ],
+            "ref": "Wiadomości Chemiczne, 2018, 72, 30",
+            "emails": [
+                "karolina_mozelewska@zut.edu.pl"
+            ]
+        },
+        {
+            "title": "Free Flow Electrophoresis – Theory And Technology",
+            "institute": "Zakład Chemii Fizycznej, Katedra Chemii, Uniwersytet Medyczny w Lublinie ul. Chodźki 4A, 20-093 Lublin",
+            "abstract": "<p>Free flow electrophoresis, or carrier-free electrophoresis, is a technique based upon the principle of mobility of chargeable species in the electric field. However, unlike more widespread gel electrophoresis, free flow electrophoresis does not utilise any kind of solid support medium. Instead, species to be separated move within the space filled with aqueous buffer, which is constantly pumped in the direction perpendicular to the direction of the applied electric field. Such set-up allows for continuous separation, as compounds of the sample being processed form separate bands and leave the separation system through several different outlets located along the edge of the chamber. Furthermore, the use of mild separation conditions increases the chance of biologically active compounds retaining their activity after the separation is finished. These qualities make free flow electrophoresis an excellent tool for protein research and cytology.</p><p>In this review, the basic theoretical aspects of the technique are outlined, with a special emphasis placed on various modes in which free flow electrophoresis can be operated. Besides, a review of milestone papers related to free flow electrophoresis technology is presented. Apart from the devices following the original concept of Barrollier and Hannig, an insight into the construction of recirculating instrumentation, multicompartment electrolysers as well as radially-symmetric chambers is provided. A special focus is placed on patents and commercialized solutions. Finally, the challenges of scaling-down free flow electrophoresis to micro-dimensions are introduced.</p>",
+            "authors": "Piotr Hoda, Beata Polak, Tadeusz H. Dzido",
+            "keywords": [
+                "free flow electrophoresis",
+                "electromigration techniques",
+                "pseudo-two dimensional separation",
+                "preparative separation",
+                "micro free flow electrophoresis"
+            ],
+            "ref": "Wiadomości Chemiczne, 2018, 72, 40",
+            "emails": [
+                "piotr.hoda@gmail.com"
+            ]
+        },
+        {
+            "title": "Blood Stains On The Shroud Of Turin: Materials Science Analysis From Micro To Nanoscale",
+            "institute": "<p>Modern experimental methods of materials science including optical and electron microscopy (SEM, ESEM, HRTEM), X-ray spectroscopy (EDX, WAXS), Raman and FTIR spectroscopy used in investigations of structures of new materials can be also successfully applied for analysis of archeological, cultural heritage and art objects. An interesting example of such analyses are investigations of microscopic fibers and particles taken previously from areas attributed to the blood on the Shroud of Turin. Detailed analyses performed by a number of research groups published in 2015–2017 are reviewed. They confirmed previous hypothesis on blood authenticity and discovered new evidences indicated a violence hidden behind the death. In particular, the presence of old red blood cells was documented by Lucotte [20], of bile pigment biliverdin by Laude and Fanti [28], of iron oxide cores of ferritin bounded to nanoparticles of creatinine by Carlino et al. [31]. The last result is typical for patients with severe polytrauma indicating at the unexpected nonoscopic level a tremendous suffering of the victim wrapped in the Shroud of Turin. Bigger particles of mineral pigments: ochre (iron oxide) and vermillion (mercury sulfide) were also found but they can be easily distinguished form blood particles using environmental electron microscopy ESEM with the back-scattered electrons detector [24]. The statistical analysis of a sample composition made by Fanti and Zagotto [24] indicated that 90–95% of the observed volume corresponds to the blood and only remainder represents inorganic pigments. Thus, it was proposed [24] that the original human blood on Shroud stains was much later reinforced by red pigments using a color dust without any binder and this hypothesis can easily explain controversies between previous results of different researches. </p>",
+            "abstract": "Wydział Chemii, Uniwersytet Warszawski ul. Pasteura 1, 02-093 Warszawa",
+            "authors": "Jan S. Jaworski",
+            "keywords": [
+                "Shroud of Turin",
+                "materials science",
+                "electron microscopy",
+                "creatinine"
+            ],
+            "ref": "Wiadomości Chemiczne, 2018, 72, 61",
+            "emails": [
+                "jaworski@chem.uw.edu.pl"
+            ]
+        }
     ]
 }
