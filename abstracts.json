@@ -13343,6 +13343,107 @@
             "emails": [
                 "alicja.kluczyk@chem.uni.wroc.pl"
             ]
+        },
+        {
+            "title": "Metal-organic frameworks as multifunctional materials of the future – mechanochemical approach to synthesis",
+            "institute": "Wydział Chemii Uniwersytetu Jagiellońskiego w Krakowie ul. Gronostajowa 2, 30-387 Kraków",
+            "abstract": "<p>Metal-organic frameworks (MOFs) are a relatively new class of advanced inorganic-organic materials. Due to their modular structures and possible incorporation of various properties, that materials find more and more applications in many fields of science and industry. MOFs are coordination polymers, i.e. compounds with coordination bonds propagating infinitely in at least one dimension. Their characteristic feature is the presence of potential free spaces, i.e. pores. The free spaces often appear after proper activation, e.g. thermal activation. Other common properties of MOFs include for instance large specific surface areas and pore volumes, modifiable size and chemical environment of the pores, and network flexibility. All these properties result in the use of MOFs in e.g. selective sorption, separation or storage of gases, heterogeneous catalysis, design and fabrication of sensors, etc.</p><p>During more than twenty years of the history of MOFs, many methods of their synthesis have been developed, including the most popular in solution at elevated temperatures (e.g. solvothermal method). Nevertheless, the activity of pro-ecological environments and the requirements set by international organizations encourage scientists to create new methods of synthesis, which, according to the guidelines presented by the 12 principles of green chemistry, will be safer, less aggressive, less toxic and less energy-consuming. One of the answers to meet these requirements is the use of mechanosynthesis. Mechanochemical synthesis relies on the supply of energy to a system by mechanical force, by grinding or milling. By combining or transforming solids in this way, the presence of a solvent, which is most often the main source of contamination and waste, can be minimised or completely excluded.</p><p>Mechanical force is typically used for purposes other than MOF synthesis, e. g. catalyst grinding. Nevertheless, the use of mechanical force in synthesis is becoming more and more popular. The most important advantages of this approach, apart from its environmental impact, are very high efficiency (usually close to 100%) and drastically reduced reaction time. Of course, there are examples where these advantages are not observed. In such cases, mechanosynthetic modifications are introduced, such as e.g. addition of small amount of liquid (Liquid-Assisted Grinding) and/or a small addition of simple inorganic salt (Ion- and Liquid-Assisted Grinding). Furthermore, new instrument setups are being developed to monitor reaction mixtures in situ during mechanosynthesis, e.g. by use of such techniques as powder X-ray diffraction and Raman spectroscopy. This enables valuable insights into mechanisms and allows for mechanosynthesis optimization.</p>",
+            "authors": "Damian Jędrzejowski",
+            "keywords": [
+                "metal-organic framework",
+                "mechanochemistry",
+                "mechanosynthesis",
+                "coordination polymer",
+                "coordination chemistry",
+                "porous materials",
+                "multifunctional materials"
+            ],
+            "ref": "Wiadomości Chemiczne, 2018, 72, ",
+            "emails": [
+                "dj.jedrzejowski@student.uj.edu.pl"
+            ]
+        },
+        {
+            "title": "METHODS FOR THE DETERMINATION OF FOOD DYES ",
+            "institute": "Katedra Analizy i Oceny Jakości Żywności, Wydział Nauk o Żywności i Biotechnologii, Uniwersytet  Przyrodniczy w Lublinie ul. Skromna 8, 20-704 Lublin",
+            "abstract": "<p>Food dyes are chemical substances that were developed to enhance the appearance of food by giving it artificial color. People have added colorings to food for centuries, but the first artificial food colorings were created in 1856 from coal tar. Over the years, hundreds of artificial food dyes have been developed, but a majority of them have since been found to be toxic. There is only a handful of artificial dyes that are still used in food. Food manufacturers often prefer artificial food dyes over natural food colorings, such as beta carotene and beet extract, because they produce a more vibrant color [1]. However, there is quite a bit of controversy regarding the safety of artificial food dyes. All of the artificial dyes that are currently used in food have gone through testing for toxicity in animal studies. Regulatory agencies, like the US Food and Drug Administration (FDA) and the European Food Safety Authority (EFSA), have concluded that the dyes do not pose significant health risks. Not everyone agrees with that conclusion. Interestingly, some food dyes are deemed safe in one country, but banned from human consumption in another, making it extremely confusing to assess their safety [2]. Undesirable effects of azo dyes used for coloring food products led to the development of very sensitive and selective analytical methods successfully used for their determination in various food matrices. Many different methods have been employed for the determination of synthetic dyes in food and beverages including thin layer chromatography and capillary electrophoresis [3]. However, these methods can be time consuming and may not be applicable for the simultaneous analysis of many dyes. Conventional HPLC methods have been employed for the analysis of synthetic colorants and while useful, these methods require long analysis times and large amounts of expensive solvents [4, 5].</p><p>Preparation of the test sample involves the use of various techniques such as membrane filtration due to the complexity of food products. Therefore, the development of simple, selective extraction methods together with the combination of chromatographic and spectrophotometric techniques are of great importance [6].</p><p>One of the most difficult stages of the analysis is the appropriate selection of the method for the determination of food colors. In the case of spectrophotometric methods, the main advantage is the low cost of the determination, however, the lack of specificity of the absorption spectrum usually makes it difficult to apply this method in the case of a mixture of different absorbing dyes due to the overlap of the spectra. The CE (Capillary Electrophoresis) analysis is faster and more economical compared to conventional electrophoresis and chromatography. The production of cheap capillaries and the development of on-line detection systems contributed to the development of modern capillary electrophoresis. Capillary electrophoresis has a number of types of separation. Ultimately, it is impossible to determine the one particular appropriate specific method for the determination of food dyes due to their diverse structure and chemical composition [4, 7].</p>",
+            "authors": "Klaudia Kałwa, Artur Mazurek",
+            "keywords": [
+                "food dyes",
+                "HPLC",
+                "spectrophotometry",
+                "TLC",
+                "capillary electrophoresis"
+            ],
+            "ref": "Wiadomości Chemiczne, 2018, 72, ",
+            "emails": [
+                "klaudia.kalwa91@gmail.com"
+            ]
+        },
+        {
+            "title": "Chemically bonded stationary phases with incorporated polar groups for liquid chromatography – the synthesis and surface properties",
+            "institute": "Katedra Chemii Środowiska i Bioanalityki, Wydział Chemii Uniwersytet Mikołaja Kopernika w Toruniu ul. Gagarina 7, 87-100 Toruń",
+            "abstract": "<p>In recent years high performance liquid chromatography (HPLC) has gained a dominant position in the life sciences. The widespread use of this technique allows to perform an analysis of compounds which are used in various areas of human life. Currently, there are wide and fully untapped opportunities for synthesis of chromatographic packings with chemically bonded stationary phases. </p><p>Some of the liquid chromatographic analyses needs the application of water-rich mobile phases (more than 85% water or a buffer). In such condition the performance of hydrophobic stationary phases indicate that the bonded ligands might be collapsing. This problem could be solved by increasing of organic content in the mobile phase which should improve solvation and bring bonded ligands back to the original conformation. To avoid this procedure, which reduces the retention and selectivity of the separation, it is possible to apply stationary phases with incorporated polar groups mixed with the original alkyl ligands (polar embedded stationary phases). Another possibility is to add some polar groups during endcapping procedure (polar end-capped stationary phases). This produces variation in the bonding.</p><p>Chemically bonded stationary phases which include both hydrophobic and hydrophilic ligands are so-called mixed mode stationary pahses. These materials can be used in reversed phase liquid chromatography (RPLC) and there is also a possibility to use them in hydrophilic interaction liquid chromatography (HILIC). They allow to separate polar and non-polar analytes. </p><p>Following the idea of green chemistry, especially green analytical chemistry, a series of stationary phases was synthesized. The obtained materials connect polar and hydrophobic groups in the structure of bonded ligands. These specific surface properties provide the stability of the stationary phase in pure water as a mobile phase. Surface properties of novel material were analyzed using various instrumental and chromatographic methods. Finaly, the mixtures of various compounds were applied to test the separation selectivity of stationary phases in various chromatographic system, including purely aqueous conditions. </p>",
+            "authors": "Szymon Bocian, Katarzyna Krzemińska",
+            "keywords": [
+                "liquid chromatography",
+                "stationary phases",
+                "polar embedded stationary phases",
+                "description of surface properties",
+                "solvation processes"
+            ],
+            "ref": "Wiadomości Chemiczne, 2018, 72, ",
+            "emails": []
+        },
+        {
+            "title": "BIOORTHOGONAL CHEMISTRY – NEW PERSPECTIVE FOR ORGANIC CHEMISTRY",
+            "institute": "Wydział Chemii Uniwersytetu Jagiellońskiego w Krakowie ul. Gronostajowa 2, 30-387 Kraków",
+            "abstract": "<p>This work is about bioorthogonal chemistry as a chemistry of reactions taking place in the living, in particular human, organism environment. In the search for reactions that can occur under conditions, the focus is mainly on the reactions of molecules that do not occur naturally in the body. Then, to have any application, generally for the purpose of using this reactions to locate the accumulation spotes of the selected substance, one molekule is covalently bonded to the biomarker molecule, the second binds to the indicator molecule, which is frequently fluorescein.</p><p>Among a numerous examples of reactions that were designed during the short history of bioorthogonal chemistry, there are mainly reactions involving organic azides, which are not naturalny present in the human body. An example of such a reaction is the Staudinger ligation. Subsequent modifications include mainly the 1,3-dipolar addition of azides to alkynes, catalyzed by copper(I) ions. The instability and toxicity of this catalyst has forced further innovations in bioorthogonal reactions. One of them is the use of alkynes with high angular stress, which causes a significant reduction in the activation energy of the process, that it is unnecessary to use a catalyst. Another example of the bioorthogonal reactions are Diels-Alder reactions. The interest in these reactions is not diminishing for several reasons. One of them is the fact that as a result of a simple reaction two new carbon-carbon bonds (or others, for the HDA reaction) occur. Furthermore, many of these reactions occur at standard temperature, without additional heating. Moreover, the possibility of numerous modifications of the skeleton and functional groups and the substituents of dienes and dienophils facilitates carrying out these reactions in the aquatic environment. At the end, the article presents examples of the application of cyclooaddition reactions in bioorthogonal chemistry.</p>",
+            "authors": "Katarzyna Miszczak",
+            "keywords": [
+                "bioorthogonal chemistry",
+                "bioorthogonal ligation",
+                "Staudinger ligation",
+                "1,3-dipolar cycloaddition",
+                "Diels-Alder reactions"
+            ],
+            "ref": "Wiadomości Chemiczne, 2018, 72, ",
+            "emails": [
+                "katarzyna.edyta.miszczak@student.uj.edu.pl"
+            ]
+        },
+        {
+            "title": "NOVICHOK AGENTS AND A SUBSTANCES",
+            "institute": "Wojskowa Akademia Techniczna, 00-908 Warszawa ul. W. Urbanowicza 2",
+            "abstract": "<p>When we hear the slogan ‘chemical weapons’, we are usually reminded of a photograph of marching geese, like the blind Ententa soldiers who were darkened after the Ypres chemical attack in Breugel’s painting. After the end of World War I, the unconventional arms race began and it was not certain that it had ended with the collapse of the Union of Soviet Socialist Republics (USSR) and the subsequent signing of the Chemical Weapons Convention (CWC) in 1993. Today, we know that Russia’s introduction of the CWC into its legal system has in no way disrupted the development of a new, fourth generation of chemical warfare agents (FGA or NTA - Non-Traditional Agents), culminating in the development of Group A substances, the popular media substances known as Novichok. The range of confirmed and openly available data is not large and the rest of the information is a compilation of various, sometimes contradictory, information. The article is an attempt to organize an open resource of knowledge and bring Novichok closer to a wider audience.</p>",
+            "authors": "Marcin Kloske",
+            "keywords": [
+                "Novichok",
+                "A-class chemical warfare agents",
+                "chemical warfare",
+                "organophosphorus chemical warfare agents"
+            ],
+            "ref": "Wiadomości Chemiczne, 2018, 72, ",
+            "emails": [
+                "mkloske@gmail.com"
+            ]
+        },
+        {
+            "title": "BIOLOGICAL ACTIVITY OF MODIFIED NUCLEOSIDES. PART III",
+            "institute": "Instytut Chemii Bioorganicznej Polskiej Akademii Nauk w Poznaniu ul. Z. Noskowskiego 12/14, 61-704 Poznań",
+            "abstract": "<p>Part III of the review devoted to biological activities of nucleoside derivatives presents a further description of analogues modified in the sugar residue with particular focus on those with altered configuration in the 2’ or 3’ position, e.g. cytarabine – an old anticancer chemotherapy agent used to treat acute myeloid leukemia, acute lymphoblastic leukemia, and non-Hodgkin’s lymphomas; fludarabine – derivative of vidarabine used as a drug in the treatment of chronic lymphocytic leukemia, and non-Hodgkin lymphomas; clofarabine – approved by the FDA in 2004, a new-generation second-line drug for recurrent acute myeloid leukemia; and fialuridine – examined as a potential therapeutic for the treatment of HBV infection, however, clinical trials ended tragically. In the last section of the review derivatives with other modifications in the sugar moiety are described – carbocyclic and acyclic analogues, l-nucleosides and 5’-modified nucleosides. Among others, very important modified nucleosides are listed e.g. acyclovir, ganciclovir, DHPA, tenofovir, cyclopentenyl­cytosine, entecavir, carbovir, abacavir, lamivudine, telbivudine and sinefungin VA. All parts together make a possibly complete and concise review, including the latest reports, the most important groups of modified nucleosides, and should be con­si­dered as a whole. In the context of the activities description, there are references to the important molecular targets, mechanisms of action, pharmacodynamics, pharmacokinetics, toxicity, resistance, in vitro and in vivo tests or prodrug strategies, which can be a starting point for further study for chemists interested in medicinal chemistry.</p>",
+            "authors": "Maurycy Szlenkier",
+            "keywords": [
+                "modified nucleosides",
+                "biological activity",
+                "molecular targets",
+                "mechanism of action"
+            ],
+            "ref": "Wiadomości Chemiczne, 2018, 72, ",
+            "emails": [
+                "mszlenk@ibch.poznan.pl",
+                "maurycy.szlenkier@gmail.com"
+            ]
         }
     ]
 }
